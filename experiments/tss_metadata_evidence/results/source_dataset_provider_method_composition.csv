@@ -1,0 +1,85 @@
+population,Dataset_ID,Organization_ID,TSS_method,canonical_group_count,site_count,raw_record_count,tss_min,tss_median,tss_max,tss_unit,tss_missing_count
+auxiliary_groups,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,87,37,88,0.67,5.33,25.5,g m-3,0
+auxiliary_groups,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,76,12,76,0.907,4.5,175.0,g m-3,0
+auxiliary_groups,BarbosaCCF_BR_LabISA-INPE,LabISA-INPE,LabISA-INPE TSS,20,2,20,4.0,8.055,43.5,g m-3,0
+auxiliary_groups,DekkerAG_NL_VU,VU,VU TSS,20,16,20,1.0,16.5,45.0,g m-3,0
+auxiliary_groups,FicekD_PL_APSL,APSL,APSL TSS,75,8,80,0.86,3.8,128.6,g m-3,0
+auxiliary_groups,FichotCG_US_BU_PIE,<missing>,BU_PIE TSS,23,1,23,1.02,7.651,21.71,g m-3,0
+auxiliary_groups,GegeP_DE_DLR-IMF,DLR-IMF,ISO 11923:1997,20,1,20,1.1808,1.66268,6.29599999999999,g m-3,0
+auxiliary_groups,GiardinoC_IT_CNR-IREA,CNR-IREA,ISO 11923:1997,60,5,69,0.76923076923077,2.75,23.5,g m-3,0
+auxiliary_groups,GitelsonAA_US_UNL,UNL,APHA 2540 D,164,13,164,1.19,6.62,88.0,g m-3,0
+auxiliary_groups,GrebSR_US_WDNR,WDNR,APHA 2540 D,216,35,216,0.444,5.12,123.0,g m-3,0
+auxiliary_groups,HigaH_JP_YNU,YNU,APHA 2540 D,62,1,62,2.99,7.295,26.29,g m-3,0
+auxiliary_groups,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,497,9,568,0.211,10.98,1945.3405,g m-3,0
+auxiliary_groups,KravitzJ_ZA_UCT,UCT,APHA 2540 D,28,4,28,0.8,7.8,84.0,g m-3,0
+auxiliary_groups,LehmannMK_NZ_UOW_NZ_CST,UOW,APHA 2540 D,65,1,65,1.529636711,16.2835249042146,77.91706847,g m-3,0
+auxiliary_groups,LehmannMK_NZ_UOW_NZ_LK,UOW,APHA 2540 D,169,85,170,0.1,2.2,134.94,g m-3,0
+auxiliary_groups,MatsushitaB_JP_Tsukuba,Tsukuba,APHA 2540 D,26,5,26,0.765,1.2633333334999999,9.611111111,g m-3,0
+auxiliary_groups,MatthewsM_ZA_UCT,UCT,APHA 2540 D,31,3,62,1.49,10.0,2533.3,g m-3,0
+auxiliary_groups,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,107,4,109,11.85,28.5,168.0,g m-3,0
+auxiliary_groups,OlmansonLG_US_UMN,UMN,UMN TSS,7,7,7,5.936666667,9.048,65.048,g m-3,0
+auxiliary_groups,OndrusekM_US_NOAA-STAR_KR_CST,NOAA-STAR,NASA TM 2003-211621,48,1,53,0.260357143,4.472142857,110.2357143,g m-3,0
+auxiliary_groups,Ruiz-VerduA_ES_UVEG-CEDEX,UVEG-CEDEX,APHA 2540 D,30,6,30,0.7,3.295,78.82,g m-3,0
+auxiliary_groups,SchallesJ_US_Creighton,Creighton,Creighton TSS,60,6,60,0.158,14.7046311475412,726.3,g m-3,0
+auxiliary_groups,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,336,76,348,0.650000000000039,17.0854365079365,295.465727502103,g m-3,0
+auxiliary_groups,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,193,18,202,0.237661715380954,2.73233082706767,97.4475162625668,g m-3,0
+auxiliary_groups,SiswantoE_JP_JAMSTEC,JAMSTEC,APHA 2540 D,51,1,51,0.249999999999998,0.974999999999999,6.4,g m-3,0
+auxiliary_groups,SpyrakosE_GB_STIR,STIR,APHA 2540 D,28,7,28,0.407,1.2062499999999998,6.034,g m-3,0
+auxiliary_groups,WernandMR_NL_NIOZ_CST,NIOZ,NIOZ TSS,12,1,22,6.56875,9.201525,27.87975,g m-3,0
+auxiliary_groups,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,14,14,14,1.24250000000004,10.710000000000214,23.9333333333332,g m-3,0
+auxiliary_groups,WertherM_GB_STIR,STIR,APHA 2540 D,12,4,12,0.45,1.3650000000000002,4.32,g m-3,0
+eligible_target_groups,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,74,1,74,0.75,7.67,26.0,g m-3,0
+eligible_target_groups,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,39,1,39,1.333,3.6,24.917,g m-3,0
+eligible_target_groups,BarbosaCCF_BR_LabISA-INPE,LabISA-INPE,LabISA-INPE TSS,28,1,28,0.8,5.7,97.5,g m-3,0
+eligible_target_groups,BindingC_CA_ECCC,ECCC,ECCC TSS,94,2,94,0.6,5.735,59.756,g m-3,0
+eligible_target_groups,DiVittorioC_US_WFU,WFU,APHA 2540 D,86,1,86,1.0,10.0,98.0,g m-3,0
+eligible_target_groups,FicekD_PL_APSL,APSL,APSL TSS,118,5,120,0.8,3.731,77.3,g m-3,0
+eligible_target_groups,GiardinoC_IT_CNR-IREA,CNR-IREA,ISO 11923:1997,68,2,78,0.1,2.02,50.0,g m-3,0
+eligible_target_groups,GitelsonAA_US_UNL,UNL,APHA 2540 D,40,1,40,11.3,20.45,50.4,g m-3,0
+eligible_target_groups,LiL_US_IUPUI,IUPUI,IUPUI TSS,187,3,188,5.166666667,12.0,81.16666667,g m-3,0
+eligible_target_groups,MaR_CN_NIGLAS,NIGLAS,APHA 2540 D,221,3,236,1.56666666666668,37.36,246.0,g m-3,0
+eligible_target_groups,MatsushitaB_JP_Tsukuba,Tsukuba,APHA 2540 D,209,3,209,3.541666667,19.33333333,184.0,g m-3,0
+eligible_target_groups,MooreT_US_UNH,UNH,APHA 2540 D,30,1,30,1.8333,6.99165,57.80864198,g m-3,0
+eligible_target_groups,O'DonnellDM_US_UFI,UFI,APHA 2540 D,9,1,9,1.8,4.7,7.1,g m-3,0
+eligible_target_groups,OppeltN_DE_CAU_Kiel,CAU_Kiel,DIN 38409-2:1987-03,26,1,26,0.4,1.85,6.1,g m-3,0
+eligible_target_groups,SalemSI_JP_KUAS,KUAS,APHA 2540 D,68,1,68,9.4,18.25,57.1,g m-3,0
+eligible_target_groups,SpyrakosE_GB_STIR,STIR,APHA 2540 D,20,1,20,0.283,0.976,4.0,g m-3,0
+eligible_target_groups,VanderWoudeA_US_NOAA-GLERL,NOAA-GLERL,APHA 2540 D,438,1,462,0.449999999999993,10.72666666666665,145.8,g m-3,0
+full_canonical_archive,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,161,38,162,0.67,6.75,26.0,g m-3,0
+full_canonical_archive,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,115,13,115,0.907,4.133,175.0,g m-3,0
+full_canonical_archive,BarbosaCCF_BR_LabISA-INPE,LabISA-INPE,LabISA-INPE TSS,48,3,48,0.8,6.52,97.5,g m-3,0
+full_canonical_archive,BindingC_CA_ECCC,ECCC,ECCC TSS,94,2,94,0.6,5.735,59.756,g m-3,0
+full_canonical_archive,DekkerAG_NL_VU,VU,VU TSS,20,16,20,1.0,16.5,45.0,g m-3,0
+full_canonical_archive,DiVittorioC_US_WFU,WFU,APHA 2540 D,86,1,86,1.0,10.0,98.0,g m-3,0
+full_canonical_archive,FicekD_PL_APSL,APSL,APSL TSS,193,13,200,0.8,3.8,128.6,g m-3,0
+full_canonical_archive,FichotCG_US_BU_PIE,<missing>,BU_PIE TSS,23,1,23,1.02,7.651,21.71,g m-3,0
+full_canonical_archive,GegeP_DE_DLR-IMF,DLR-IMF,ISO 11923:1997,20,1,20,1.1808,1.66268,6.29599999999999,g m-3,0
+full_canonical_archive,GiardinoC_IT_CNR-IREA,CNR-IREA,ISO 11923:1997,128,7,147,0.1,2.7,50.0,g m-3,0
+full_canonical_archive,GitelsonAA_US_UNL,UNL,APHA 2540 D,204,14,204,1.19,7.715,88.0,g m-3,0
+full_canonical_archive,GrebSR_US_WDNR,WDNR,APHA 2540 D,216,35,216,0.444,5.12,123.0,g m-3,0
+full_canonical_archive,HigaH_JP_YNU,YNU,APHA 2540 D,62,1,62,2.99,7.295,26.29,g m-3,0
+full_canonical_archive,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,497,9,568,0.211,10.98,1945.3405,g m-3,0
+full_canonical_archive,KravitzJ_ZA_UCT,UCT,APHA 2540 D,28,4,28,0.8,7.8,84.0,g m-3,0
+full_canonical_archive,LehmannMK_NZ_UOW_NZ_CST,UOW,APHA 2540 D,65,1,65,1.529636711,16.2835249042146,77.91706847,g m-3,0
+full_canonical_archive,LehmannMK_NZ_UOW_NZ_LK,UOW,APHA 2540 D,169,85,170,0.1,2.2,134.94,g m-3,0
+full_canonical_archive,LiL_US_IUPUI,IUPUI,IUPUI TSS,187,3,188,5.166666667,12.0,81.16666667,g m-3,0
+full_canonical_archive,MaR_CN_NIGLAS,NIGLAS,APHA 2540 D,221,3,236,1.56666666666668,37.36,246.0,g m-3,0
+full_canonical_archive,MatsushitaB_JP_Tsukuba,Tsukuba,APHA 2540 D,235,8,235,0.765,18.5,184.0,g m-3,0
+full_canonical_archive,MatthewsM_ZA_UCT,UCT,APHA 2540 D,31,3,62,1.49,10.0,2533.3,g m-3,0
+full_canonical_archive,MooreT_US_UNH,UNH,APHA 2540 D,30,1,30,1.8333,6.99165,57.80864198,g m-3,0
+full_canonical_archive,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,107,4,109,11.85,28.5,168.0,g m-3,0
+full_canonical_archive,O'DonnellDM_US_UFI,UFI,APHA 2540 D,9,1,9,1.8,4.7,7.1,g m-3,0
+full_canonical_archive,OlmansonLG_US_UMN,UMN,UMN TSS,7,7,7,5.936666667,9.048,65.048,g m-3,0
+full_canonical_archive,OndrusekM_US_NOAA-STAR_KR_CST,NOAA-STAR,NASA TM 2003-211621,48,1,53,0.260357143,4.472142857,110.2357143,g m-3,0
+full_canonical_archive,OppeltN_DE_CAU_Kiel,CAU_Kiel,DIN 38409-2:1987-03,26,1,26,0.4,1.85,6.1,g m-3,0
+full_canonical_archive,Ruiz-VerduA_ES_UVEG-CEDEX,UVEG-CEDEX,APHA 2540 D,30,6,30,0.7,3.295,78.82,g m-3,0
+full_canonical_archive,SalemSI_JP_KUAS,KUAS,APHA 2540 D,68,1,68,9.4,18.25,57.1,g m-3,0
+full_canonical_archive,SchallesJ_US_Creighton,Creighton,Creighton TSS,60,6,60,0.158,14.7046311475412,726.3,g m-3,0
+full_canonical_archive,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,336,76,348,0.650000000000039,17.0854365079365,295.465727502103,g m-3,0
+full_canonical_archive,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,193,18,202,0.237661715380954,2.73233082706767,97.4475162625668,g m-3,0
+full_canonical_archive,SiswantoE_JP_JAMSTEC,JAMSTEC,APHA 2540 D,51,1,51,0.249999999999998,0.974999999999999,6.4,g m-3,0
+full_canonical_archive,SpyrakosE_GB_STIR,STIR,APHA 2540 D,48,8,48,0.283,1.07,6.034,g m-3,0
+full_canonical_archive,VanderWoudeA_US_NOAA-GLERL,NOAA-GLERL,APHA 2540 D,438,1,462,0.449999999999993,10.72666666666665,145.8,g m-3,0
+full_canonical_archive,WernandMR_NL_NIOZ_CST,NIOZ,NIOZ TSS,12,1,22,6.56875,9.201525,27.87975,g m-3,0
+full_canonical_archive,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,14,14,14,1.24250000000004,10.710000000000214,23.9333333333332,g m-3,0
+full_canonical_archive,WertherM_GB_STIR,STIR,APHA 2540 D,12,4,12,0.45,1.3650000000000002,4.32,g m-3,0

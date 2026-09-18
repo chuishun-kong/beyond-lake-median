@@ -1,0 +1,5 @@
+k,n_lake_learner_rep_units_total,n_usable_units,frac_usable,n_lake_learner_units_50plus_repeats,query_size_median,query_size_min,query_size_max,restricted_pool_note
+1,7200,7200,1.0,72,35.0,17,522,full pool
+3,7200,7200,1.0,72,29.0,10,517,full pool
+5,7200,7200,1.0,72,24.0,5,511,full pool
+10,7200,5434,0.7547,54,14.0,0,494,restricted-pool sensitivity (attrition > 0)

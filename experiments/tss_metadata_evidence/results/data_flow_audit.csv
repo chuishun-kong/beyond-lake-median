@@ -1,0 +1,15 @@
+stage,count,definition
+raw_gloria_rows,7572,all rows in GLORIA_meta_and_lab.csv
+tss_nonmissing_rows,4623,TSS not missing
+rrs_join_rows,4623,TSS-labelled rows with GLORIA_ID in Rrs table
+complete_400_750_rows,4500,Rrs_400 through Rrs_750 complete
+canonical_groups,4292,site/country/day/3-decimal-coordinate median groups
+unique_site_names,398,canonical archive Site_name
+datasets,36,canonical archive Dataset_ID
+nonmissing_providers,32,canonical archive nonmissing Organization_ID
+provider_labels_including_missing,33,canonical archive Organization_ID with <missing> retained as a label
+tss_methods,14,canonical archive TSS_method
+pre_campaign_candidate_targets,26,rows in frozen eligible_tasks.csv
+eligible_targets,24,all_eligibility_criteria_pass == True
+eligible_target_groups,1755,canonical groups at 24 eligible Site_name values
+auxiliary_groups,2537,canonical groups outside the 24 eligible Site_name values

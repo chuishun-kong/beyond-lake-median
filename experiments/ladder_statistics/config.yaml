@@ -1,0 +1,37 @@
+# Matched-control statistics; descriptive settings used by the runner.
+# The runner defines its constants directly and does not load this YAML.
+entry_id: ladder_statistics
+created: 2026-09-05
+protocol_version: "0.2"
+
+purpose: >
+  Paired loss contrasts on the same-support M0-M4 calibration ladder at k=5,
+  using existing episode-level results without model fitting.
+
+inputs:
+  ablation_episodes: experiments/capacity_boundary/results/calibration_direction_ablation_nested_per_rep.csv
+  ablation_sha256_16: 32cb99ff1280ebc5
+  m1_label_only: experiments/capacity_boundary/results/m1_label_only_per_rep_algebraic.csv
+  m1_sha256_16: c7799da171281adb
+
+aggregation:
+  k: 5
+  repeats_per_target: 100
+  targets: 24
+  within_target: median_of_paired_episode_differences
+  across_targets: equal_weight_mean
+  rer_unit: fraction
+  epsilon: 1.0e-8
+  episode_exclusion: none
+  nominal_bootstrap_resamples: 10000
+  family_bootstrap_resamples: 100000
+  bootstrap_seed_per_cell: 0
+  bonferroni_family: D24_and_D34_across_three_learners
+  bonferroni_intervals: 6
+
+outputs_dir: experiments/ladder_statistics/results/
+run_record: experiments/ladder_statistics/results/run_manifest.json
+implementation:
+  module: experiments/ladder_statistics/ladder_stats.py
+  tests: tests/test_ladder_statistics.py
+  run_command: python experiments/ladder_statistics/run_ladder_statistics.py

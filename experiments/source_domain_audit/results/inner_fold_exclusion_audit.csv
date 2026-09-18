@@ -1,0 +1,553 @@
+outer_lake,inner_validation_lake,inner_training_group_count,inner_training_site_count,outer_groups_in_inner_training,inner_validation_groups_in_inner_training,inner_validation_group_count,exclusion_status
+Branched Oak Lake,Chaohu,4231,396,0,0,21,VERIFIED
+Branched Oak Lake,Dianchi,4188,396,0,0,64,VERIFIED
+Branched Oak Lake,Eagle Creek Reservoir,4174,396,0,0,78,VERIFIED
+Branched Oak Lake,Erhai,4215,396,0,0,37,VERIFIED
+Branched Oak Lake,Garda,4215,396,0,0,37,VERIFIED
+Branched Oak Lake,Geist Reservoir,4196,396,0,0,56,VERIFIED
+Branched Oak Lake,High Rock Lake,4166,396,0,0,86,VERIFIED
+Branched Oak Lake,Ibitinga Reservoir,4224,396,0,0,28,VERIFIED
+Branched Oak Lake,Lake Chotkowskie,4230,396,0,0,22,VERIFIED
+Branched Oak Lake,Lake Erie,3726,396,0,0,526,VERIFIED
+Branched Oak Lake,Lake Geneva,4232,396,0,0,20,VERIFIED
+Branched Oak Lake,Lake Hume,4213,396,0,0,39,VERIFIED
+Branched Oak Lake,Lake Jasień Południowy,4230,396,0,0,22,VERIFIED
+Branched Oak Lake,Lake Jeleń,4230,396,0,0,22,VERIFIED
+Branched Oak Lake,Lake Kasumigaura,4064,396,0,0,188,VERIFIED
+Branched Oak Lake,Lake Kummerow,4226,396,0,0,26,VERIFIED
+Branched Oak Lake,Lake Obłęże,4232,396,0,0,20,VERIFIED
+Branched Oak Lake,Lake Peipsi,4178,396,0,0,74,VERIFIED
+Branched Oak Lake,Lake Winnipeg,4207,396,0,0,45,VERIFIED
+Branched Oak Lake,Lake Łebsko,4220,396,0,0,32,VERIFIED
+Branched Oak Lake,Mantova,4221,396,0,0,31,VERIFIED
+Branched Oak Lake,Morse Reservoir,4199,396,0,0,53,VERIFIED
+Branched Oak Lake,Taihu,4064,396,0,0,188,VERIFIED
+Chaohu,Branched Oak Lake,4231,396,0,0,40,VERIFIED
+Chaohu,Dianchi,4207,396,0,0,64,VERIFIED
+Chaohu,Eagle Creek Reservoir,4193,396,0,0,78,VERIFIED
+Chaohu,Erhai,4234,396,0,0,37,VERIFIED
+Chaohu,Garda,4234,396,0,0,37,VERIFIED
+Chaohu,Geist Reservoir,4215,396,0,0,56,VERIFIED
+Chaohu,High Rock Lake,4185,396,0,0,86,VERIFIED
+Chaohu,Ibitinga Reservoir,4243,396,0,0,28,VERIFIED
+Chaohu,Lake Chotkowskie,4249,396,0,0,22,VERIFIED
+Chaohu,Lake Erie,3745,396,0,0,526,VERIFIED
+Chaohu,Lake Geneva,4251,396,0,0,20,VERIFIED
+Chaohu,Lake Hume,4232,396,0,0,39,VERIFIED
+Chaohu,Lake Jasień Południowy,4249,396,0,0,22,VERIFIED
+Chaohu,Lake Jeleń,4249,396,0,0,22,VERIFIED
+Chaohu,Lake Kasumigaura,4083,396,0,0,188,VERIFIED
+Chaohu,Lake Kummerow,4245,396,0,0,26,VERIFIED
+Chaohu,Lake Obłęże,4251,396,0,0,20,VERIFIED
+Chaohu,Lake Peipsi,4197,396,0,0,74,VERIFIED
+Chaohu,Lake Winnipeg,4226,396,0,0,45,VERIFIED
+Chaohu,Lake Łebsko,4239,396,0,0,32,VERIFIED
+Chaohu,Mantova,4240,396,0,0,31,VERIFIED
+Chaohu,Morse Reservoir,4218,396,0,0,53,VERIFIED
+Chaohu,Taihu,4083,396,0,0,188,VERIFIED
+Dianchi,Branched Oak Lake,4188,396,0,0,40,VERIFIED
+Dianchi,Chaohu,4207,396,0,0,21,VERIFIED
+Dianchi,Eagle Creek Reservoir,4150,396,0,0,78,VERIFIED
+Dianchi,Erhai,4191,396,0,0,37,VERIFIED
+Dianchi,Garda,4191,396,0,0,37,VERIFIED
+Dianchi,Geist Reservoir,4172,396,0,0,56,VERIFIED
+Dianchi,High Rock Lake,4142,396,0,0,86,VERIFIED
+Dianchi,Ibitinga Reservoir,4200,396,0,0,28,VERIFIED
+Dianchi,Lake Chotkowskie,4206,396,0,0,22,VERIFIED
+Dianchi,Lake Erie,3702,396,0,0,526,VERIFIED
+Dianchi,Lake Geneva,4208,396,0,0,20,VERIFIED
+Dianchi,Lake Hume,4189,396,0,0,39,VERIFIED
+Dianchi,Lake Jasień Południowy,4206,396,0,0,22,VERIFIED
+Dianchi,Lake Jeleń,4206,396,0,0,22,VERIFIED
+Dianchi,Lake Kasumigaura,4040,396,0,0,188,VERIFIED
+Dianchi,Lake Kummerow,4202,396,0,0,26,VERIFIED
+Dianchi,Lake Obłęże,4208,396,0,0,20,VERIFIED
+Dianchi,Lake Peipsi,4154,396,0,0,74,VERIFIED
+Dianchi,Lake Winnipeg,4183,396,0,0,45,VERIFIED
+Dianchi,Lake Łebsko,4196,396,0,0,32,VERIFIED
+Dianchi,Mantova,4197,396,0,0,31,VERIFIED
+Dianchi,Morse Reservoir,4175,396,0,0,53,VERIFIED
+Dianchi,Taihu,4040,396,0,0,188,VERIFIED
+Eagle Creek Reservoir,Branched Oak Lake,4174,396,0,0,40,VERIFIED
+Eagle Creek Reservoir,Chaohu,4193,396,0,0,21,VERIFIED
+Eagle Creek Reservoir,Dianchi,4150,396,0,0,64,VERIFIED
+Eagle Creek Reservoir,Erhai,4177,396,0,0,37,VERIFIED
+Eagle Creek Reservoir,Garda,4177,396,0,0,37,VERIFIED
+Eagle Creek Reservoir,Geist Reservoir,4158,396,0,0,56,VERIFIED
+Eagle Creek Reservoir,High Rock Lake,4128,396,0,0,86,VERIFIED
+Eagle Creek Reservoir,Ibitinga Reservoir,4186,396,0,0,28,VERIFIED
+Eagle Creek Reservoir,Lake Chotkowskie,4192,396,0,0,22,VERIFIED
+Eagle Creek Reservoir,Lake Erie,3688,396,0,0,526,VERIFIED
+Eagle Creek Reservoir,Lake Geneva,4194,396,0,0,20,VERIFIED
+Eagle Creek Reservoir,Lake Hume,4175,396,0,0,39,VERIFIED
+Eagle Creek Reservoir,Lake Jasień Południowy,4192,396,0,0,22,VERIFIED
+Eagle Creek Reservoir,Lake Jeleń,4192,396,0,0,22,VERIFIED
+Eagle Creek Reservoir,Lake Kasumigaura,4026,396,0,0,188,VERIFIED
+Eagle Creek Reservoir,Lake Kummerow,4188,396,0,0,26,VERIFIED
+Eagle Creek Reservoir,Lake Obłęże,4194,396,0,0,20,VERIFIED
+Eagle Creek Reservoir,Lake Peipsi,4140,396,0,0,74,VERIFIED
+Eagle Creek Reservoir,Lake Winnipeg,4169,396,0,0,45,VERIFIED
+Eagle Creek Reservoir,Lake Łebsko,4182,396,0,0,32,VERIFIED
+Eagle Creek Reservoir,Mantova,4183,396,0,0,31,VERIFIED
+Eagle Creek Reservoir,Morse Reservoir,4161,396,0,0,53,VERIFIED
+Eagle Creek Reservoir,Taihu,4026,396,0,0,188,VERIFIED
+Erhai,Branched Oak Lake,4215,396,0,0,40,VERIFIED
+Erhai,Chaohu,4234,396,0,0,21,VERIFIED
+Erhai,Dianchi,4191,396,0,0,64,VERIFIED
+Erhai,Eagle Creek Reservoir,4177,396,0,0,78,VERIFIED
+Erhai,Garda,4218,396,0,0,37,VERIFIED
+Erhai,Geist Reservoir,4199,396,0,0,56,VERIFIED
+Erhai,High Rock Lake,4169,396,0,0,86,VERIFIED
+Erhai,Ibitinga Reservoir,4227,396,0,0,28,VERIFIED
+Erhai,Lake Chotkowskie,4233,396,0,0,22,VERIFIED
+Erhai,Lake Erie,3729,396,0,0,526,VERIFIED
+Erhai,Lake Geneva,4235,396,0,0,20,VERIFIED
+Erhai,Lake Hume,4216,396,0,0,39,VERIFIED
+Erhai,Lake Jasień Południowy,4233,396,0,0,22,VERIFIED
+Erhai,Lake Jeleń,4233,396,0,0,22,VERIFIED
+Erhai,Lake Kasumigaura,4067,396,0,0,188,VERIFIED
+Erhai,Lake Kummerow,4229,396,0,0,26,VERIFIED
+Erhai,Lake Obłęże,4235,396,0,0,20,VERIFIED
+Erhai,Lake Peipsi,4181,396,0,0,74,VERIFIED
+Erhai,Lake Winnipeg,4210,396,0,0,45,VERIFIED
+Erhai,Lake Łebsko,4223,396,0,0,32,VERIFIED
+Erhai,Mantova,4224,396,0,0,31,VERIFIED
+Erhai,Morse Reservoir,4202,396,0,0,53,VERIFIED
+Erhai,Taihu,4067,396,0,0,188,VERIFIED
+Garda,Branched Oak Lake,4215,396,0,0,40,VERIFIED
+Garda,Chaohu,4234,396,0,0,21,VERIFIED
+Garda,Dianchi,4191,396,0,0,64,VERIFIED
+Garda,Eagle Creek Reservoir,4177,396,0,0,78,VERIFIED
+Garda,Erhai,4218,396,0,0,37,VERIFIED
+Garda,Geist Reservoir,4199,396,0,0,56,VERIFIED
+Garda,High Rock Lake,4169,396,0,0,86,VERIFIED
+Garda,Ibitinga Reservoir,4227,396,0,0,28,VERIFIED
+Garda,Lake Chotkowskie,4233,396,0,0,22,VERIFIED
+Garda,Lake Erie,3729,396,0,0,526,VERIFIED
+Garda,Lake Geneva,4235,396,0,0,20,VERIFIED
+Garda,Lake Hume,4216,396,0,0,39,VERIFIED
+Garda,Lake Jasień Południowy,4233,396,0,0,22,VERIFIED
+Garda,Lake Jeleń,4233,396,0,0,22,VERIFIED
+Garda,Lake Kasumigaura,4067,396,0,0,188,VERIFIED
+Garda,Lake Kummerow,4229,396,0,0,26,VERIFIED
+Garda,Lake Obłęże,4235,396,0,0,20,VERIFIED
+Garda,Lake Peipsi,4181,396,0,0,74,VERIFIED
+Garda,Lake Winnipeg,4210,396,0,0,45,VERIFIED
+Garda,Lake Łebsko,4223,396,0,0,32,VERIFIED
+Garda,Mantova,4224,396,0,0,31,VERIFIED
+Garda,Morse Reservoir,4202,396,0,0,53,VERIFIED
+Garda,Taihu,4067,396,0,0,188,VERIFIED
+Geist Reservoir,Branched Oak Lake,4196,396,0,0,40,VERIFIED
+Geist Reservoir,Chaohu,4215,396,0,0,21,VERIFIED
+Geist Reservoir,Dianchi,4172,396,0,0,64,VERIFIED
+Geist Reservoir,Eagle Creek Reservoir,4158,396,0,0,78,VERIFIED
+Geist Reservoir,Erhai,4199,396,0,0,37,VERIFIED
+Geist Reservoir,Garda,4199,396,0,0,37,VERIFIED
+Geist Reservoir,High Rock Lake,4150,396,0,0,86,VERIFIED
+Geist Reservoir,Ibitinga Reservoir,4208,396,0,0,28,VERIFIED
+Geist Reservoir,Lake Chotkowskie,4214,396,0,0,22,VERIFIED
+Geist Reservoir,Lake Erie,3710,396,0,0,526,VERIFIED
+Geist Reservoir,Lake Geneva,4216,396,0,0,20,VERIFIED
+Geist Reservoir,Lake Hume,4197,396,0,0,39,VERIFIED
+Geist Reservoir,Lake Jasień Południowy,4214,396,0,0,22,VERIFIED
+Geist Reservoir,Lake Jeleń,4214,396,0,0,22,VERIFIED
+Geist Reservoir,Lake Kasumigaura,4048,396,0,0,188,VERIFIED
+Geist Reservoir,Lake Kummerow,4210,396,0,0,26,VERIFIED
+Geist Reservoir,Lake Obłęże,4216,396,0,0,20,VERIFIED
+Geist Reservoir,Lake Peipsi,4162,396,0,0,74,VERIFIED
+Geist Reservoir,Lake Winnipeg,4191,396,0,0,45,VERIFIED
+Geist Reservoir,Lake Łebsko,4204,396,0,0,32,VERIFIED
+Geist Reservoir,Mantova,4205,396,0,0,31,VERIFIED
+Geist Reservoir,Morse Reservoir,4183,396,0,0,53,VERIFIED
+Geist Reservoir,Taihu,4048,396,0,0,188,VERIFIED
+High Rock Lake,Branched Oak Lake,4166,396,0,0,40,VERIFIED
+High Rock Lake,Chaohu,4185,396,0,0,21,VERIFIED
+High Rock Lake,Dianchi,4142,396,0,0,64,VERIFIED
+High Rock Lake,Eagle Creek Reservoir,4128,396,0,0,78,VERIFIED
+High Rock Lake,Erhai,4169,396,0,0,37,VERIFIED
+High Rock Lake,Garda,4169,396,0,0,37,VERIFIED
+High Rock Lake,Geist Reservoir,4150,396,0,0,56,VERIFIED
+High Rock Lake,Ibitinga Reservoir,4178,396,0,0,28,VERIFIED
+High Rock Lake,Lake Chotkowskie,4184,396,0,0,22,VERIFIED
+High Rock Lake,Lake Erie,3680,396,0,0,526,VERIFIED
+High Rock Lake,Lake Geneva,4186,396,0,0,20,VERIFIED
+High Rock Lake,Lake Hume,4167,396,0,0,39,VERIFIED
+High Rock Lake,Lake Jasień Południowy,4184,396,0,0,22,VERIFIED
+High Rock Lake,Lake Jeleń,4184,396,0,0,22,VERIFIED
+High Rock Lake,Lake Kasumigaura,4018,396,0,0,188,VERIFIED
+High Rock Lake,Lake Kummerow,4180,396,0,0,26,VERIFIED
+High Rock Lake,Lake Obłęże,4186,396,0,0,20,VERIFIED
+High Rock Lake,Lake Peipsi,4132,396,0,0,74,VERIFIED
+High Rock Lake,Lake Winnipeg,4161,396,0,0,45,VERIFIED
+High Rock Lake,Lake Łebsko,4174,396,0,0,32,VERIFIED
+High Rock Lake,Mantova,4175,396,0,0,31,VERIFIED
+High Rock Lake,Morse Reservoir,4153,396,0,0,53,VERIFIED
+High Rock Lake,Taihu,4018,396,0,0,188,VERIFIED
+Ibitinga Reservoir,Branched Oak Lake,4224,396,0,0,40,VERIFIED
+Ibitinga Reservoir,Chaohu,4243,396,0,0,21,VERIFIED
+Ibitinga Reservoir,Dianchi,4200,396,0,0,64,VERIFIED
+Ibitinga Reservoir,Eagle Creek Reservoir,4186,396,0,0,78,VERIFIED
+Ibitinga Reservoir,Erhai,4227,396,0,0,37,VERIFIED
+Ibitinga Reservoir,Garda,4227,396,0,0,37,VERIFIED
+Ibitinga Reservoir,Geist Reservoir,4208,396,0,0,56,VERIFIED
+Ibitinga Reservoir,High Rock Lake,4178,396,0,0,86,VERIFIED
+Ibitinga Reservoir,Lake Chotkowskie,4242,396,0,0,22,VERIFIED
+Ibitinga Reservoir,Lake Erie,3738,396,0,0,526,VERIFIED
+Ibitinga Reservoir,Lake Geneva,4244,396,0,0,20,VERIFIED
+Ibitinga Reservoir,Lake Hume,4225,396,0,0,39,VERIFIED
+Ibitinga Reservoir,Lake Jasień Południowy,4242,396,0,0,22,VERIFIED
+Ibitinga Reservoir,Lake Jeleń,4242,396,0,0,22,VERIFIED
+Ibitinga Reservoir,Lake Kasumigaura,4076,396,0,0,188,VERIFIED
+Ibitinga Reservoir,Lake Kummerow,4238,396,0,0,26,VERIFIED
+Ibitinga Reservoir,Lake Obłęże,4244,396,0,0,20,VERIFIED
+Ibitinga Reservoir,Lake Peipsi,4190,396,0,0,74,VERIFIED
+Ibitinga Reservoir,Lake Winnipeg,4219,396,0,0,45,VERIFIED
+Ibitinga Reservoir,Lake Łebsko,4232,396,0,0,32,VERIFIED
+Ibitinga Reservoir,Mantova,4233,396,0,0,31,VERIFIED
+Ibitinga Reservoir,Morse Reservoir,4211,396,0,0,53,VERIFIED
+Ibitinga Reservoir,Taihu,4076,396,0,0,188,VERIFIED
+Lake Chotkowskie,Branched Oak Lake,4230,396,0,0,40,VERIFIED
+Lake Chotkowskie,Chaohu,4249,396,0,0,21,VERIFIED
+Lake Chotkowskie,Dianchi,4206,396,0,0,64,VERIFIED
+Lake Chotkowskie,Eagle Creek Reservoir,4192,396,0,0,78,VERIFIED
+Lake Chotkowskie,Erhai,4233,396,0,0,37,VERIFIED
+Lake Chotkowskie,Garda,4233,396,0,0,37,VERIFIED
+Lake Chotkowskie,Geist Reservoir,4214,396,0,0,56,VERIFIED
+Lake Chotkowskie,High Rock Lake,4184,396,0,0,86,VERIFIED
+Lake Chotkowskie,Ibitinga Reservoir,4242,396,0,0,28,VERIFIED
+Lake Chotkowskie,Lake Erie,3744,396,0,0,526,VERIFIED
+Lake Chotkowskie,Lake Geneva,4250,396,0,0,20,VERIFIED
+Lake Chotkowskie,Lake Hume,4231,396,0,0,39,VERIFIED
+Lake Chotkowskie,Lake Jasień Południowy,4248,396,0,0,22,VERIFIED
+Lake Chotkowskie,Lake Jeleń,4248,396,0,0,22,VERIFIED
+Lake Chotkowskie,Lake Kasumigaura,4082,396,0,0,188,VERIFIED
+Lake Chotkowskie,Lake Kummerow,4244,396,0,0,26,VERIFIED
+Lake Chotkowskie,Lake Obłęże,4250,396,0,0,20,VERIFIED
+Lake Chotkowskie,Lake Peipsi,4196,396,0,0,74,VERIFIED
+Lake Chotkowskie,Lake Winnipeg,4225,396,0,0,45,VERIFIED
+Lake Chotkowskie,Lake Łebsko,4238,396,0,0,32,VERIFIED
+Lake Chotkowskie,Mantova,4239,396,0,0,31,VERIFIED
+Lake Chotkowskie,Morse Reservoir,4217,396,0,0,53,VERIFIED
+Lake Chotkowskie,Taihu,4082,396,0,0,188,VERIFIED
+Lake Erie,Branched Oak Lake,3726,396,0,0,40,VERIFIED
+Lake Erie,Chaohu,3745,396,0,0,21,VERIFIED
+Lake Erie,Dianchi,3702,396,0,0,64,VERIFIED
+Lake Erie,Eagle Creek Reservoir,3688,396,0,0,78,VERIFIED
+Lake Erie,Erhai,3729,396,0,0,37,VERIFIED
+Lake Erie,Garda,3729,396,0,0,37,VERIFIED
+Lake Erie,Geist Reservoir,3710,396,0,0,56,VERIFIED
+Lake Erie,High Rock Lake,3680,396,0,0,86,VERIFIED
+Lake Erie,Ibitinga Reservoir,3738,396,0,0,28,VERIFIED
+Lake Erie,Lake Chotkowskie,3744,396,0,0,22,VERIFIED
+Lake Erie,Lake Geneva,3746,396,0,0,20,VERIFIED
+Lake Erie,Lake Hume,3727,396,0,0,39,VERIFIED
+Lake Erie,Lake Jasień Południowy,3744,396,0,0,22,VERIFIED
+Lake Erie,Lake Jeleń,3744,396,0,0,22,VERIFIED
+Lake Erie,Lake Kasumigaura,3578,396,0,0,188,VERIFIED
+Lake Erie,Lake Kummerow,3740,396,0,0,26,VERIFIED
+Lake Erie,Lake Obłęże,3746,396,0,0,20,VERIFIED
+Lake Erie,Lake Peipsi,3692,396,0,0,74,VERIFIED
+Lake Erie,Lake Winnipeg,3721,396,0,0,45,VERIFIED
+Lake Erie,Lake Łebsko,3734,396,0,0,32,VERIFIED
+Lake Erie,Mantova,3735,396,0,0,31,VERIFIED
+Lake Erie,Morse Reservoir,3713,396,0,0,53,VERIFIED
+Lake Erie,Taihu,3578,396,0,0,188,VERIFIED
+Lake Geneva,Branched Oak Lake,4232,396,0,0,40,VERIFIED
+Lake Geneva,Chaohu,4251,396,0,0,21,VERIFIED
+Lake Geneva,Dianchi,4208,396,0,0,64,VERIFIED
+Lake Geneva,Eagle Creek Reservoir,4194,396,0,0,78,VERIFIED
+Lake Geneva,Erhai,4235,396,0,0,37,VERIFIED
+Lake Geneva,Garda,4235,396,0,0,37,VERIFIED
+Lake Geneva,Geist Reservoir,4216,396,0,0,56,VERIFIED
+Lake Geneva,High Rock Lake,4186,396,0,0,86,VERIFIED
+Lake Geneva,Ibitinga Reservoir,4244,396,0,0,28,VERIFIED
+Lake Geneva,Lake Chotkowskie,4250,396,0,0,22,VERIFIED
+Lake Geneva,Lake Erie,3746,396,0,0,526,VERIFIED
+Lake Geneva,Lake Hume,4233,396,0,0,39,VERIFIED
+Lake Geneva,Lake Jasień Południowy,4250,396,0,0,22,VERIFIED
+Lake Geneva,Lake Jeleń,4250,396,0,0,22,VERIFIED
+Lake Geneva,Lake Kasumigaura,4084,396,0,0,188,VERIFIED
+Lake Geneva,Lake Kummerow,4246,396,0,0,26,VERIFIED
+Lake Geneva,Lake Obłęże,4252,396,0,0,20,VERIFIED
+Lake Geneva,Lake Peipsi,4198,396,0,0,74,VERIFIED
+Lake Geneva,Lake Winnipeg,4227,396,0,0,45,VERIFIED
+Lake Geneva,Lake Łebsko,4240,396,0,0,32,VERIFIED
+Lake Geneva,Mantova,4241,396,0,0,31,VERIFIED
+Lake Geneva,Morse Reservoir,4219,396,0,0,53,VERIFIED
+Lake Geneva,Taihu,4084,396,0,0,188,VERIFIED
+Lake Hume,Branched Oak Lake,4213,396,0,0,40,VERIFIED
+Lake Hume,Chaohu,4232,396,0,0,21,VERIFIED
+Lake Hume,Dianchi,4189,396,0,0,64,VERIFIED
+Lake Hume,Eagle Creek Reservoir,4175,396,0,0,78,VERIFIED
+Lake Hume,Erhai,4216,396,0,0,37,VERIFIED
+Lake Hume,Garda,4216,396,0,0,37,VERIFIED
+Lake Hume,Geist Reservoir,4197,396,0,0,56,VERIFIED
+Lake Hume,High Rock Lake,4167,396,0,0,86,VERIFIED
+Lake Hume,Ibitinga Reservoir,4225,396,0,0,28,VERIFIED
+Lake Hume,Lake Chotkowskie,4231,396,0,0,22,VERIFIED
+Lake Hume,Lake Erie,3727,396,0,0,526,VERIFIED
+Lake Hume,Lake Geneva,4233,396,0,0,20,VERIFIED
+Lake Hume,Lake Jasień Południowy,4231,396,0,0,22,VERIFIED
+Lake Hume,Lake Jeleń,4231,396,0,0,22,VERIFIED
+Lake Hume,Lake Kasumigaura,4065,396,0,0,188,VERIFIED
+Lake Hume,Lake Kummerow,4227,396,0,0,26,VERIFIED
+Lake Hume,Lake Obłęże,4233,396,0,0,20,VERIFIED
+Lake Hume,Lake Peipsi,4179,396,0,0,74,VERIFIED
+Lake Hume,Lake Winnipeg,4208,396,0,0,45,VERIFIED
+Lake Hume,Lake Łebsko,4221,396,0,0,32,VERIFIED
+Lake Hume,Mantova,4222,396,0,0,31,VERIFIED
+Lake Hume,Morse Reservoir,4200,396,0,0,53,VERIFIED
+Lake Hume,Taihu,4065,396,0,0,188,VERIFIED
+Lake Jasień Południowy,Branched Oak Lake,4230,396,0,0,40,VERIFIED
+Lake Jasień Południowy,Chaohu,4249,396,0,0,21,VERIFIED
+Lake Jasień Południowy,Dianchi,4206,396,0,0,64,VERIFIED
+Lake Jasień Południowy,Eagle Creek Reservoir,4192,396,0,0,78,VERIFIED
+Lake Jasień Południowy,Erhai,4233,396,0,0,37,VERIFIED
+Lake Jasień Południowy,Garda,4233,396,0,0,37,VERIFIED
+Lake Jasień Południowy,Geist Reservoir,4214,396,0,0,56,VERIFIED
+Lake Jasień Południowy,High Rock Lake,4184,396,0,0,86,VERIFIED
+Lake Jasień Południowy,Ibitinga Reservoir,4242,396,0,0,28,VERIFIED
+Lake Jasień Południowy,Lake Chotkowskie,4248,396,0,0,22,VERIFIED
+Lake Jasień Południowy,Lake Erie,3744,396,0,0,526,VERIFIED
+Lake Jasień Południowy,Lake Geneva,4250,396,0,0,20,VERIFIED
+Lake Jasień Południowy,Lake Hume,4231,396,0,0,39,VERIFIED
+Lake Jasień Południowy,Lake Jeleń,4248,396,0,0,22,VERIFIED
+Lake Jasień Południowy,Lake Kasumigaura,4082,396,0,0,188,VERIFIED
+Lake Jasień Południowy,Lake Kummerow,4244,396,0,0,26,VERIFIED
+Lake Jasień Południowy,Lake Obłęże,4250,396,0,0,20,VERIFIED
+Lake Jasień Południowy,Lake Peipsi,4196,396,0,0,74,VERIFIED
+Lake Jasień Południowy,Lake Winnipeg,4225,396,0,0,45,VERIFIED
+Lake Jasień Południowy,Lake Łebsko,4238,396,0,0,32,VERIFIED
+Lake Jasień Południowy,Mantova,4239,396,0,0,31,VERIFIED
+Lake Jasień Południowy,Morse Reservoir,4217,396,0,0,53,VERIFIED
+Lake Jasień Południowy,Taihu,4082,396,0,0,188,VERIFIED
+Lake Jeleń,Branched Oak Lake,4230,396,0,0,40,VERIFIED
+Lake Jeleń,Chaohu,4249,396,0,0,21,VERIFIED
+Lake Jeleń,Dianchi,4206,396,0,0,64,VERIFIED
+Lake Jeleń,Eagle Creek Reservoir,4192,396,0,0,78,VERIFIED
+Lake Jeleń,Erhai,4233,396,0,0,37,VERIFIED
+Lake Jeleń,Garda,4233,396,0,0,37,VERIFIED
+Lake Jeleń,Geist Reservoir,4214,396,0,0,56,VERIFIED
+Lake Jeleń,High Rock Lake,4184,396,0,0,86,VERIFIED
+Lake Jeleń,Ibitinga Reservoir,4242,396,0,0,28,VERIFIED
+Lake Jeleń,Lake Chotkowskie,4248,396,0,0,22,VERIFIED
+Lake Jeleń,Lake Erie,3744,396,0,0,526,VERIFIED
+Lake Jeleń,Lake Geneva,4250,396,0,0,20,VERIFIED
+Lake Jeleń,Lake Hume,4231,396,0,0,39,VERIFIED
+Lake Jeleń,Lake Jasień Południowy,4248,396,0,0,22,VERIFIED
+Lake Jeleń,Lake Kasumigaura,4082,396,0,0,188,VERIFIED
+Lake Jeleń,Lake Kummerow,4244,396,0,0,26,VERIFIED
+Lake Jeleń,Lake Obłęże,4250,396,0,0,20,VERIFIED
+Lake Jeleń,Lake Peipsi,4196,396,0,0,74,VERIFIED
+Lake Jeleń,Lake Winnipeg,4225,396,0,0,45,VERIFIED
+Lake Jeleń,Lake Łebsko,4238,396,0,0,32,VERIFIED
+Lake Jeleń,Mantova,4239,396,0,0,31,VERIFIED
+Lake Jeleń,Morse Reservoir,4217,396,0,0,53,VERIFIED
+Lake Jeleń,Taihu,4082,396,0,0,188,VERIFIED
+Lake Kasumigaura,Branched Oak Lake,4064,396,0,0,40,VERIFIED
+Lake Kasumigaura,Chaohu,4083,396,0,0,21,VERIFIED
+Lake Kasumigaura,Dianchi,4040,396,0,0,64,VERIFIED
+Lake Kasumigaura,Eagle Creek Reservoir,4026,396,0,0,78,VERIFIED
+Lake Kasumigaura,Erhai,4067,396,0,0,37,VERIFIED
+Lake Kasumigaura,Garda,4067,396,0,0,37,VERIFIED
+Lake Kasumigaura,Geist Reservoir,4048,396,0,0,56,VERIFIED
+Lake Kasumigaura,High Rock Lake,4018,396,0,0,86,VERIFIED
+Lake Kasumigaura,Ibitinga Reservoir,4076,396,0,0,28,VERIFIED
+Lake Kasumigaura,Lake Chotkowskie,4082,396,0,0,22,VERIFIED
+Lake Kasumigaura,Lake Erie,3578,396,0,0,526,VERIFIED
+Lake Kasumigaura,Lake Geneva,4084,396,0,0,20,VERIFIED
+Lake Kasumigaura,Lake Hume,4065,396,0,0,39,VERIFIED
+Lake Kasumigaura,Lake Jasień Południowy,4082,396,0,0,22,VERIFIED
+Lake Kasumigaura,Lake Jeleń,4082,396,0,0,22,VERIFIED
+Lake Kasumigaura,Lake Kummerow,4078,396,0,0,26,VERIFIED
+Lake Kasumigaura,Lake Obłęże,4084,396,0,0,20,VERIFIED
+Lake Kasumigaura,Lake Peipsi,4030,396,0,0,74,VERIFIED
+Lake Kasumigaura,Lake Winnipeg,4059,396,0,0,45,VERIFIED
+Lake Kasumigaura,Lake Łebsko,4072,396,0,0,32,VERIFIED
+Lake Kasumigaura,Mantova,4073,396,0,0,31,VERIFIED
+Lake Kasumigaura,Morse Reservoir,4051,396,0,0,53,VERIFIED
+Lake Kasumigaura,Taihu,3916,396,0,0,188,VERIFIED
+Lake Kummerow,Branched Oak Lake,4226,396,0,0,40,VERIFIED
+Lake Kummerow,Chaohu,4245,396,0,0,21,VERIFIED
+Lake Kummerow,Dianchi,4202,396,0,0,64,VERIFIED
+Lake Kummerow,Eagle Creek Reservoir,4188,396,0,0,78,VERIFIED
+Lake Kummerow,Erhai,4229,396,0,0,37,VERIFIED
+Lake Kummerow,Garda,4229,396,0,0,37,VERIFIED
+Lake Kummerow,Geist Reservoir,4210,396,0,0,56,VERIFIED
+Lake Kummerow,High Rock Lake,4180,396,0,0,86,VERIFIED
+Lake Kummerow,Ibitinga Reservoir,4238,396,0,0,28,VERIFIED
+Lake Kummerow,Lake Chotkowskie,4244,396,0,0,22,VERIFIED
+Lake Kummerow,Lake Erie,3740,396,0,0,526,VERIFIED
+Lake Kummerow,Lake Geneva,4246,396,0,0,20,VERIFIED
+Lake Kummerow,Lake Hume,4227,396,0,0,39,VERIFIED
+Lake Kummerow,Lake Jasień Południowy,4244,396,0,0,22,VERIFIED
+Lake Kummerow,Lake Jeleń,4244,396,0,0,22,VERIFIED
+Lake Kummerow,Lake Kasumigaura,4078,396,0,0,188,VERIFIED
+Lake Kummerow,Lake Obłęże,4246,396,0,0,20,VERIFIED
+Lake Kummerow,Lake Peipsi,4192,396,0,0,74,VERIFIED
+Lake Kummerow,Lake Winnipeg,4221,396,0,0,45,VERIFIED
+Lake Kummerow,Lake Łebsko,4234,396,0,0,32,VERIFIED
+Lake Kummerow,Mantova,4235,396,0,0,31,VERIFIED
+Lake Kummerow,Morse Reservoir,4213,396,0,0,53,VERIFIED
+Lake Kummerow,Taihu,4078,396,0,0,188,VERIFIED
+Lake Obłęże,Branched Oak Lake,4232,396,0,0,40,VERIFIED
+Lake Obłęże,Chaohu,4251,396,0,0,21,VERIFIED
+Lake Obłęże,Dianchi,4208,396,0,0,64,VERIFIED
+Lake Obłęże,Eagle Creek Reservoir,4194,396,0,0,78,VERIFIED
+Lake Obłęże,Erhai,4235,396,0,0,37,VERIFIED
+Lake Obłęże,Garda,4235,396,0,0,37,VERIFIED
+Lake Obłęże,Geist Reservoir,4216,396,0,0,56,VERIFIED
+Lake Obłęże,High Rock Lake,4186,396,0,0,86,VERIFIED
+Lake Obłęże,Ibitinga Reservoir,4244,396,0,0,28,VERIFIED
+Lake Obłęże,Lake Chotkowskie,4250,396,0,0,22,VERIFIED
+Lake Obłęże,Lake Erie,3746,396,0,0,526,VERIFIED
+Lake Obłęże,Lake Geneva,4252,396,0,0,20,VERIFIED
+Lake Obłęże,Lake Hume,4233,396,0,0,39,VERIFIED
+Lake Obłęże,Lake Jasień Południowy,4250,396,0,0,22,VERIFIED
+Lake Obłęże,Lake Jeleń,4250,396,0,0,22,VERIFIED
+Lake Obłęże,Lake Kasumigaura,4084,396,0,0,188,VERIFIED
+Lake Obłęże,Lake Kummerow,4246,396,0,0,26,VERIFIED
+Lake Obłęże,Lake Peipsi,4198,396,0,0,74,VERIFIED
+Lake Obłęże,Lake Winnipeg,4227,396,0,0,45,VERIFIED
+Lake Obłęże,Lake Łebsko,4240,396,0,0,32,VERIFIED
+Lake Obłęże,Mantova,4241,396,0,0,31,VERIFIED
+Lake Obłęże,Morse Reservoir,4219,396,0,0,53,VERIFIED
+Lake Obłęże,Taihu,4084,396,0,0,188,VERIFIED
+Lake Peipsi,Branched Oak Lake,4178,396,0,0,40,VERIFIED
+Lake Peipsi,Chaohu,4197,396,0,0,21,VERIFIED
+Lake Peipsi,Dianchi,4154,396,0,0,64,VERIFIED
+Lake Peipsi,Eagle Creek Reservoir,4140,396,0,0,78,VERIFIED
+Lake Peipsi,Erhai,4181,396,0,0,37,VERIFIED
+Lake Peipsi,Garda,4181,396,0,0,37,VERIFIED
+Lake Peipsi,Geist Reservoir,4162,396,0,0,56,VERIFIED
+Lake Peipsi,High Rock Lake,4132,396,0,0,86,VERIFIED
+Lake Peipsi,Ibitinga Reservoir,4190,396,0,0,28,VERIFIED
+Lake Peipsi,Lake Chotkowskie,4196,396,0,0,22,VERIFIED
+Lake Peipsi,Lake Erie,3692,396,0,0,526,VERIFIED
+Lake Peipsi,Lake Geneva,4198,396,0,0,20,VERIFIED
+Lake Peipsi,Lake Hume,4179,396,0,0,39,VERIFIED
+Lake Peipsi,Lake Jasień Południowy,4196,396,0,0,22,VERIFIED
+Lake Peipsi,Lake Jeleń,4196,396,0,0,22,VERIFIED
+Lake Peipsi,Lake Kasumigaura,4030,396,0,0,188,VERIFIED
+Lake Peipsi,Lake Kummerow,4192,396,0,0,26,VERIFIED
+Lake Peipsi,Lake Obłęże,4198,396,0,0,20,VERIFIED
+Lake Peipsi,Lake Winnipeg,4173,396,0,0,45,VERIFIED
+Lake Peipsi,Lake Łebsko,4186,396,0,0,32,VERIFIED
+Lake Peipsi,Mantova,4187,396,0,0,31,VERIFIED
+Lake Peipsi,Morse Reservoir,4165,396,0,0,53,VERIFIED
+Lake Peipsi,Taihu,4030,396,0,0,188,VERIFIED
+Lake Winnipeg,Branched Oak Lake,4207,396,0,0,40,VERIFIED
+Lake Winnipeg,Chaohu,4226,396,0,0,21,VERIFIED
+Lake Winnipeg,Dianchi,4183,396,0,0,64,VERIFIED
+Lake Winnipeg,Eagle Creek Reservoir,4169,396,0,0,78,VERIFIED
+Lake Winnipeg,Erhai,4210,396,0,0,37,VERIFIED
+Lake Winnipeg,Garda,4210,396,0,0,37,VERIFIED
+Lake Winnipeg,Geist Reservoir,4191,396,0,0,56,VERIFIED
+Lake Winnipeg,High Rock Lake,4161,396,0,0,86,VERIFIED
+Lake Winnipeg,Ibitinga Reservoir,4219,396,0,0,28,VERIFIED
+Lake Winnipeg,Lake Chotkowskie,4225,396,0,0,22,VERIFIED
+Lake Winnipeg,Lake Erie,3721,396,0,0,526,VERIFIED
+Lake Winnipeg,Lake Geneva,4227,396,0,0,20,VERIFIED
+Lake Winnipeg,Lake Hume,4208,396,0,0,39,VERIFIED
+Lake Winnipeg,Lake Jasień Południowy,4225,396,0,0,22,VERIFIED
+Lake Winnipeg,Lake Jeleń,4225,396,0,0,22,VERIFIED
+Lake Winnipeg,Lake Kasumigaura,4059,396,0,0,188,VERIFIED
+Lake Winnipeg,Lake Kummerow,4221,396,0,0,26,VERIFIED
+Lake Winnipeg,Lake Obłęże,4227,396,0,0,20,VERIFIED
+Lake Winnipeg,Lake Peipsi,4173,396,0,0,74,VERIFIED
+Lake Winnipeg,Lake Łebsko,4215,396,0,0,32,VERIFIED
+Lake Winnipeg,Mantova,4216,396,0,0,31,VERIFIED
+Lake Winnipeg,Morse Reservoir,4194,396,0,0,53,VERIFIED
+Lake Winnipeg,Taihu,4059,396,0,0,188,VERIFIED
+Lake Łebsko,Branched Oak Lake,4220,396,0,0,40,VERIFIED
+Lake Łebsko,Chaohu,4239,396,0,0,21,VERIFIED
+Lake Łebsko,Dianchi,4196,396,0,0,64,VERIFIED
+Lake Łebsko,Eagle Creek Reservoir,4182,396,0,0,78,VERIFIED
+Lake Łebsko,Erhai,4223,396,0,0,37,VERIFIED
+Lake Łebsko,Garda,4223,396,0,0,37,VERIFIED
+Lake Łebsko,Geist Reservoir,4204,396,0,0,56,VERIFIED
+Lake Łebsko,High Rock Lake,4174,396,0,0,86,VERIFIED
+Lake Łebsko,Ibitinga Reservoir,4232,396,0,0,28,VERIFIED
+Lake Łebsko,Lake Chotkowskie,4238,396,0,0,22,VERIFIED
+Lake Łebsko,Lake Erie,3734,396,0,0,526,VERIFIED
+Lake Łebsko,Lake Geneva,4240,396,0,0,20,VERIFIED
+Lake Łebsko,Lake Hume,4221,396,0,0,39,VERIFIED
+Lake Łebsko,Lake Jasień Południowy,4238,396,0,0,22,VERIFIED
+Lake Łebsko,Lake Jeleń,4238,396,0,0,22,VERIFIED
+Lake Łebsko,Lake Kasumigaura,4072,396,0,0,188,VERIFIED
+Lake Łebsko,Lake Kummerow,4234,396,0,0,26,VERIFIED
+Lake Łebsko,Lake Obłęże,4240,396,0,0,20,VERIFIED
+Lake Łebsko,Lake Peipsi,4186,396,0,0,74,VERIFIED
+Lake Łebsko,Lake Winnipeg,4215,396,0,0,45,VERIFIED
+Lake Łebsko,Mantova,4229,396,0,0,31,VERIFIED
+Lake Łebsko,Morse Reservoir,4207,396,0,0,53,VERIFIED
+Lake Łebsko,Taihu,4072,396,0,0,188,VERIFIED
+Mantova,Branched Oak Lake,4221,396,0,0,40,VERIFIED
+Mantova,Chaohu,4240,396,0,0,21,VERIFIED
+Mantova,Dianchi,4197,396,0,0,64,VERIFIED
+Mantova,Eagle Creek Reservoir,4183,396,0,0,78,VERIFIED
+Mantova,Erhai,4224,396,0,0,37,VERIFIED
+Mantova,Garda,4224,396,0,0,37,VERIFIED
+Mantova,Geist Reservoir,4205,396,0,0,56,VERIFIED
+Mantova,High Rock Lake,4175,396,0,0,86,VERIFIED
+Mantova,Ibitinga Reservoir,4233,396,0,0,28,VERIFIED
+Mantova,Lake Chotkowskie,4239,396,0,0,22,VERIFIED
+Mantova,Lake Erie,3735,396,0,0,526,VERIFIED
+Mantova,Lake Geneva,4241,396,0,0,20,VERIFIED
+Mantova,Lake Hume,4222,396,0,0,39,VERIFIED
+Mantova,Lake Jasień Południowy,4239,396,0,0,22,VERIFIED
+Mantova,Lake Jeleń,4239,396,0,0,22,VERIFIED
+Mantova,Lake Kasumigaura,4073,396,0,0,188,VERIFIED
+Mantova,Lake Kummerow,4235,396,0,0,26,VERIFIED
+Mantova,Lake Obłęże,4241,396,0,0,20,VERIFIED
+Mantova,Lake Peipsi,4187,396,0,0,74,VERIFIED
+Mantova,Lake Winnipeg,4216,396,0,0,45,VERIFIED
+Mantova,Lake Łebsko,4229,396,0,0,32,VERIFIED
+Mantova,Morse Reservoir,4208,396,0,0,53,VERIFIED
+Mantova,Taihu,4073,396,0,0,188,VERIFIED
+Morse Reservoir,Branched Oak Lake,4199,396,0,0,40,VERIFIED
+Morse Reservoir,Chaohu,4218,396,0,0,21,VERIFIED
+Morse Reservoir,Dianchi,4175,396,0,0,64,VERIFIED
+Morse Reservoir,Eagle Creek Reservoir,4161,396,0,0,78,VERIFIED
+Morse Reservoir,Erhai,4202,396,0,0,37,VERIFIED
+Morse Reservoir,Garda,4202,396,0,0,37,VERIFIED
+Morse Reservoir,Geist Reservoir,4183,396,0,0,56,VERIFIED
+Morse Reservoir,High Rock Lake,4153,396,0,0,86,VERIFIED
+Morse Reservoir,Ibitinga Reservoir,4211,396,0,0,28,VERIFIED
+Morse Reservoir,Lake Chotkowskie,4217,396,0,0,22,VERIFIED
+Morse Reservoir,Lake Erie,3713,396,0,0,526,VERIFIED
+Morse Reservoir,Lake Geneva,4219,396,0,0,20,VERIFIED
+Morse Reservoir,Lake Hume,4200,396,0,0,39,VERIFIED
+Morse Reservoir,Lake Jasień Południowy,4217,396,0,0,22,VERIFIED
+Morse Reservoir,Lake Jeleń,4217,396,0,0,22,VERIFIED
+Morse Reservoir,Lake Kasumigaura,4051,396,0,0,188,VERIFIED
+Morse Reservoir,Lake Kummerow,4213,396,0,0,26,VERIFIED
+Morse Reservoir,Lake Obłęże,4219,396,0,0,20,VERIFIED
+Morse Reservoir,Lake Peipsi,4165,396,0,0,74,VERIFIED
+Morse Reservoir,Lake Winnipeg,4194,396,0,0,45,VERIFIED
+Morse Reservoir,Lake Łebsko,4207,396,0,0,32,VERIFIED
+Morse Reservoir,Mantova,4208,396,0,0,31,VERIFIED
+Morse Reservoir,Taihu,4051,396,0,0,188,VERIFIED
+Taihu,Branched Oak Lake,4064,396,0,0,40,VERIFIED
+Taihu,Chaohu,4083,396,0,0,21,VERIFIED
+Taihu,Dianchi,4040,396,0,0,64,VERIFIED
+Taihu,Eagle Creek Reservoir,4026,396,0,0,78,VERIFIED
+Taihu,Erhai,4067,396,0,0,37,VERIFIED
+Taihu,Garda,4067,396,0,0,37,VERIFIED
+Taihu,Geist Reservoir,4048,396,0,0,56,VERIFIED
+Taihu,High Rock Lake,4018,396,0,0,86,VERIFIED
+Taihu,Ibitinga Reservoir,4076,396,0,0,28,VERIFIED
+Taihu,Lake Chotkowskie,4082,396,0,0,22,VERIFIED
+Taihu,Lake Erie,3578,396,0,0,526,VERIFIED
+Taihu,Lake Geneva,4084,396,0,0,20,VERIFIED
+Taihu,Lake Hume,4065,396,0,0,39,VERIFIED
+Taihu,Lake Jasień Południowy,4082,396,0,0,22,VERIFIED
+Taihu,Lake Jeleń,4082,396,0,0,22,VERIFIED
+Taihu,Lake Kasumigaura,3916,396,0,0,188,VERIFIED
+Taihu,Lake Kummerow,4078,396,0,0,26,VERIFIED
+Taihu,Lake Obłęże,4084,396,0,0,20,VERIFIED
+Taihu,Lake Peipsi,4030,396,0,0,74,VERIFIED
+Taihu,Lake Winnipeg,4059,396,0,0,45,VERIFIED
+Taihu,Lake Łebsko,4072,396,0,0,32,VERIFIED
+Taihu,Mantova,4073,396,0,0,31,VERIFIED
+Taihu,Morse Reservoir,4051,396,0,0,53,VERIFIED

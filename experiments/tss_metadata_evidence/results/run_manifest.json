@@ -1,0 +1,33 @@
+{
+  "audit": "Phase 6 Gate E1 read-only TSS metadata evidence",
+  "facts": {
+    "auxiliary_group_count": 2537,
+    "canonical_group_metadata_conflicts": 0,
+    "eligible_target_count": 24,
+    "raw_nonpositive_tss_rows": 2,
+    "raw_tss_min": 0.0,
+    "retained_nonpositive_tss_rows": 0,
+    "retained_tss_min": 0.1
+  },
+  "input_sha256": {
+    "data\\processed\\eligible_tasks.csv": "870a11eb7378da95e5838bab2888f167f08056da9383cd97d785be683fa2eff1",
+    "data\\raw\\gloria\\GLORIA_2022\\GLORIA_Rrs.csv": "13fd918c2be532b32e6747cc4785db7157b7d5ac9f8692fb73d946771e0b41d3",
+    "data\\raw\\gloria\\GLORIA_2022\\GLORIA_meta_and_lab.csv": "c95c95229f91c638e2526e7e3a55b13a38b8359bee4716dba3bb5bf5600cb804",
+    "data\\raw\\gloria\\GLORIA_2022\\GLORIA_variables_and_methods.xlsx": "4755d26af95909aa9c8c478fd02cbce77e20c0004a896c27abccf498facbe5eb"
+  },
+  "output_sha256": {
+    "candidate_target_eligibility.csv": "0fe404b28520bdd1571c70879f38d83bef454578c912cc760806d99db85689c3",
+    "canonical_group_metadata_consistency.csv": "46af194b4235c66f48d329163621b7deb1972ed757e5fa372b116aeed3b33f3a",
+    "data_flow_audit.csv": "2f304745b947349d74dd156880bb231743eb2eece9ba6d18cd124b2aef7b75b0",
+    "eligible_target_metadata.csv": "0dbbc376ff531f5da8c583fecdd8305130a7ed511db950f7804713169fc38296",
+    "metadata_missingness.csv": "a191e94e2e85feef84876e5d78116c33271a60020bbe49e9e6b1917b16ba1072",
+    "method_dictionary_reconciliation.csv": "a5a72ac3cab9605264d320b7940081b138579f9e6fa2809815a5ea5217f70e7d",
+    "source_country_composition.csv": "08795b04ab269a2ac76e335a02ad81e3418afcbc004c5b2e2ae85c570aba3b04",
+    "source_dataset_provider_method_composition.csv": "30a5930e9cfe906defaab6e51dc732a4fd1dea31b604bc0f22f9000d8193582e",
+    "source_provider_summary.csv": "e6e5d2df33857e6c048cb8d3a43a08574ec4182d0a5a544002a516697d538539",
+    "source_tss_method_summary.csv": "a01c66ab0946f04f7d2dccba04cbae5b21b8726435a5302064ae6ef9cdfe68bf",
+    "source_waterbody_composition.csv": "c8c3f6515f2149e0697720fa2c23fbdf172fe1197e4c764f20e6f4e82db5dc69",
+    "target_dataset_method_membership.csv": "098b16cc43cbd4c00ba2b768dd9401de67662420b2bfc06460c0dadadca26500",
+    "unit_and_log_transform_audit.csv": "ee27b4679bd8f6a98a7ce6c031cdc8e9832f67c9e21fa76ef2878216d5335bde"
+  }
+}

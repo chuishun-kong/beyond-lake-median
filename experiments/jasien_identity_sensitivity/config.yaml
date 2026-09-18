@@ -1,0 +1,50 @@
+gate: "Phase 6 Gate B.1"
+analysis_role: "post-hoc targeted identity-boundary sensitivity"
+
+outer_target: "Lake Jasień Południowy"
+published_identity_status: "distinct from Lake Jasień Północny"
+physical_overlap_status: "UNVERIFIED"
+additional_source_exclusion:
+  - "Lake Jasień Północny"
+
+source_regime: "all other GLORIA TSS groups, with the declared additional exclusion only for this sensitivity outer fold"
+outer_population_unchanged: 24
+other_outer_folds_recomputed: 0
+
+spectral_range_nm: [400, 750]
+group_key:
+  - Site_name
+  - Country
+  - date_day
+  - Latitude_rounded_3_decimals
+  - Longitude_rounded_3_decimals
+
+seed: 20260712
+k_levels_h1: [0, 1, 3, 5, 10]
+k_levels_h2_h3: [1, 3, 5, 10]
+repeats: 100
+representation_pls_components: 2
+ridge_alpha: 1.0
+bootstrap_resamples: 10000
+
+impact_classification:
+  conclusion_changing: "any H1 zero/10-percent status, H2 own-pool classification, or H3 classification change"
+  material_single_fold_h1_abs_rer_change: 0.05
+  material_single_fold_h3_abs_delta_rho_change: 0.05
+  adjudication: "material single-fold change without a headline change is NUMERICALLY_SENSITIVE_BUT_INTERPRETIVELY_STABLE"
+
+hyperparameter_grids: "identical imports from run_nested_capacity_boundary.py"
+h2_selectors:
+  - repeated_random
+  - farthest_point_kennard_stone
+  - unweighted_d_optimal
+  - proposed_weighted_d_optimal
+
+target_invariants:
+  target_group_ids_and_order: "must equal primary"
+  h1_h3_random_support_query_trajectory: "must equal primary seed/loop rule"
+  h2_random_support_query_trajectory: "must equal primary seed/loop rule"
+  h2_deterministic_supports: "recomputed from sensitivity source representation and may change"
+
+primary_outputs: "read-only; guarded by SHA-256"
+output_directory: "experiments/jasien_identity_sensitivity/results"

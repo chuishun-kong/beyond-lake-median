@@ -1,0 +1,53 @@
+{
+  "analysis": "phase6_gate_f1_h1_absolute_loss",
+  "authoritative_artifact": "experiments\\capacity_boundary\\results\\capacity_boundary_repeats_nested.csv",
+  "bootstrap": {
+    "interval": "percentile 2.5/97.5",
+    "n_boot": 10000,
+    "resampling_unit": "lake",
+    "rng_scope": "fresh default_rng(0) per learner-by-budget cell",
+    "seed": 0,
+    "statistic": "mean of 24 lake-level paired delta-MAE values"
+  },
+  "frozen_input_sha256_before_and_after": {
+    "experiments\\capacity_boundary\\results\\capacity_boundary_repeats_nested.csv": {
+      "after": "d6db5630bc2a8ab938b477361f524c9055aa76bd5e11edcdb9ac2910241be6db",
+      "before": "d6db5630bc2a8ab938b477361f524c9055aa76bd5e11edcdb9ac2910241be6db"
+    },
+    "experiments\\capacity_boundary\\results\\capacity_boundary_summary_nested.csv": {
+      "after": "d580f462a16a2d0e906e556596b696d1b1a1f1d26e166616020c57c9ff8377c9",
+      "before": "d580f462a16a2d0e906e556596b696d1b1a1f1d26e166616020c57c9ff8377c9"
+    },
+    "experiments\\capacity_boundary\\results\\h1_global_vs_nested_comparison.csv": {
+      "after": "ff628a3aa780f1cb25598b2ca02638fd97de914ed92ac9eabeb6a13a005650b7",
+      "before": "ff628a3aa780f1cb25598b2ca02638fd97de914ed92ac9eabeb6a13a005650b7"
+    }
+  },
+  "integrity_checks": {
+    "all_label_only_mae_positive": true,
+    "all_rer_reconstruction_denominators_positive": true,
+    "complete_coverage": true,
+    "duplicate_pairing_rows": 0,
+    "expected_rows": 28800,
+    "max_abs_rer_difference": 1.7763568394002505e-15,
+    "max_repeats_per_lake_cell": 100,
+    "min_repeats_per_lake_cell": 100,
+    "n_lakes": 24,
+    "n_rows": 28800
+  },
+  "lake_aggregation": "median of repeat-level paired delta-MAE",
+  "manuscripts_edited": false,
+  "outputs_sha256": {
+    "h1_absolute_per_lake.csv": "203a1d527c9f60a32838cf1aa16388efbc523216e1b1c8b070d1fea17aaa4fed",
+    "h1_absolute_repeat_level.csv": "4bbdbb20160040fde6da20bf36efd6b3c3ecdb0d4f5f3796a759354451910a33",
+    "h1_absolute_summary.csv": "acaffef398b9e75dcea476208d2869b2a53c86040ec7a9bb27649dad7c66f71f",
+    "h1_k5_primary_vs_absolute_comparison.csv": "4a9babdfd76d3bfeb45f2a830578fafa42c3a35514f5f5c42d7127650e34cb4f",
+    "h1_rer_identity_check.csv": "9f5f5b39cd104ebee18b28d82183a3f89dd0f520f42664e57fae59e8d7c57282"
+  },
+  "pairing": "repeat-level; label-only loss recovered from the same row's calibrated loss and frozen RER",
+  "primary_h1_replaced": false,
+  "scope": "post_hoc_supporting_absolute_same_support_increment",
+  "source_only_same_query_recoverable": false,
+  "source_only_unavailable_reason": "Frozen source-only metrics are k=0 full-lake evaluations, not positive-budget query subsets.",
+  "support_query_identity_status": "not stored in the frozen metric artifact; no split was regenerated"
+}

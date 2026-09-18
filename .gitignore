@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+*.egg-info/
+
+# Local run logs
+*.log
+_log*.txt
+
+# Raw data (download separately, see data/raw/DATA_SOURCES.md)
+data/raw/gloria/
+data/raw/china_lakes/
+data/interim/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+.DS_Store

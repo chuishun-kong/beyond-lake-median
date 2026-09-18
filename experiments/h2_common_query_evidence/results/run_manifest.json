@@ -1,0 +1,84 @@
+{
+  "aggregation_provenance_source_sha256": {
+    "experiments/active_selection/build_h2_nested_summaries.py": "0879cde305ec8aabd12501c65c1c894c13ee7fc38f2219c477a2ae62e92cb999",
+    "experiments/active_selection/true_nested_h2_protocol.yaml": "9f6559122e08bed98156b28f2eb967dafffbf480167cbb80b804c8682f3b4d2e"
+  },
+  "analysis": "phase6_gate_g1_1_fourway_provenance_correction_and_threshold50_sensitivity",
+  "classification_boundary": "nominal cell-wise CI only; no multiplicity adjustment",
+  "frozen_fourway_entry_rule": "all lake-learner units with available usable repeats",
+  "frozen_h2_outputs_rewritten": false,
+  "frozen_input_sha256_before_and_after": {
+    "experiments/active_selection/results/true_nested_h2/h2_nested_fourway_common_query.csv": {
+      "after": "1b8e3220e183c7d87ba2a1e1767a022231c009f1b8e4578e51fab5b570a2595e",
+      "before": "1b8e3220e183c7d87ba2a1e1767a022231c009f1b8e4578e51fab5b570a2595e"
+    },
+    "experiments/active_selection/results/true_nested_h2/h2_nested_own_pool_summary.csv": {
+      "after": "dff94f3a36709ea95dfa43f83e4d558b792ab2873b9b0e489e674a2ec6d43ed1",
+      "before": "dff94f3a36709ea95dfa43f83e4d558b792ab2873b9b0e489e674a2ec6d43ed1"
+    },
+    "experiments/active_selection/results/true_nested_h2/h2_nested_pairwise_common_query.csv": {
+      "after": "eab14477da663f2cac5282ef6378cca5b0969b8b3204a42d3119cddd31cb319a",
+      "before": "eab14477da663f2cac5282ef6378cca5b0969b8b3204a42d3119cddd31cb319a"
+    },
+    "experiments/active_selection/results/true_nested_h2/h2_nested_per_lake.csv": {
+      "after": "355c45373b955744c73986d68a8f9c647cac6b316fe4412569a50cdd2319d544",
+      "before": "355c45373b955744c73986d68a8f9c647cac6b316fe4412569a50cdd2319d544"
+    },
+    "experiments/active_selection/results/true_nested_h2/h2_nested_per_repeat.csv": {
+      "after": "fa246880c55102156384ed94e5b91df309f0e28bf302be476e8ddf50e2b4d073",
+      "before": "fa246880c55102156384ed94e5b91df309f0e28bf302be476e8ddf50e2b4d073"
+    },
+    "experiments/active_selection/results/true_nested_h2/h2_nested_query_attrition.csv": {
+      "after": "dc43f9c36a576b9dbc1f26c57ec269a20ec431636e0860900a9372192166511c",
+      "before": "dc43f9c36a576b9dbc1f26c57ec269a20ec431636e0860900a9372192166511c"
+    }
+  },
+  "integrity_checks": {
+    "decision_matrix_rows": 36,
+    "fourway_k10_all_lake_learner_units_entered": true,
+    "fourway_k10_lake_learner_units_50plus": 54,
+    "fourway_k10_lake_learner_units_lt50": 18,
+    "fourway_k10_lake_learner_units_total": 72,
+    "fourway_k10_low_coverage_max_usable_repeats": 29,
+    "fourway_k10_low_coverage_min_usable_repeats": 1,
+    "fourway_k10_usable_fraction": 0.7547,
+    "fourway_summary_rows": 36,
+    "frozen_per_lake_rows": 2880,
+    "pairwise_all_lakes_all_repeats": true,
+    "pairwise_summary_rows": 36,
+    "raw_common_runtime_sign_max_abs_error": 8.881784197001252e-16
+  },
+  "jasien_identity_sensitivity": {
+    "fourway_class_changes": 0,
+    "pairwise_only_change": "MLP/k=3/Kennard--Stone random_better_to_unresolved"
+  },
+  "manuscripts_edited": false,
+  "model_training_or_refit": false,
+  "outputs_sha256": {
+    "h2_cross_estimand_decision_matrix.csv": "08ad25892f6ca3afd0441a889d8e771f28f47562b2bafb7e7daaaeb37f0a8e4d",
+    "h2_fourway_available_repeat_audited.csv": "e9bebdb866f3a3aaf34e1c8644fbbcd44e047ced28cfc3ebda7c8d571cbada18",
+    "h2_fourway_available_vs_threshold50.csv": "93b6af4bebf0b26e7981a619df47502750cd3e834332fa183d6165efdae3c77e",
+    "h2_fourway_common_query_audited.csv": "fa7ca0c9499f8786b8eea9586b80ff6437e5ac6fe88e4405cc00bab78f8ba56c",
+    "h2_fourway_repeat_coverage.csv": "4100c0ea64147c0d9331312975766b2e5926c29a678c452a50dccc950980598f",
+    "h2_fourway_threshold50_sensitivity.csv": "9ca5108649654d580a912fd25faf73e022e07ba3f3946145c8ad9090df344ee3",
+    "h2_pairwise_common_query_audited.csv": "dc734b2c35bc431cdb4b9f5a9f91803cae8c7f2511f1dae8f358457d72b0b940",
+    "h2_query_attrition_audited.csv": "5a8ddfa887cf91cceabe735c1b19510405c9b1d9c28f0afdbe6035d2c5a25d6a",
+    "manuscript_table_s10.md": "fb6b4c13dc238bae078887f8957fa5aaa19251448b456349b33a741ab58101e9",
+    "manuscript_table_s7.md": "48072cf4a8db15aed981bab674ff42405192ecae60ab78ffb7ab5a70c011f699",
+    "manuscript_table_s8.md": "b4294da82d747af9390a6c9724e6185ac14f98733ccbf2145b23a065b240edae",
+    "manuscript_table_s9.md": "138144e0883443dd53af3feffdb51a2f7a392f7e525548a1a652ecb0ad3826da"
+  },
+  "post_hoc_threshold50_replaces_frozen_fourway": false,
+  "primary_h2_replaced": false,
+  "scope": "frozen_available_repeat_fourway_audit_plus_post_hoc_threshold50_supporting_sensitivity",
+  "support_or_query_regeneration": false,
+  "threshold50": {
+    "classification_changes_vs_available": 0,
+    "classification_counts": {
+      "random_better": 14,
+      "unresolved": 22
+    },
+    "selector_better_cells": 0,
+    "threshold_usable_repeats": 50
+  }
+}

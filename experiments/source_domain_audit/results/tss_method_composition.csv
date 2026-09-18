@@ -1,0 +1,1339 @@
+outer_lake,Water_body_type,water_body_type_label,dataset_ids,organization_ids,tss_methods,group_count,site_count,raw_record_count,auxiliary_group_count
+Branched Oak Lake,1,lake,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,145,36,145,71
+Branched Oak Lake,1,lake,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,99,12,99,60
+Branched Oak Lake,1,lake,BarbosaCCF_BR_LabISA-INPE,LabISA-INPE,LabISA-INPE TSS,48,3,48,20
+Branched Oak Lake,1,lake,BindingC_CA_ECCC,ECCC,ECCC TSS,94,2,94,0
+Branched Oak Lake,1,lake,DekkerAG_NL_VU,VU,VU TSS,16,12,16,16
+Branched Oak Lake,1,lake,DiVittorioC_US_WFU,WFU,APHA 2540 D,86,1,86,0
+Branched Oak Lake,1,lake,FicekD_PL_APSL,APSL,APSL TSS,193,13,200,75
+Branched Oak Lake,1,lake,GegeP_DE_DLR-IMF,DLR-IMF,ISO 11923:1997,20,1,20,20
+Branched Oak Lake,1,lake,GiardinoC_IT_CNR-IREA,CNR-IREA,ISO 11923:1997,128,7,147,60
+Branched Oak Lake,1,lake,GitelsonAA_US_UNL,UNL,APHA 2540 D,164,13,164,164
+Branched Oak Lake,1,lake,GrebSR_US_WDNR,WDNR,APHA 2540 D,215,34,215,215
+Branched Oak Lake,1,lake,KravitzJ_ZA_UCT,UCT,APHA 2540 D,28,4,28,28
+Branched Oak Lake,1,lake,LehmannMK_NZ_UOW_NZ_LK,UOW,APHA 2540 D,169,85,170,169
+Branched Oak Lake,1,lake,LiL_US_IUPUI,IUPUI,IUPUI TSS,187,3,188,0
+Branched Oak Lake,1,lake,MaR_CN_NIGLAS,NIGLAS,APHA 2540 D,221,3,236,0
+Branched Oak Lake,1,lake,MatsushitaB_JP_Tsukuba,Tsukuba,APHA 2540 D,235,8,235,26
+Branched Oak Lake,1,lake,MatthewsM_ZA_UCT,UCT,APHA 2540 D,31,3,62,31
+Branched Oak Lake,1,lake,MooreT_US_UNH,UNH,APHA 2540 D,30,1,30,0
+Branched Oak Lake,1,lake,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,48,2,49,48
+Branched Oak Lake,1,lake,O'DonnellDM_US_UFI,UFI,APHA 2540 D,9,1,9,0
+Branched Oak Lake,1,lake,OlmansonLG_US_UMN,UMN,UMN TSS,7,7,7,7
+Branched Oak Lake,1,lake,OppeltN_DE_CAU_Kiel,CAU_Kiel,DIN 38409-2:1987-03,26,1,26,0
+Branched Oak Lake,1,lake,Ruiz-VerduA_ES_UVEG-CEDEX,UVEG-CEDEX,APHA 2540 D,30,6,30,30
+Branched Oak Lake,1,lake,SalemSI_JP_KUAS,KUAS,APHA 2540 D,68,1,68,0
+Branched Oak Lake,1,lake,SchallesJ_US_Creighton,Creighton,Creighton TSS,36,3,36,36
+Branched Oak Lake,1,lake,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,7,13,13
+Branched Oak Lake,1,lake,SpyrakosE_GB_STIR,STIR,APHA 2540 D,43,7,43,23
+Branched Oak Lake,1,lake,VanderWoudeA_US_NOAA-GLERL,NOAA-GLERL,APHA 2540 D,438,1,462,0
+Branched Oak Lake,1,lake,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,8,8,8,8
+Branched Oak Lake,1,lake,WertherM_GB_STIR,STIR,APHA 2540 D,12,4,12,12
+Branched Oak Lake,2,estuary,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,14,1,14,14
+Branched Oak Lake,2,estuary,FichotCG_US_BU_PIE,<missing>,BU_PIE TSS,23,1,23,23
+Branched Oak Lake,2,estuary,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,8,1,32,8
+Branched Oak Lake,2,estuary,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,187,44,196,187
+Branched Oak Lake,2,estuary,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,22,8,30,22
+Branched Oak Lake,2,estuary,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,2,2,2,2
+Branched Oak Lake,3,coastal_ocean,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,2,1,3,2
+Branched Oak Lake,3,coastal_ocean,HigaH_JP_YNU,YNU,APHA 2540 D,62,1,62,62
+Branched Oak Lake,3,coastal_ocean,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,489,8,536,489
+Branched Oak Lake,3,coastal_ocean,LehmannMK_NZ_UOW_NZ_CST,UOW,APHA 2540 D,65,1,65,65
+Branched Oak Lake,3,coastal_ocean,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,19,1,20,19
+Branched Oak Lake,3,coastal_ocean,OndrusekM_US_NOAA-STAR_KR_CST,NOAA-STAR,NASA TM 2003-211621,48,1,53,48
+Branched Oak Lake,3,coastal_ocean,SchallesJ_US_Creighton,Creighton,Creighton TSS,15,2,15,15
+Branched Oak Lake,3,coastal_ocean,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,5,13,13
+Branched Oak Lake,3,coastal_ocean,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,131,2,131,131
+Branched Oak Lake,3,coastal_ocean,SiswantoE_JP_JAMSTEC,JAMSTEC,APHA 2540 D,51,1,51,51
+Branched Oak Lake,3,coastal_ocean,WernandMR_NL_NIOZ_CST,NIOZ,NIOZ TSS,12,1,22,12
+Branched Oak Lake,4,river,DekkerAG_NL_VU,VU,VU TSS,4,4,4,4
+Branched Oak Lake,4,river,GrebSR_US_WDNR,WDNR,APHA 2540 D,1,1,1,1
+Branched Oak Lake,4,river,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,40,1,40,40
+Branched Oak Lake,4,river,SchallesJ_US_Creighton,Creighton,Creighton TSS,9,1,9,9
+Branched Oak Lake,4,river,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,123,23,126,123
+Branched Oak Lake,4,river,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,40,8,41,40
+Branched Oak Lake,4,river,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,4,4,4,4
+Branched Oak Lake,5,other,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,16,1,16,16
+Branched Oak Lake,5,other,SpyrakosE_GB_STIR,STIR,APHA 2540 D,5,1,5,5
+Chaohu,1,lake,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,145,36,145,71
+Chaohu,1,lake,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,99,12,99,60
+Chaohu,1,lake,BarbosaCCF_BR_LabISA-INPE,LabISA-INPE,LabISA-INPE TSS,48,3,48,20
+Chaohu,1,lake,BindingC_CA_ECCC,ECCC,ECCC TSS,94,2,94,0
+Chaohu,1,lake,DekkerAG_NL_VU,VU,VU TSS,16,12,16,16
+Chaohu,1,lake,DiVittorioC_US_WFU,WFU,APHA 2540 D,86,1,86,0
+Chaohu,1,lake,FicekD_PL_APSL,APSL,APSL TSS,193,13,200,75
+Chaohu,1,lake,GegeP_DE_DLR-IMF,DLR-IMF,ISO 11923:1997,20,1,20,20
+Chaohu,1,lake,GiardinoC_IT_CNR-IREA,CNR-IREA,ISO 11923:1997,128,7,147,60
+Chaohu,1,lake,GitelsonAA_US_UNL,UNL,APHA 2540 D,204,14,204,164
+Chaohu,1,lake,GrebSR_US_WDNR,WDNR,APHA 2540 D,215,34,215,215
+Chaohu,1,lake,KravitzJ_ZA_UCT,UCT,APHA 2540 D,28,4,28,28
+Chaohu,1,lake,LehmannMK_NZ_UOW_NZ_LK,UOW,APHA 2540 D,169,85,170,169
+Chaohu,1,lake,LiL_US_IUPUI,IUPUI,IUPUI TSS,187,3,188,0
+Chaohu,1,lake,MaR_CN_NIGLAS,NIGLAS,APHA 2540 D,200,2,207,0
+Chaohu,1,lake,MatsushitaB_JP_Tsukuba,Tsukuba,APHA 2540 D,235,8,235,26
+Chaohu,1,lake,MatthewsM_ZA_UCT,UCT,APHA 2540 D,31,3,62,31
+Chaohu,1,lake,MooreT_US_UNH,UNH,APHA 2540 D,30,1,30,0
+Chaohu,1,lake,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,48,2,49,48
+Chaohu,1,lake,O'DonnellDM_US_UFI,UFI,APHA 2540 D,9,1,9,0
+Chaohu,1,lake,OlmansonLG_US_UMN,UMN,UMN TSS,7,7,7,7
+Chaohu,1,lake,OppeltN_DE_CAU_Kiel,CAU_Kiel,DIN 38409-2:1987-03,26,1,26,0
+Chaohu,1,lake,Ruiz-VerduA_ES_UVEG-CEDEX,UVEG-CEDEX,APHA 2540 D,30,6,30,30
+Chaohu,1,lake,SalemSI_JP_KUAS,KUAS,APHA 2540 D,68,1,68,0
+Chaohu,1,lake,SchallesJ_US_Creighton,Creighton,Creighton TSS,36,3,36,36
+Chaohu,1,lake,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,7,13,13
+Chaohu,1,lake,SpyrakosE_GB_STIR,STIR,APHA 2540 D,43,7,43,23
+Chaohu,1,lake,VanderWoudeA_US_NOAA-GLERL,NOAA-GLERL,APHA 2540 D,438,1,462,0
+Chaohu,1,lake,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,8,8,8,8
+Chaohu,1,lake,WertherM_GB_STIR,STIR,APHA 2540 D,12,4,12,12
+Chaohu,2,estuary,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,14,1,14,14
+Chaohu,2,estuary,FichotCG_US_BU_PIE,<missing>,BU_PIE TSS,23,1,23,23
+Chaohu,2,estuary,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,8,1,32,8
+Chaohu,2,estuary,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,187,44,196,187
+Chaohu,2,estuary,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,22,8,30,22
+Chaohu,2,estuary,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,2,2,2,2
+Chaohu,3,coastal_ocean,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,2,1,3,2
+Chaohu,3,coastal_ocean,HigaH_JP_YNU,YNU,APHA 2540 D,62,1,62,62
+Chaohu,3,coastal_ocean,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,489,8,536,489
+Chaohu,3,coastal_ocean,LehmannMK_NZ_UOW_NZ_CST,UOW,APHA 2540 D,65,1,65,65
+Chaohu,3,coastal_ocean,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,19,1,20,19
+Chaohu,3,coastal_ocean,OndrusekM_US_NOAA-STAR_KR_CST,NOAA-STAR,NASA TM 2003-211621,48,1,53,48
+Chaohu,3,coastal_ocean,SchallesJ_US_Creighton,Creighton,Creighton TSS,15,2,15,15
+Chaohu,3,coastal_ocean,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,5,13,13
+Chaohu,3,coastal_ocean,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,131,2,131,131
+Chaohu,3,coastal_ocean,SiswantoE_JP_JAMSTEC,JAMSTEC,APHA 2540 D,51,1,51,51
+Chaohu,3,coastal_ocean,WernandMR_NL_NIOZ_CST,NIOZ,NIOZ TSS,12,1,22,12
+Chaohu,4,river,DekkerAG_NL_VU,VU,VU TSS,4,4,4,4
+Chaohu,4,river,GrebSR_US_WDNR,WDNR,APHA 2540 D,1,1,1,1
+Chaohu,4,river,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,40,1,40,40
+Chaohu,4,river,SchallesJ_US_Creighton,Creighton,Creighton TSS,9,1,9,9
+Chaohu,4,river,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,123,23,126,123
+Chaohu,4,river,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,40,8,41,40
+Chaohu,4,river,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,4,4,4,4
+Chaohu,5,other,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,16,1,16,16
+Chaohu,5,other,SpyrakosE_GB_STIR,STIR,APHA 2540 D,5,1,5,5
+Dianchi,1,lake,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,145,36,145,71
+Dianchi,1,lake,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,99,12,99,60
+Dianchi,1,lake,BarbosaCCF_BR_LabISA-INPE,LabISA-INPE,LabISA-INPE TSS,48,3,48,20
+Dianchi,1,lake,BindingC_CA_ECCC,ECCC,ECCC TSS,94,2,94,0
+Dianchi,1,lake,DekkerAG_NL_VU,VU,VU TSS,16,12,16,16
+Dianchi,1,lake,DiVittorioC_US_WFU,WFU,APHA 2540 D,86,1,86,0
+Dianchi,1,lake,FicekD_PL_APSL,APSL,APSL TSS,193,13,200,75
+Dianchi,1,lake,GegeP_DE_DLR-IMF,DLR-IMF,ISO 11923:1997,20,1,20,20
+Dianchi,1,lake,GiardinoC_IT_CNR-IREA,CNR-IREA,ISO 11923:1997,128,7,147,60
+Dianchi,1,lake,GitelsonAA_US_UNL,UNL,APHA 2540 D,204,14,204,164
+Dianchi,1,lake,GrebSR_US_WDNR,WDNR,APHA 2540 D,215,34,215,215
+Dianchi,1,lake,KravitzJ_ZA_UCT,UCT,APHA 2540 D,28,4,28,28
+Dianchi,1,lake,LehmannMK_NZ_UOW_NZ_LK,UOW,APHA 2540 D,169,85,170,169
+Dianchi,1,lake,LiL_US_IUPUI,IUPUI,IUPUI TSS,187,3,188,0
+Dianchi,1,lake,MaR_CN_NIGLAS,NIGLAS,APHA 2540 D,209,2,224,0
+Dianchi,1,lake,MatsushitaB_JP_Tsukuba,Tsukuba,APHA 2540 D,183,7,183,26
+Dianchi,1,lake,MatthewsM_ZA_UCT,UCT,APHA 2540 D,31,3,62,31
+Dianchi,1,lake,MooreT_US_UNH,UNH,APHA 2540 D,30,1,30,0
+Dianchi,1,lake,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,48,2,49,48
+Dianchi,1,lake,O'DonnellDM_US_UFI,UFI,APHA 2540 D,9,1,9,0
+Dianchi,1,lake,OlmansonLG_US_UMN,UMN,UMN TSS,7,7,7,7
+Dianchi,1,lake,OppeltN_DE_CAU_Kiel,CAU_Kiel,DIN 38409-2:1987-03,26,1,26,0
+Dianchi,1,lake,Ruiz-VerduA_ES_UVEG-CEDEX,UVEG-CEDEX,APHA 2540 D,30,6,30,30
+Dianchi,1,lake,SalemSI_JP_KUAS,KUAS,APHA 2540 D,68,1,68,0
+Dianchi,1,lake,SchallesJ_US_Creighton,Creighton,Creighton TSS,36,3,36,36
+Dianchi,1,lake,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,7,13,13
+Dianchi,1,lake,SpyrakosE_GB_STIR,STIR,APHA 2540 D,43,7,43,23
+Dianchi,1,lake,VanderWoudeA_US_NOAA-GLERL,NOAA-GLERL,APHA 2540 D,438,1,462,0
+Dianchi,1,lake,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,8,8,8,8
+Dianchi,1,lake,WertherM_GB_STIR,STIR,APHA 2540 D,12,4,12,12
+Dianchi,2,estuary,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,14,1,14,14
+Dianchi,2,estuary,FichotCG_US_BU_PIE,<missing>,BU_PIE TSS,23,1,23,23
+Dianchi,2,estuary,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,8,1,32,8
+Dianchi,2,estuary,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,187,44,196,187
+Dianchi,2,estuary,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,22,8,30,22
+Dianchi,2,estuary,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,2,2,2,2
+Dianchi,3,coastal_ocean,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,2,1,3,2
+Dianchi,3,coastal_ocean,HigaH_JP_YNU,YNU,APHA 2540 D,62,1,62,62
+Dianchi,3,coastal_ocean,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,489,8,536,489
+Dianchi,3,coastal_ocean,LehmannMK_NZ_UOW_NZ_CST,UOW,APHA 2540 D,65,1,65,65
+Dianchi,3,coastal_ocean,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,19,1,20,19
+Dianchi,3,coastal_ocean,OndrusekM_US_NOAA-STAR_KR_CST,NOAA-STAR,NASA TM 2003-211621,48,1,53,48
+Dianchi,3,coastal_ocean,SchallesJ_US_Creighton,Creighton,Creighton TSS,15,2,15,15
+Dianchi,3,coastal_ocean,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,5,13,13
+Dianchi,3,coastal_ocean,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,131,2,131,131
+Dianchi,3,coastal_ocean,SiswantoE_JP_JAMSTEC,JAMSTEC,APHA 2540 D,51,1,51,51
+Dianchi,3,coastal_ocean,WernandMR_NL_NIOZ_CST,NIOZ,NIOZ TSS,12,1,22,12
+Dianchi,4,river,DekkerAG_NL_VU,VU,VU TSS,4,4,4,4
+Dianchi,4,river,GrebSR_US_WDNR,WDNR,APHA 2540 D,1,1,1,1
+Dianchi,4,river,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,40,1,40,40
+Dianchi,4,river,SchallesJ_US_Creighton,Creighton,Creighton TSS,9,1,9,9
+Dianchi,4,river,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,123,23,126,123
+Dianchi,4,river,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,40,8,41,40
+Dianchi,4,river,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,4,4,4,4
+Dianchi,5,other,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,16,1,16,16
+Dianchi,5,other,SpyrakosE_GB_STIR,STIR,APHA 2540 D,5,1,5,5
+Eagle Creek Reservoir,1,lake,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,145,36,145,71
+Eagle Creek Reservoir,1,lake,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,99,12,99,60
+Eagle Creek Reservoir,1,lake,BarbosaCCF_BR_LabISA-INPE,LabISA-INPE,LabISA-INPE TSS,48,3,48,20
+Eagle Creek Reservoir,1,lake,BindingC_CA_ECCC,ECCC,ECCC TSS,94,2,94,0
+Eagle Creek Reservoir,1,lake,DekkerAG_NL_VU,VU,VU TSS,16,12,16,16
+Eagle Creek Reservoir,1,lake,DiVittorioC_US_WFU,WFU,APHA 2540 D,86,1,86,0
+Eagle Creek Reservoir,1,lake,FicekD_PL_APSL,APSL,APSL TSS,193,13,200,75
+Eagle Creek Reservoir,1,lake,GegeP_DE_DLR-IMF,DLR-IMF,ISO 11923:1997,20,1,20,20
+Eagle Creek Reservoir,1,lake,GiardinoC_IT_CNR-IREA,CNR-IREA,ISO 11923:1997,128,7,147,60
+Eagle Creek Reservoir,1,lake,GitelsonAA_US_UNL,UNL,APHA 2540 D,204,14,204,164
+Eagle Creek Reservoir,1,lake,GrebSR_US_WDNR,WDNR,APHA 2540 D,215,34,215,215
+Eagle Creek Reservoir,1,lake,KravitzJ_ZA_UCT,UCT,APHA 2540 D,28,4,28,28
+Eagle Creek Reservoir,1,lake,LehmannMK_NZ_UOW_NZ_LK,UOW,APHA 2540 D,169,85,170,169
+Eagle Creek Reservoir,1,lake,LiL_US_IUPUI,IUPUI,IUPUI TSS,109,2,109,0
+Eagle Creek Reservoir,1,lake,MaR_CN_NIGLAS,NIGLAS,APHA 2540 D,221,3,236,0
+Eagle Creek Reservoir,1,lake,MatsushitaB_JP_Tsukuba,Tsukuba,APHA 2540 D,235,8,235,26
+Eagle Creek Reservoir,1,lake,MatthewsM_ZA_UCT,UCT,APHA 2540 D,31,3,62,31
+Eagle Creek Reservoir,1,lake,MooreT_US_UNH,UNH,APHA 2540 D,30,1,30,0
+Eagle Creek Reservoir,1,lake,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,48,2,49,48
+Eagle Creek Reservoir,1,lake,O'DonnellDM_US_UFI,UFI,APHA 2540 D,9,1,9,0
+Eagle Creek Reservoir,1,lake,OlmansonLG_US_UMN,UMN,UMN TSS,7,7,7,7
+Eagle Creek Reservoir,1,lake,OppeltN_DE_CAU_Kiel,CAU_Kiel,DIN 38409-2:1987-03,26,1,26,0
+Eagle Creek Reservoir,1,lake,Ruiz-VerduA_ES_UVEG-CEDEX,UVEG-CEDEX,APHA 2540 D,30,6,30,30
+Eagle Creek Reservoir,1,lake,SalemSI_JP_KUAS,KUAS,APHA 2540 D,68,1,68,0
+Eagle Creek Reservoir,1,lake,SchallesJ_US_Creighton,Creighton,Creighton TSS,36,3,36,36
+Eagle Creek Reservoir,1,lake,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,7,13,13
+Eagle Creek Reservoir,1,lake,SpyrakosE_GB_STIR,STIR,APHA 2540 D,43,7,43,23
+Eagle Creek Reservoir,1,lake,VanderWoudeA_US_NOAA-GLERL,NOAA-GLERL,APHA 2540 D,438,1,462,0
+Eagle Creek Reservoir,1,lake,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,8,8,8,8
+Eagle Creek Reservoir,1,lake,WertherM_GB_STIR,STIR,APHA 2540 D,12,4,12,12
+Eagle Creek Reservoir,2,estuary,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,14,1,14,14
+Eagle Creek Reservoir,2,estuary,FichotCG_US_BU_PIE,<missing>,BU_PIE TSS,23,1,23,23
+Eagle Creek Reservoir,2,estuary,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,8,1,32,8
+Eagle Creek Reservoir,2,estuary,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,187,44,196,187
+Eagle Creek Reservoir,2,estuary,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,22,8,30,22
+Eagle Creek Reservoir,2,estuary,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,2,2,2,2
+Eagle Creek Reservoir,3,coastal_ocean,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,2,1,3,2
+Eagle Creek Reservoir,3,coastal_ocean,HigaH_JP_YNU,YNU,APHA 2540 D,62,1,62,62
+Eagle Creek Reservoir,3,coastal_ocean,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,489,8,536,489
+Eagle Creek Reservoir,3,coastal_ocean,LehmannMK_NZ_UOW_NZ_CST,UOW,APHA 2540 D,65,1,65,65
+Eagle Creek Reservoir,3,coastal_ocean,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,19,1,20,19
+Eagle Creek Reservoir,3,coastal_ocean,OndrusekM_US_NOAA-STAR_KR_CST,NOAA-STAR,NASA TM 2003-211621,48,1,53,48
+Eagle Creek Reservoir,3,coastal_ocean,SchallesJ_US_Creighton,Creighton,Creighton TSS,15,2,15,15
+Eagle Creek Reservoir,3,coastal_ocean,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,5,13,13
+Eagle Creek Reservoir,3,coastal_ocean,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,131,2,131,131
+Eagle Creek Reservoir,3,coastal_ocean,SiswantoE_JP_JAMSTEC,JAMSTEC,APHA 2540 D,51,1,51,51
+Eagle Creek Reservoir,3,coastal_ocean,WernandMR_NL_NIOZ_CST,NIOZ,NIOZ TSS,12,1,22,12
+Eagle Creek Reservoir,4,river,DekkerAG_NL_VU,VU,VU TSS,4,4,4,4
+Eagle Creek Reservoir,4,river,GrebSR_US_WDNR,WDNR,APHA 2540 D,1,1,1,1
+Eagle Creek Reservoir,4,river,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,40,1,40,40
+Eagle Creek Reservoir,4,river,SchallesJ_US_Creighton,Creighton,Creighton TSS,9,1,9,9
+Eagle Creek Reservoir,4,river,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,123,23,126,123
+Eagle Creek Reservoir,4,river,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,40,8,41,40
+Eagle Creek Reservoir,4,river,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,4,4,4,4
+Eagle Creek Reservoir,5,other,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,16,1,16,16
+Eagle Creek Reservoir,5,other,SpyrakosE_GB_STIR,STIR,APHA 2540 D,5,1,5,5
+Erhai,1,lake,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,145,36,145,71
+Erhai,1,lake,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,99,12,99,60
+Erhai,1,lake,BarbosaCCF_BR_LabISA-INPE,LabISA-INPE,LabISA-INPE TSS,48,3,48,20
+Erhai,1,lake,BindingC_CA_ECCC,ECCC,ECCC TSS,94,2,94,0
+Erhai,1,lake,DekkerAG_NL_VU,VU,VU TSS,16,12,16,16
+Erhai,1,lake,DiVittorioC_US_WFU,WFU,APHA 2540 D,86,1,86,0
+Erhai,1,lake,FicekD_PL_APSL,APSL,APSL TSS,193,13,200,75
+Erhai,1,lake,GegeP_DE_DLR-IMF,DLR-IMF,ISO 11923:1997,20,1,20,20
+Erhai,1,lake,GiardinoC_IT_CNR-IREA,CNR-IREA,ISO 11923:1997,128,7,147,60
+Erhai,1,lake,GitelsonAA_US_UNL,UNL,APHA 2540 D,204,14,204,164
+Erhai,1,lake,GrebSR_US_WDNR,WDNR,APHA 2540 D,215,34,215,215
+Erhai,1,lake,KravitzJ_ZA_UCT,UCT,APHA 2540 D,28,4,28,28
+Erhai,1,lake,LehmannMK_NZ_UOW_NZ_LK,UOW,APHA 2540 D,169,85,170,169
+Erhai,1,lake,LiL_US_IUPUI,IUPUI,IUPUI TSS,187,3,188,0
+Erhai,1,lake,MaR_CN_NIGLAS,NIGLAS,APHA 2540 D,221,3,236,0
+Erhai,1,lake,MatsushitaB_JP_Tsukuba,Tsukuba,APHA 2540 D,198,7,198,26
+Erhai,1,lake,MatthewsM_ZA_UCT,UCT,APHA 2540 D,31,3,62,31
+Erhai,1,lake,MooreT_US_UNH,UNH,APHA 2540 D,30,1,30,0
+Erhai,1,lake,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,48,2,49,48
+Erhai,1,lake,O'DonnellDM_US_UFI,UFI,APHA 2540 D,9,1,9,0
+Erhai,1,lake,OlmansonLG_US_UMN,UMN,UMN TSS,7,7,7,7
+Erhai,1,lake,OppeltN_DE_CAU_Kiel,CAU_Kiel,DIN 38409-2:1987-03,26,1,26,0
+Erhai,1,lake,Ruiz-VerduA_ES_UVEG-CEDEX,UVEG-CEDEX,APHA 2540 D,30,6,30,30
+Erhai,1,lake,SalemSI_JP_KUAS,KUAS,APHA 2540 D,68,1,68,0
+Erhai,1,lake,SchallesJ_US_Creighton,Creighton,Creighton TSS,36,3,36,36
+Erhai,1,lake,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,7,13,13
+Erhai,1,lake,SpyrakosE_GB_STIR,STIR,APHA 2540 D,43,7,43,23
+Erhai,1,lake,VanderWoudeA_US_NOAA-GLERL,NOAA-GLERL,APHA 2540 D,438,1,462,0
+Erhai,1,lake,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,8,8,8,8
+Erhai,1,lake,WertherM_GB_STIR,STIR,APHA 2540 D,12,4,12,12
+Erhai,2,estuary,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,14,1,14,14
+Erhai,2,estuary,FichotCG_US_BU_PIE,<missing>,BU_PIE TSS,23,1,23,23
+Erhai,2,estuary,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,8,1,32,8
+Erhai,2,estuary,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,187,44,196,187
+Erhai,2,estuary,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,22,8,30,22
+Erhai,2,estuary,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,2,2,2,2
+Erhai,3,coastal_ocean,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,2,1,3,2
+Erhai,3,coastal_ocean,HigaH_JP_YNU,YNU,APHA 2540 D,62,1,62,62
+Erhai,3,coastal_ocean,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,489,8,536,489
+Erhai,3,coastal_ocean,LehmannMK_NZ_UOW_NZ_CST,UOW,APHA 2540 D,65,1,65,65
+Erhai,3,coastal_ocean,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,19,1,20,19
+Erhai,3,coastal_ocean,OndrusekM_US_NOAA-STAR_KR_CST,NOAA-STAR,NASA TM 2003-211621,48,1,53,48
+Erhai,3,coastal_ocean,SchallesJ_US_Creighton,Creighton,Creighton TSS,15,2,15,15
+Erhai,3,coastal_ocean,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,5,13,13
+Erhai,3,coastal_ocean,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,131,2,131,131
+Erhai,3,coastal_ocean,SiswantoE_JP_JAMSTEC,JAMSTEC,APHA 2540 D,51,1,51,51
+Erhai,3,coastal_ocean,WernandMR_NL_NIOZ_CST,NIOZ,NIOZ TSS,12,1,22,12
+Erhai,4,river,DekkerAG_NL_VU,VU,VU TSS,4,4,4,4
+Erhai,4,river,GrebSR_US_WDNR,WDNR,APHA 2540 D,1,1,1,1
+Erhai,4,river,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,40,1,40,40
+Erhai,4,river,SchallesJ_US_Creighton,Creighton,Creighton TSS,9,1,9,9
+Erhai,4,river,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,123,23,126,123
+Erhai,4,river,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,40,8,41,40
+Erhai,4,river,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,4,4,4,4
+Erhai,5,other,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,16,1,16,16
+Erhai,5,other,SpyrakosE_GB_STIR,STIR,APHA 2540 D,5,1,5,5
+Garda,1,lake,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,145,36,145,71
+Garda,1,lake,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,99,12,99,60
+Garda,1,lake,BarbosaCCF_BR_LabISA-INPE,LabISA-INPE,LabISA-INPE TSS,48,3,48,20
+Garda,1,lake,BindingC_CA_ECCC,ECCC,ECCC TSS,94,2,94,0
+Garda,1,lake,DekkerAG_NL_VU,VU,VU TSS,16,12,16,16
+Garda,1,lake,DiVittorioC_US_WFU,WFU,APHA 2540 D,86,1,86,0
+Garda,1,lake,FicekD_PL_APSL,APSL,APSL TSS,193,13,200,75
+Garda,1,lake,GegeP_DE_DLR-IMF,DLR-IMF,ISO 11923:1997,20,1,20,20
+Garda,1,lake,GiardinoC_IT_CNR-IREA,CNR-IREA,ISO 11923:1997,91,6,102,60
+Garda,1,lake,GitelsonAA_US_UNL,UNL,APHA 2540 D,204,14,204,164
+Garda,1,lake,GrebSR_US_WDNR,WDNR,APHA 2540 D,215,34,215,215
+Garda,1,lake,KravitzJ_ZA_UCT,UCT,APHA 2540 D,28,4,28,28
+Garda,1,lake,LehmannMK_NZ_UOW_NZ_LK,UOW,APHA 2540 D,169,85,170,169
+Garda,1,lake,LiL_US_IUPUI,IUPUI,IUPUI TSS,187,3,188,0
+Garda,1,lake,MaR_CN_NIGLAS,NIGLAS,APHA 2540 D,221,3,236,0
+Garda,1,lake,MatsushitaB_JP_Tsukuba,Tsukuba,APHA 2540 D,235,8,235,26
+Garda,1,lake,MatthewsM_ZA_UCT,UCT,APHA 2540 D,31,3,62,31
+Garda,1,lake,MooreT_US_UNH,UNH,APHA 2540 D,30,1,30,0
+Garda,1,lake,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,48,2,49,48
+Garda,1,lake,O'DonnellDM_US_UFI,UFI,APHA 2540 D,9,1,9,0
+Garda,1,lake,OlmansonLG_US_UMN,UMN,UMN TSS,7,7,7,7
+Garda,1,lake,OppeltN_DE_CAU_Kiel,CAU_Kiel,DIN 38409-2:1987-03,26,1,26,0
+Garda,1,lake,Ruiz-VerduA_ES_UVEG-CEDEX,UVEG-CEDEX,APHA 2540 D,30,6,30,30
+Garda,1,lake,SalemSI_JP_KUAS,KUAS,APHA 2540 D,68,1,68,0
+Garda,1,lake,SchallesJ_US_Creighton,Creighton,Creighton TSS,36,3,36,36
+Garda,1,lake,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,7,13,13
+Garda,1,lake,SpyrakosE_GB_STIR,STIR,APHA 2540 D,43,7,43,23
+Garda,1,lake,VanderWoudeA_US_NOAA-GLERL,NOAA-GLERL,APHA 2540 D,438,1,462,0
+Garda,1,lake,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,8,8,8,8
+Garda,1,lake,WertherM_GB_STIR,STIR,APHA 2540 D,12,4,12,12
+Garda,2,estuary,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,14,1,14,14
+Garda,2,estuary,FichotCG_US_BU_PIE,<missing>,BU_PIE TSS,23,1,23,23
+Garda,2,estuary,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,8,1,32,8
+Garda,2,estuary,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,187,44,196,187
+Garda,2,estuary,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,22,8,30,22
+Garda,2,estuary,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,2,2,2,2
+Garda,3,coastal_ocean,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,2,1,3,2
+Garda,3,coastal_ocean,HigaH_JP_YNU,YNU,APHA 2540 D,62,1,62,62
+Garda,3,coastal_ocean,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,489,8,536,489
+Garda,3,coastal_ocean,LehmannMK_NZ_UOW_NZ_CST,UOW,APHA 2540 D,65,1,65,65
+Garda,3,coastal_ocean,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,19,1,20,19
+Garda,3,coastal_ocean,OndrusekM_US_NOAA-STAR_KR_CST,NOAA-STAR,NASA TM 2003-211621,48,1,53,48
+Garda,3,coastal_ocean,SchallesJ_US_Creighton,Creighton,Creighton TSS,15,2,15,15
+Garda,3,coastal_ocean,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,5,13,13
+Garda,3,coastal_ocean,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,131,2,131,131
+Garda,3,coastal_ocean,SiswantoE_JP_JAMSTEC,JAMSTEC,APHA 2540 D,51,1,51,51
+Garda,3,coastal_ocean,WernandMR_NL_NIOZ_CST,NIOZ,NIOZ TSS,12,1,22,12
+Garda,4,river,DekkerAG_NL_VU,VU,VU TSS,4,4,4,4
+Garda,4,river,GrebSR_US_WDNR,WDNR,APHA 2540 D,1,1,1,1
+Garda,4,river,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,40,1,40,40
+Garda,4,river,SchallesJ_US_Creighton,Creighton,Creighton TSS,9,1,9,9
+Garda,4,river,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,123,23,126,123
+Garda,4,river,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,40,8,41,40
+Garda,4,river,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,4,4,4,4
+Garda,5,other,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,16,1,16,16
+Garda,5,other,SpyrakosE_GB_STIR,STIR,APHA 2540 D,5,1,5,5
+Geist Reservoir,1,lake,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,145,36,145,71
+Geist Reservoir,1,lake,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,99,12,99,60
+Geist Reservoir,1,lake,BarbosaCCF_BR_LabISA-INPE,LabISA-INPE,LabISA-INPE TSS,48,3,48,20
+Geist Reservoir,1,lake,BindingC_CA_ECCC,ECCC,ECCC TSS,94,2,94,0
+Geist Reservoir,1,lake,DekkerAG_NL_VU,VU,VU TSS,16,12,16,16
+Geist Reservoir,1,lake,DiVittorioC_US_WFU,WFU,APHA 2540 D,86,1,86,0
+Geist Reservoir,1,lake,FicekD_PL_APSL,APSL,APSL TSS,193,13,200,75
+Geist Reservoir,1,lake,GegeP_DE_DLR-IMF,DLR-IMF,ISO 11923:1997,20,1,20,20
+Geist Reservoir,1,lake,GiardinoC_IT_CNR-IREA,CNR-IREA,ISO 11923:1997,128,7,147,60
+Geist Reservoir,1,lake,GitelsonAA_US_UNL,UNL,APHA 2540 D,204,14,204,164
+Geist Reservoir,1,lake,GrebSR_US_WDNR,WDNR,APHA 2540 D,215,34,215,215
+Geist Reservoir,1,lake,KravitzJ_ZA_UCT,UCT,APHA 2540 D,28,4,28,28
+Geist Reservoir,1,lake,LehmannMK_NZ_UOW_NZ_LK,UOW,APHA 2540 D,169,85,170,169
+Geist Reservoir,1,lake,LiL_US_IUPUI,IUPUI,IUPUI TSS,131,2,132,0
+Geist Reservoir,1,lake,MaR_CN_NIGLAS,NIGLAS,APHA 2540 D,221,3,236,0
+Geist Reservoir,1,lake,MatsushitaB_JP_Tsukuba,Tsukuba,APHA 2540 D,235,8,235,26
+Geist Reservoir,1,lake,MatthewsM_ZA_UCT,UCT,APHA 2540 D,31,3,62,31
+Geist Reservoir,1,lake,MooreT_US_UNH,UNH,APHA 2540 D,30,1,30,0
+Geist Reservoir,1,lake,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,48,2,49,48
+Geist Reservoir,1,lake,O'DonnellDM_US_UFI,UFI,APHA 2540 D,9,1,9,0
+Geist Reservoir,1,lake,OlmansonLG_US_UMN,UMN,UMN TSS,7,7,7,7
+Geist Reservoir,1,lake,OppeltN_DE_CAU_Kiel,CAU_Kiel,DIN 38409-2:1987-03,26,1,26,0
+Geist Reservoir,1,lake,Ruiz-VerduA_ES_UVEG-CEDEX,UVEG-CEDEX,APHA 2540 D,30,6,30,30
+Geist Reservoir,1,lake,SalemSI_JP_KUAS,KUAS,APHA 2540 D,68,1,68,0
+Geist Reservoir,1,lake,SchallesJ_US_Creighton,Creighton,Creighton TSS,36,3,36,36
+Geist Reservoir,1,lake,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,7,13,13
+Geist Reservoir,1,lake,SpyrakosE_GB_STIR,STIR,APHA 2540 D,43,7,43,23
+Geist Reservoir,1,lake,VanderWoudeA_US_NOAA-GLERL,NOAA-GLERL,APHA 2540 D,438,1,462,0
+Geist Reservoir,1,lake,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,8,8,8,8
+Geist Reservoir,1,lake,WertherM_GB_STIR,STIR,APHA 2540 D,12,4,12,12
+Geist Reservoir,2,estuary,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,14,1,14,14
+Geist Reservoir,2,estuary,FichotCG_US_BU_PIE,<missing>,BU_PIE TSS,23,1,23,23
+Geist Reservoir,2,estuary,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,8,1,32,8
+Geist Reservoir,2,estuary,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,187,44,196,187
+Geist Reservoir,2,estuary,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,22,8,30,22
+Geist Reservoir,2,estuary,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,2,2,2,2
+Geist Reservoir,3,coastal_ocean,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,2,1,3,2
+Geist Reservoir,3,coastal_ocean,HigaH_JP_YNU,YNU,APHA 2540 D,62,1,62,62
+Geist Reservoir,3,coastal_ocean,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,489,8,536,489
+Geist Reservoir,3,coastal_ocean,LehmannMK_NZ_UOW_NZ_CST,UOW,APHA 2540 D,65,1,65,65
+Geist Reservoir,3,coastal_ocean,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,19,1,20,19
+Geist Reservoir,3,coastal_ocean,OndrusekM_US_NOAA-STAR_KR_CST,NOAA-STAR,NASA TM 2003-211621,48,1,53,48
+Geist Reservoir,3,coastal_ocean,SchallesJ_US_Creighton,Creighton,Creighton TSS,15,2,15,15
+Geist Reservoir,3,coastal_ocean,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,5,13,13
+Geist Reservoir,3,coastal_ocean,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,131,2,131,131
+Geist Reservoir,3,coastal_ocean,SiswantoE_JP_JAMSTEC,JAMSTEC,APHA 2540 D,51,1,51,51
+Geist Reservoir,3,coastal_ocean,WernandMR_NL_NIOZ_CST,NIOZ,NIOZ TSS,12,1,22,12
+Geist Reservoir,4,river,DekkerAG_NL_VU,VU,VU TSS,4,4,4,4
+Geist Reservoir,4,river,GrebSR_US_WDNR,WDNR,APHA 2540 D,1,1,1,1
+Geist Reservoir,4,river,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,40,1,40,40
+Geist Reservoir,4,river,SchallesJ_US_Creighton,Creighton,Creighton TSS,9,1,9,9
+Geist Reservoir,4,river,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,123,23,126,123
+Geist Reservoir,4,river,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,40,8,41,40
+Geist Reservoir,4,river,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,4,4,4,4
+Geist Reservoir,5,other,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,16,1,16,16
+Geist Reservoir,5,other,SpyrakosE_GB_STIR,STIR,APHA 2540 D,5,1,5,5
+High Rock Lake,1,lake,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,145,36,145,71
+High Rock Lake,1,lake,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,99,12,99,60
+High Rock Lake,1,lake,BarbosaCCF_BR_LabISA-INPE,LabISA-INPE,LabISA-INPE TSS,48,3,48,20
+High Rock Lake,1,lake,BindingC_CA_ECCC,ECCC,ECCC TSS,94,2,94,0
+High Rock Lake,1,lake,DekkerAG_NL_VU,VU,VU TSS,16,12,16,16
+High Rock Lake,1,lake,FicekD_PL_APSL,APSL,APSL TSS,193,13,200,75
+High Rock Lake,1,lake,GegeP_DE_DLR-IMF,DLR-IMF,ISO 11923:1997,20,1,20,20
+High Rock Lake,1,lake,GiardinoC_IT_CNR-IREA,CNR-IREA,ISO 11923:1997,128,7,147,60
+High Rock Lake,1,lake,GitelsonAA_US_UNL,UNL,APHA 2540 D,204,14,204,164
+High Rock Lake,1,lake,GrebSR_US_WDNR,WDNR,APHA 2540 D,215,34,215,215
+High Rock Lake,1,lake,KravitzJ_ZA_UCT,UCT,APHA 2540 D,28,4,28,28
+High Rock Lake,1,lake,LehmannMK_NZ_UOW_NZ_LK,UOW,APHA 2540 D,169,85,170,169
+High Rock Lake,1,lake,LiL_US_IUPUI,IUPUI,IUPUI TSS,187,3,188,0
+High Rock Lake,1,lake,MaR_CN_NIGLAS,NIGLAS,APHA 2540 D,221,3,236,0
+High Rock Lake,1,lake,MatsushitaB_JP_Tsukuba,Tsukuba,APHA 2540 D,235,8,235,26
+High Rock Lake,1,lake,MatthewsM_ZA_UCT,UCT,APHA 2540 D,31,3,62,31
+High Rock Lake,1,lake,MooreT_US_UNH,UNH,APHA 2540 D,30,1,30,0
+High Rock Lake,1,lake,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,48,2,49,48
+High Rock Lake,1,lake,O'DonnellDM_US_UFI,UFI,APHA 2540 D,9,1,9,0
+High Rock Lake,1,lake,OlmansonLG_US_UMN,UMN,UMN TSS,7,7,7,7
+High Rock Lake,1,lake,OppeltN_DE_CAU_Kiel,CAU_Kiel,DIN 38409-2:1987-03,26,1,26,0
+High Rock Lake,1,lake,Ruiz-VerduA_ES_UVEG-CEDEX,UVEG-CEDEX,APHA 2540 D,30,6,30,30
+High Rock Lake,1,lake,SalemSI_JP_KUAS,KUAS,APHA 2540 D,68,1,68,0
+High Rock Lake,1,lake,SchallesJ_US_Creighton,Creighton,Creighton TSS,36,3,36,36
+High Rock Lake,1,lake,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,7,13,13
+High Rock Lake,1,lake,SpyrakosE_GB_STIR,STIR,APHA 2540 D,43,7,43,23
+High Rock Lake,1,lake,VanderWoudeA_US_NOAA-GLERL,NOAA-GLERL,APHA 2540 D,438,1,462,0
+High Rock Lake,1,lake,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,8,8,8,8
+High Rock Lake,1,lake,WertherM_GB_STIR,STIR,APHA 2540 D,12,4,12,12
+High Rock Lake,2,estuary,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,14,1,14,14
+High Rock Lake,2,estuary,FichotCG_US_BU_PIE,<missing>,BU_PIE TSS,23,1,23,23
+High Rock Lake,2,estuary,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,8,1,32,8
+High Rock Lake,2,estuary,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,187,44,196,187
+High Rock Lake,2,estuary,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,22,8,30,22
+High Rock Lake,2,estuary,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,2,2,2,2
+High Rock Lake,3,coastal_ocean,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,2,1,3,2
+High Rock Lake,3,coastal_ocean,HigaH_JP_YNU,YNU,APHA 2540 D,62,1,62,62
+High Rock Lake,3,coastal_ocean,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,489,8,536,489
+High Rock Lake,3,coastal_ocean,LehmannMK_NZ_UOW_NZ_CST,UOW,APHA 2540 D,65,1,65,65
+High Rock Lake,3,coastal_ocean,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,19,1,20,19
+High Rock Lake,3,coastal_ocean,OndrusekM_US_NOAA-STAR_KR_CST,NOAA-STAR,NASA TM 2003-211621,48,1,53,48
+High Rock Lake,3,coastal_ocean,SchallesJ_US_Creighton,Creighton,Creighton TSS,15,2,15,15
+High Rock Lake,3,coastal_ocean,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,5,13,13
+High Rock Lake,3,coastal_ocean,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,131,2,131,131
+High Rock Lake,3,coastal_ocean,SiswantoE_JP_JAMSTEC,JAMSTEC,APHA 2540 D,51,1,51,51
+High Rock Lake,3,coastal_ocean,WernandMR_NL_NIOZ_CST,NIOZ,NIOZ TSS,12,1,22,12
+High Rock Lake,4,river,DekkerAG_NL_VU,VU,VU TSS,4,4,4,4
+High Rock Lake,4,river,GrebSR_US_WDNR,WDNR,APHA 2540 D,1,1,1,1
+High Rock Lake,4,river,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,40,1,40,40
+High Rock Lake,4,river,SchallesJ_US_Creighton,Creighton,Creighton TSS,9,1,9,9
+High Rock Lake,4,river,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,123,23,126,123
+High Rock Lake,4,river,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,40,8,41,40
+High Rock Lake,4,river,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,4,4,4,4
+High Rock Lake,5,other,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,16,1,16,16
+High Rock Lake,5,other,SpyrakosE_GB_STIR,STIR,APHA 2540 D,5,1,5,5
+Ibitinga Reservoir,1,lake,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,145,36,145,71
+Ibitinga Reservoir,1,lake,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,99,12,99,60
+Ibitinga Reservoir,1,lake,BarbosaCCF_BR_LabISA-INPE,LabISA-INPE,LabISA-INPE TSS,20,2,20,20
+Ibitinga Reservoir,1,lake,BindingC_CA_ECCC,ECCC,ECCC TSS,94,2,94,0
+Ibitinga Reservoir,1,lake,DekkerAG_NL_VU,VU,VU TSS,16,12,16,16
+Ibitinga Reservoir,1,lake,DiVittorioC_US_WFU,WFU,APHA 2540 D,86,1,86,0
+Ibitinga Reservoir,1,lake,FicekD_PL_APSL,APSL,APSL TSS,193,13,200,75
+Ibitinga Reservoir,1,lake,GegeP_DE_DLR-IMF,DLR-IMF,ISO 11923:1997,20,1,20,20
+Ibitinga Reservoir,1,lake,GiardinoC_IT_CNR-IREA,CNR-IREA,ISO 11923:1997,128,7,147,60
+Ibitinga Reservoir,1,lake,GitelsonAA_US_UNL,UNL,APHA 2540 D,204,14,204,164
+Ibitinga Reservoir,1,lake,GrebSR_US_WDNR,WDNR,APHA 2540 D,215,34,215,215
+Ibitinga Reservoir,1,lake,KravitzJ_ZA_UCT,UCT,APHA 2540 D,28,4,28,28
+Ibitinga Reservoir,1,lake,LehmannMK_NZ_UOW_NZ_LK,UOW,APHA 2540 D,169,85,170,169
+Ibitinga Reservoir,1,lake,LiL_US_IUPUI,IUPUI,IUPUI TSS,187,3,188,0
+Ibitinga Reservoir,1,lake,MaR_CN_NIGLAS,NIGLAS,APHA 2540 D,221,3,236,0
+Ibitinga Reservoir,1,lake,MatsushitaB_JP_Tsukuba,Tsukuba,APHA 2540 D,235,8,235,26
+Ibitinga Reservoir,1,lake,MatthewsM_ZA_UCT,UCT,APHA 2540 D,31,3,62,31
+Ibitinga Reservoir,1,lake,MooreT_US_UNH,UNH,APHA 2540 D,30,1,30,0
+Ibitinga Reservoir,1,lake,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,48,2,49,48
+Ibitinga Reservoir,1,lake,O'DonnellDM_US_UFI,UFI,APHA 2540 D,9,1,9,0
+Ibitinga Reservoir,1,lake,OlmansonLG_US_UMN,UMN,UMN TSS,7,7,7,7
+Ibitinga Reservoir,1,lake,OppeltN_DE_CAU_Kiel,CAU_Kiel,DIN 38409-2:1987-03,26,1,26,0
+Ibitinga Reservoir,1,lake,Ruiz-VerduA_ES_UVEG-CEDEX,UVEG-CEDEX,APHA 2540 D,30,6,30,30
+Ibitinga Reservoir,1,lake,SalemSI_JP_KUAS,KUAS,APHA 2540 D,68,1,68,0
+Ibitinga Reservoir,1,lake,SchallesJ_US_Creighton,Creighton,Creighton TSS,36,3,36,36
+Ibitinga Reservoir,1,lake,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,7,13,13
+Ibitinga Reservoir,1,lake,SpyrakosE_GB_STIR,STIR,APHA 2540 D,43,7,43,23
+Ibitinga Reservoir,1,lake,VanderWoudeA_US_NOAA-GLERL,NOAA-GLERL,APHA 2540 D,438,1,462,0
+Ibitinga Reservoir,1,lake,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,8,8,8,8
+Ibitinga Reservoir,1,lake,WertherM_GB_STIR,STIR,APHA 2540 D,12,4,12,12
+Ibitinga Reservoir,2,estuary,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,14,1,14,14
+Ibitinga Reservoir,2,estuary,FichotCG_US_BU_PIE,<missing>,BU_PIE TSS,23,1,23,23
+Ibitinga Reservoir,2,estuary,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,8,1,32,8
+Ibitinga Reservoir,2,estuary,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,187,44,196,187
+Ibitinga Reservoir,2,estuary,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,22,8,30,22
+Ibitinga Reservoir,2,estuary,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,2,2,2,2
+Ibitinga Reservoir,3,coastal_ocean,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,2,1,3,2
+Ibitinga Reservoir,3,coastal_ocean,HigaH_JP_YNU,YNU,APHA 2540 D,62,1,62,62
+Ibitinga Reservoir,3,coastal_ocean,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,489,8,536,489
+Ibitinga Reservoir,3,coastal_ocean,LehmannMK_NZ_UOW_NZ_CST,UOW,APHA 2540 D,65,1,65,65
+Ibitinga Reservoir,3,coastal_ocean,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,19,1,20,19
+Ibitinga Reservoir,3,coastal_ocean,OndrusekM_US_NOAA-STAR_KR_CST,NOAA-STAR,NASA TM 2003-211621,48,1,53,48
+Ibitinga Reservoir,3,coastal_ocean,SchallesJ_US_Creighton,Creighton,Creighton TSS,15,2,15,15
+Ibitinga Reservoir,3,coastal_ocean,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,5,13,13
+Ibitinga Reservoir,3,coastal_ocean,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,131,2,131,131
+Ibitinga Reservoir,3,coastal_ocean,SiswantoE_JP_JAMSTEC,JAMSTEC,APHA 2540 D,51,1,51,51
+Ibitinga Reservoir,3,coastal_ocean,WernandMR_NL_NIOZ_CST,NIOZ,NIOZ TSS,12,1,22,12
+Ibitinga Reservoir,4,river,DekkerAG_NL_VU,VU,VU TSS,4,4,4,4
+Ibitinga Reservoir,4,river,GrebSR_US_WDNR,WDNR,APHA 2540 D,1,1,1,1
+Ibitinga Reservoir,4,river,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,40,1,40,40
+Ibitinga Reservoir,4,river,SchallesJ_US_Creighton,Creighton,Creighton TSS,9,1,9,9
+Ibitinga Reservoir,4,river,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,123,23,126,123
+Ibitinga Reservoir,4,river,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,40,8,41,40
+Ibitinga Reservoir,4,river,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,4,4,4,4
+Ibitinga Reservoir,5,other,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,16,1,16,16
+Ibitinga Reservoir,5,other,SpyrakosE_GB_STIR,STIR,APHA 2540 D,5,1,5,5
+Lake Chotkowskie,1,lake,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,145,36,145,71
+Lake Chotkowskie,1,lake,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,99,12,99,60
+Lake Chotkowskie,1,lake,BarbosaCCF_BR_LabISA-INPE,LabISA-INPE,LabISA-INPE TSS,48,3,48,20
+Lake Chotkowskie,1,lake,BindingC_CA_ECCC,ECCC,ECCC TSS,94,2,94,0
+Lake Chotkowskie,1,lake,DekkerAG_NL_VU,VU,VU TSS,16,12,16,16
+Lake Chotkowskie,1,lake,DiVittorioC_US_WFU,WFU,APHA 2540 D,86,1,86,0
+Lake Chotkowskie,1,lake,FicekD_PL_APSL,APSL,APSL TSS,171,12,178,75
+Lake Chotkowskie,1,lake,GegeP_DE_DLR-IMF,DLR-IMF,ISO 11923:1997,20,1,20,20
+Lake Chotkowskie,1,lake,GiardinoC_IT_CNR-IREA,CNR-IREA,ISO 11923:1997,128,7,147,60
+Lake Chotkowskie,1,lake,GitelsonAA_US_UNL,UNL,APHA 2540 D,204,14,204,164
+Lake Chotkowskie,1,lake,GrebSR_US_WDNR,WDNR,APHA 2540 D,215,34,215,215
+Lake Chotkowskie,1,lake,KravitzJ_ZA_UCT,UCT,APHA 2540 D,28,4,28,28
+Lake Chotkowskie,1,lake,LehmannMK_NZ_UOW_NZ_LK,UOW,APHA 2540 D,169,85,170,169
+Lake Chotkowskie,1,lake,LiL_US_IUPUI,IUPUI,IUPUI TSS,187,3,188,0
+Lake Chotkowskie,1,lake,MaR_CN_NIGLAS,NIGLAS,APHA 2540 D,221,3,236,0
+Lake Chotkowskie,1,lake,MatsushitaB_JP_Tsukuba,Tsukuba,APHA 2540 D,235,8,235,26
+Lake Chotkowskie,1,lake,MatthewsM_ZA_UCT,UCT,APHA 2540 D,31,3,62,31
+Lake Chotkowskie,1,lake,MooreT_US_UNH,UNH,APHA 2540 D,30,1,30,0
+Lake Chotkowskie,1,lake,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,48,2,49,48
+Lake Chotkowskie,1,lake,O'DonnellDM_US_UFI,UFI,APHA 2540 D,9,1,9,0
+Lake Chotkowskie,1,lake,OlmansonLG_US_UMN,UMN,UMN TSS,7,7,7,7
+Lake Chotkowskie,1,lake,OppeltN_DE_CAU_Kiel,CAU_Kiel,DIN 38409-2:1987-03,26,1,26,0
+Lake Chotkowskie,1,lake,Ruiz-VerduA_ES_UVEG-CEDEX,UVEG-CEDEX,APHA 2540 D,30,6,30,30
+Lake Chotkowskie,1,lake,SalemSI_JP_KUAS,KUAS,APHA 2540 D,68,1,68,0
+Lake Chotkowskie,1,lake,SchallesJ_US_Creighton,Creighton,Creighton TSS,36,3,36,36
+Lake Chotkowskie,1,lake,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,7,13,13
+Lake Chotkowskie,1,lake,SpyrakosE_GB_STIR,STIR,APHA 2540 D,43,7,43,23
+Lake Chotkowskie,1,lake,VanderWoudeA_US_NOAA-GLERL,NOAA-GLERL,APHA 2540 D,438,1,462,0
+Lake Chotkowskie,1,lake,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,8,8,8,8
+Lake Chotkowskie,1,lake,WertherM_GB_STIR,STIR,APHA 2540 D,12,4,12,12
+Lake Chotkowskie,2,estuary,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,14,1,14,14
+Lake Chotkowskie,2,estuary,FichotCG_US_BU_PIE,<missing>,BU_PIE TSS,23,1,23,23
+Lake Chotkowskie,2,estuary,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,8,1,32,8
+Lake Chotkowskie,2,estuary,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,187,44,196,187
+Lake Chotkowskie,2,estuary,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,22,8,30,22
+Lake Chotkowskie,2,estuary,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,2,2,2,2
+Lake Chotkowskie,3,coastal_ocean,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,2,1,3,2
+Lake Chotkowskie,3,coastal_ocean,HigaH_JP_YNU,YNU,APHA 2540 D,62,1,62,62
+Lake Chotkowskie,3,coastal_ocean,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,489,8,536,489
+Lake Chotkowskie,3,coastal_ocean,LehmannMK_NZ_UOW_NZ_CST,UOW,APHA 2540 D,65,1,65,65
+Lake Chotkowskie,3,coastal_ocean,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,19,1,20,19
+Lake Chotkowskie,3,coastal_ocean,OndrusekM_US_NOAA-STAR_KR_CST,NOAA-STAR,NASA TM 2003-211621,48,1,53,48
+Lake Chotkowskie,3,coastal_ocean,SchallesJ_US_Creighton,Creighton,Creighton TSS,15,2,15,15
+Lake Chotkowskie,3,coastal_ocean,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,5,13,13
+Lake Chotkowskie,3,coastal_ocean,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,131,2,131,131
+Lake Chotkowskie,3,coastal_ocean,SiswantoE_JP_JAMSTEC,JAMSTEC,APHA 2540 D,51,1,51,51
+Lake Chotkowskie,3,coastal_ocean,WernandMR_NL_NIOZ_CST,NIOZ,NIOZ TSS,12,1,22,12
+Lake Chotkowskie,4,river,DekkerAG_NL_VU,VU,VU TSS,4,4,4,4
+Lake Chotkowskie,4,river,GrebSR_US_WDNR,WDNR,APHA 2540 D,1,1,1,1
+Lake Chotkowskie,4,river,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,40,1,40,40
+Lake Chotkowskie,4,river,SchallesJ_US_Creighton,Creighton,Creighton TSS,9,1,9,9
+Lake Chotkowskie,4,river,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,123,23,126,123
+Lake Chotkowskie,4,river,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,40,8,41,40
+Lake Chotkowskie,4,river,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,4,4,4,4
+Lake Chotkowskie,5,other,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,16,1,16,16
+Lake Chotkowskie,5,other,SpyrakosE_GB_STIR,STIR,APHA 2540 D,5,1,5,5
+Lake Erie,1,lake,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,145,36,145,71
+Lake Erie,1,lake,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,99,12,99,60
+Lake Erie,1,lake,BarbosaCCF_BR_LabISA-INPE,LabISA-INPE,LabISA-INPE TSS,48,3,48,20
+Lake Erie,1,lake,BindingC_CA_ECCC,ECCC,ECCC TSS,45,1,45,0
+Lake Erie,1,lake,DekkerAG_NL_VU,VU,VU TSS,16,12,16,16
+Lake Erie,1,lake,DiVittorioC_US_WFU,WFU,APHA 2540 D,86,1,86,0
+Lake Erie,1,lake,FicekD_PL_APSL,APSL,APSL TSS,193,13,200,75
+Lake Erie,1,lake,GegeP_DE_DLR-IMF,DLR-IMF,ISO 11923:1997,20,1,20,20
+Lake Erie,1,lake,GiardinoC_IT_CNR-IREA,CNR-IREA,ISO 11923:1997,128,7,147,60
+Lake Erie,1,lake,GitelsonAA_US_UNL,UNL,APHA 2540 D,204,14,204,164
+Lake Erie,1,lake,GrebSR_US_WDNR,WDNR,APHA 2540 D,215,34,215,215
+Lake Erie,1,lake,KravitzJ_ZA_UCT,UCT,APHA 2540 D,28,4,28,28
+Lake Erie,1,lake,LehmannMK_NZ_UOW_NZ_LK,UOW,APHA 2540 D,169,85,170,169
+Lake Erie,1,lake,LiL_US_IUPUI,IUPUI,IUPUI TSS,187,3,188,0
+Lake Erie,1,lake,MaR_CN_NIGLAS,NIGLAS,APHA 2540 D,221,3,236,0
+Lake Erie,1,lake,MatsushitaB_JP_Tsukuba,Tsukuba,APHA 2540 D,235,8,235,26
+Lake Erie,1,lake,MatthewsM_ZA_UCT,UCT,APHA 2540 D,31,3,62,31
+Lake Erie,1,lake,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,48,2,49,48
+Lake Erie,1,lake,OlmansonLG_US_UMN,UMN,UMN TSS,7,7,7,7
+Lake Erie,1,lake,OppeltN_DE_CAU_Kiel,CAU_Kiel,DIN 38409-2:1987-03,26,1,26,0
+Lake Erie,1,lake,Ruiz-VerduA_ES_UVEG-CEDEX,UVEG-CEDEX,APHA 2540 D,30,6,30,30
+Lake Erie,1,lake,SalemSI_JP_KUAS,KUAS,APHA 2540 D,68,1,68,0
+Lake Erie,1,lake,SchallesJ_US_Creighton,Creighton,Creighton TSS,36,3,36,36
+Lake Erie,1,lake,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,7,13,13
+Lake Erie,1,lake,SpyrakosE_GB_STIR,STIR,APHA 2540 D,43,7,43,23
+Lake Erie,1,lake,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,8,8,8,8
+Lake Erie,1,lake,WertherM_GB_STIR,STIR,APHA 2540 D,12,4,12,12
+Lake Erie,2,estuary,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,14,1,14,14
+Lake Erie,2,estuary,FichotCG_US_BU_PIE,<missing>,BU_PIE TSS,23,1,23,23
+Lake Erie,2,estuary,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,8,1,32,8
+Lake Erie,2,estuary,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,187,44,196,187
+Lake Erie,2,estuary,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,22,8,30,22
+Lake Erie,2,estuary,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,2,2,2,2
+Lake Erie,3,coastal_ocean,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,2,1,3,2
+Lake Erie,3,coastal_ocean,HigaH_JP_YNU,YNU,APHA 2540 D,62,1,62,62
+Lake Erie,3,coastal_ocean,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,489,8,536,489
+Lake Erie,3,coastal_ocean,LehmannMK_NZ_UOW_NZ_CST,UOW,APHA 2540 D,65,1,65,65
+Lake Erie,3,coastal_ocean,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,19,1,20,19
+Lake Erie,3,coastal_ocean,OndrusekM_US_NOAA-STAR_KR_CST,NOAA-STAR,NASA TM 2003-211621,48,1,53,48
+Lake Erie,3,coastal_ocean,SchallesJ_US_Creighton,Creighton,Creighton TSS,15,2,15,15
+Lake Erie,3,coastal_ocean,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,5,13,13
+Lake Erie,3,coastal_ocean,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,131,2,131,131
+Lake Erie,3,coastal_ocean,SiswantoE_JP_JAMSTEC,JAMSTEC,APHA 2540 D,51,1,51,51
+Lake Erie,3,coastal_ocean,WernandMR_NL_NIOZ_CST,NIOZ,NIOZ TSS,12,1,22,12
+Lake Erie,4,river,DekkerAG_NL_VU,VU,VU TSS,4,4,4,4
+Lake Erie,4,river,GrebSR_US_WDNR,WDNR,APHA 2540 D,1,1,1,1
+Lake Erie,4,river,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,40,1,40,40
+Lake Erie,4,river,SchallesJ_US_Creighton,Creighton,Creighton TSS,9,1,9,9
+Lake Erie,4,river,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,123,23,126,123
+Lake Erie,4,river,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,40,8,41,40
+Lake Erie,4,river,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,4,4,4,4
+Lake Erie,5,other,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,16,1,16,16
+Lake Erie,5,other,SpyrakosE_GB_STIR,STIR,APHA 2540 D,5,1,5,5
+Lake Geneva,1,lake,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,145,36,145,71
+Lake Geneva,1,lake,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,99,12,99,60
+Lake Geneva,1,lake,BarbosaCCF_BR_LabISA-INPE,LabISA-INPE,LabISA-INPE TSS,48,3,48,20
+Lake Geneva,1,lake,BindingC_CA_ECCC,ECCC,ECCC TSS,94,2,94,0
+Lake Geneva,1,lake,DekkerAG_NL_VU,VU,VU TSS,16,12,16,16
+Lake Geneva,1,lake,DiVittorioC_US_WFU,WFU,APHA 2540 D,86,1,86,0
+Lake Geneva,1,lake,FicekD_PL_APSL,APSL,APSL TSS,193,13,200,75
+Lake Geneva,1,lake,GegeP_DE_DLR-IMF,DLR-IMF,ISO 11923:1997,20,1,20,20
+Lake Geneva,1,lake,GiardinoC_IT_CNR-IREA,CNR-IREA,ISO 11923:1997,128,7,147,60
+Lake Geneva,1,lake,GitelsonAA_US_UNL,UNL,APHA 2540 D,204,14,204,164
+Lake Geneva,1,lake,GrebSR_US_WDNR,WDNR,APHA 2540 D,215,34,215,215
+Lake Geneva,1,lake,KravitzJ_ZA_UCT,UCT,APHA 2540 D,28,4,28,28
+Lake Geneva,1,lake,LehmannMK_NZ_UOW_NZ_LK,UOW,APHA 2540 D,169,85,170,169
+Lake Geneva,1,lake,LiL_US_IUPUI,IUPUI,IUPUI TSS,187,3,188,0
+Lake Geneva,1,lake,MaR_CN_NIGLAS,NIGLAS,APHA 2540 D,221,3,236,0
+Lake Geneva,1,lake,MatsushitaB_JP_Tsukuba,Tsukuba,APHA 2540 D,235,8,235,26
+Lake Geneva,1,lake,MatthewsM_ZA_UCT,UCT,APHA 2540 D,31,3,62,31
+Lake Geneva,1,lake,MooreT_US_UNH,UNH,APHA 2540 D,30,1,30,0
+Lake Geneva,1,lake,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,48,2,49,48
+Lake Geneva,1,lake,O'DonnellDM_US_UFI,UFI,APHA 2540 D,9,1,9,0
+Lake Geneva,1,lake,OlmansonLG_US_UMN,UMN,UMN TSS,7,7,7,7
+Lake Geneva,1,lake,OppeltN_DE_CAU_Kiel,CAU_Kiel,DIN 38409-2:1987-03,26,1,26,0
+Lake Geneva,1,lake,Ruiz-VerduA_ES_UVEG-CEDEX,UVEG-CEDEX,APHA 2540 D,30,6,30,30
+Lake Geneva,1,lake,SalemSI_JP_KUAS,KUAS,APHA 2540 D,68,1,68,0
+Lake Geneva,1,lake,SchallesJ_US_Creighton,Creighton,Creighton TSS,36,3,36,36
+Lake Geneva,1,lake,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,7,13,13
+Lake Geneva,1,lake,SpyrakosE_GB_STIR,STIR,APHA 2540 D,23,6,23,23
+Lake Geneva,1,lake,VanderWoudeA_US_NOAA-GLERL,NOAA-GLERL,APHA 2540 D,438,1,462,0
+Lake Geneva,1,lake,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,8,8,8,8
+Lake Geneva,1,lake,WertherM_GB_STIR,STIR,APHA 2540 D,12,4,12,12
+Lake Geneva,2,estuary,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,14,1,14,14
+Lake Geneva,2,estuary,FichotCG_US_BU_PIE,<missing>,BU_PIE TSS,23,1,23,23
+Lake Geneva,2,estuary,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,8,1,32,8
+Lake Geneva,2,estuary,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,187,44,196,187
+Lake Geneva,2,estuary,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,22,8,30,22
+Lake Geneva,2,estuary,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,2,2,2,2
+Lake Geneva,3,coastal_ocean,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,2,1,3,2
+Lake Geneva,3,coastal_ocean,HigaH_JP_YNU,YNU,APHA 2540 D,62,1,62,62
+Lake Geneva,3,coastal_ocean,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,489,8,536,489
+Lake Geneva,3,coastal_ocean,LehmannMK_NZ_UOW_NZ_CST,UOW,APHA 2540 D,65,1,65,65
+Lake Geneva,3,coastal_ocean,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,19,1,20,19
+Lake Geneva,3,coastal_ocean,OndrusekM_US_NOAA-STAR_KR_CST,NOAA-STAR,NASA TM 2003-211621,48,1,53,48
+Lake Geneva,3,coastal_ocean,SchallesJ_US_Creighton,Creighton,Creighton TSS,15,2,15,15
+Lake Geneva,3,coastal_ocean,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,5,13,13
+Lake Geneva,3,coastal_ocean,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,131,2,131,131
+Lake Geneva,3,coastal_ocean,SiswantoE_JP_JAMSTEC,JAMSTEC,APHA 2540 D,51,1,51,51
+Lake Geneva,3,coastal_ocean,WernandMR_NL_NIOZ_CST,NIOZ,NIOZ TSS,12,1,22,12
+Lake Geneva,4,river,DekkerAG_NL_VU,VU,VU TSS,4,4,4,4
+Lake Geneva,4,river,GrebSR_US_WDNR,WDNR,APHA 2540 D,1,1,1,1
+Lake Geneva,4,river,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,40,1,40,40
+Lake Geneva,4,river,SchallesJ_US_Creighton,Creighton,Creighton TSS,9,1,9,9
+Lake Geneva,4,river,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,123,23,126,123
+Lake Geneva,4,river,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,40,8,41,40
+Lake Geneva,4,river,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,4,4,4,4
+Lake Geneva,5,other,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,16,1,16,16
+Lake Geneva,5,other,SpyrakosE_GB_STIR,STIR,APHA 2540 D,5,1,5,5
+Lake Hume,1,lake,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,145,36,145,71
+Lake Hume,1,lake,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,60,11,60,60
+Lake Hume,1,lake,BarbosaCCF_BR_LabISA-INPE,LabISA-INPE,LabISA-INPE TSS,48,3,48,20
+Lake Hume,1,lake,BindingC_CA_ECCC,ECCC,ECCC TSS,94,2,94,0
+Lake Hume,1,lake,DekkerAG_NL_VU,VU,VU TSS,16,12,16,16
+Lake Hume,1,lake,DiVittorioC_US_WFU,WFU,APHA 2540 D,86,1,86,0
+Lake Hume,1,lake,FicekD_PL_APSL,APSL,APSL TSS,193,13,200,75
+Lake Hume,1,lake,GegeP_DE_DLR-IMF,DLR-IMF,ISO 11923:1997,20,1,20,20
+Lake Hume,1,lake,GiardinoC_IT_CNR-IREA,CNR-IREA,ISO 11923:1997,128,7,147,60
+Lake Hume,1,lake,GitelsonAA_US_UNL,UNL,APHA 2540 D,204,14,204,164
+Lake Hume,1,lake,GrebSR_US_WDNR,WDNR,APHA 2540 D,215,34,215,215
+Lake Hume,1,lake,KravitzJ_ZA_UCT,UCT,APHA 2540 D,28,4,28,28
+Lake Hume,1,lake,LehmannMK_NZ_UOW_NZ_LK,UOW,APHA 2540 D,169,85,170,169
+Lake Hume,1,lake,LiL_US_IUPUI,IUPUI,IUPUI TSS,187,3,188,0
+Lake Hume,1,lake,MaR_CN_NIGLAS,NIGLAS,APHA 2540 D,221,3,236,0
+Lake Hume,1,lake,MatsushitaB_JP_Tsukuba,Tsukuba,APHA 2540 D,235,8,235,26
+Lake Hume,1,lake,MatthewsM_ZA_UCT,UCT,APHA 2540 D,31,3,62,31
+Lake Hume,1,lake,MooreT_US_UNH,UNH,APHA 2540 D,30,1,30,0
+Lake Hume,1,lake,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,48,2,49,48
+Lake Hume,1,lake,O'DonnellDM_US_UFI,UFI,APHA 2540 D,9,1,9,0
+Lake Hume,1,lake,OlmansonLG_US_UMN,UMN,UMN TSS,7,7,7,7
+Lake Hume,1,lake,OppeltN_DE_CAU_Kiel,CAU_Kiel,DIN 38409-2:1987-03,26,1,26,0
+Lake Hume,1,lake,Ruiz-VerduA_ES_UVEG-CEDEX,UVEG-CEDEX,APHA 2540 D,30,6,30,30
+Lake Hume,1,lake,SalemSI_JP_KUAS,KUAS,APHA 2540 D,68,1,68,0
+Lake Hume,1,lake,SchallesJ_US_Creighton,Creighton,Creighton TSS,36,3,36,36
+Lake Hume,1,lake,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,7,13,13
+Lake Hume,1,lake,SpyrakosE_GB_STIR,STIR,APHA 2540 D,43,7,43,23
+Lake Hume,1,lake,VanderWoudeA_US_NOAA-GLERL,NOAA-GLERL,APHA 2540 D,438,1,462,0
+Lake Hume,1,lake,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,8,8,8,8
+Lake Hume,1,lake,WertherM_GB_STIR,STIR,APHA 2540 D,12,4,12,12
+Lake Hume,2,estuary,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,14,1,14,14
+Lake Hume,2,estuary,FichotCG_US_BU_PIE,<missing>,BU_PIE TSS,23,1,23,23
+Lake Hume,2,estuary,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,8,1,32,8
+Lake Hume,2,estuary,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,187,44,196,187
+Lake Hume,2,estuary,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,22,8,30,22
+Lake Hume,2,estuary,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,2,2,2,2
+Lake Hume,3,coastal_ocean,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,2,1,3,2
+Lake Hume,3,coastal_ocean,HigaH_JP_YNU,YNU,APHA 2540 D,62,1,62,62
+Lake Hume,3,coastal_ocean,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,489,8,536,489
+Lake Hume,3,coastal_ocean,LehmannMK_NZ_UOW_NZ_CST,UOW,APHA 2540 D,65,1,65,65
+Lake Hume,3,coastal_ocean,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,19,1,20,19
+Lake Hume,3,coastal_ocean,OndrusekM_US_NOAA-STAR_KR_CST,NOAA-STAR,NASA TM 2003-211621,48,1,53,48
+Lake Hume,3,coastal_ocean,SchallesJ_US_Creighton,Creighton,Creighton TSS,15,2,15,15
+Lake Hume,3,coastal_ocean,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,5,13,13
+Lake Hume,3,coastal_ocean,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,131,2,131,131
+Lake Hume,3,coastal_ocean,SiswantoE_JP_JAMSTEC,JAMSTEC,APHA 2540 D,51,1,51,51
+Lake Hume,3,coastal_ocean,WernandMR_NL_NIOZ_CST,NIOZ,NIOZ TSS,12,1,22,12
+Lake Hume,4,river,DekkerAG_NL_VU,VU,VU TSS,4,4,4,4
+Lake Hume,4,river,GrebSR_US_WDNR,WDNR,APHA 2540 D,1,1,1,1
+Lake Hume,4,river,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,40,1,40,40
+Lake Hume,4,river,SchallesJ_US_Creighton,Creighton,Creighton TSS,9,1,9,9
+Lake Hume,4,river,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,123,23,126,123
+Lake Hume,4,river,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,40,8,41,40
+Lake Hume,4,river,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,4,4,4,4
+Lake Hume,5,other,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,16,1,16,16
+Lake Hume,5,other,SpyrakosE_GB_STIR,STIR,APHA 2540 D,5,1,5,5
+Lake Jasień Południowy,1,lake,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,145,36,145,71
+Lake Jasień Południowy,1,lake,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,99,12,99,60
+Lake Jasień Południowy,1,lake,BarbosaCCF_BR_LabISA-INPE,LabISA-INPE,LabISA-INPE TSS,48,3,48,20
+Lake Jasień Południowy,1,lake,BindingC_CA_ECCC,ECCC,ECCC TSS,94,2,94,0
+Lake Jasień Południowy,1,lake,DekkerAG_NL_VU,VU,VU TSS,16,12,16,16
+Lake Jasień Południowy,1,lake,DiVittorioC_US_WFU,WFU,APHA 2540 D,86,1,86,0
+Lake Jasień Południowy,1,lake,FicekD_PL_APSL,APSL,APSL TSS,171,12,177,75
+Lake Jasień Południowy,1,lake,GegeP_DE_DLR-IMF,DLR-IMF,ISO 11923:1997,20,1,20,20
+Lake Jasień Południowy,1,lake,GiardinoC_IT_CNR-IREA,CNR-IREA,ISO 11923:1997,128,7,147,60
+Lake Jasień Południowy,1,lake,GitelsonAA_US_UNL,UNL,APHA 2540 D,204,14,204,164
+Lake Jasień Południowy,1,lake,GrebSR_US_WDNR,WDNR,APHA 2540 D,215,34,215,215
+Lake Jasień Południowy,1,lake,KravitzJ_ZA_UCT,UCT,APHA 2540 D,28,4,28,28
+Lake Jasień Południowy,1,lake,LehmannMK_NZ_UOW_NZ_LK,UOW,APHA 2540 D,169,85,170,169
+Lake Jasień Południowy,1,lake,LiL_US_IUPUI,IUPUI,IUPUI TSS,187,3,188,0
+Lake Jasień Południowy,1,lake,MaR_CN_NIGLAS,NIGLAS,APHA 2540 D,221,3,236,0
+Lake Jasień Południowy,1,lake,MatsushitaB_JP_Tsukuba,Tsukuba,APHA 2540 D,235,8,235,26
+Lake Jasień Południowy,1,lake,MatthewsM_ZA_UCT,UCT,APHA 2540 D,31,3,62,31
+Lake Jasień Południowy,1,lake,MooreT_US_UNH,UNH,APHA 2540 D,30,1,30,0
+Lake Jasień Południowy,1,lake,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,48,2,49,48
+Lake Jasień Południowy,1,lake,O'DonnellDM_US_UFI,UFI,APHA 2540 D,9,1,9,0
+Lake Jasień Południowy,1,lake,OlmansonLG_US_UMN,UMN,UMN TSS,7,7,7,7
+Lake Jasień Południowy,1,lake,OppeltN_DE_CAU_Kiel,CAU_Kiel,DIN 38409-2:1987-03,26,1,26,0
+Lake Jasień Południowy,1,lake,Ruiz-VerduA_ES_UVEG-CEDEX,UVEG-CEDEX,APHA 2540 D,30,6,30,30
+Lake Jasień Południowy,1,lake,SalemSI_JP_KUAS,KUAS,APHA 2540 D,68,1,68,0
+Lake Jasień Południowy,1,lake,SchallesJ_US_Creighton,Creighton,Creighton TSS,36,3,36,36
+Lake Jasień Południowy,1,lake,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,7,13,13
+Lake Jasień Południowy,1,lake,SpyrakosE_GB_STIR,STIR,APHA 2540 D,43,7,43,23
+Lake Jasień Południowy,1,lake,VanderWoudeA_US_NOAA-GLERL,NOAA-GLERL,APHA 2540 D,438,1,462,0
+Lake Jasień Południowy,1,lake,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,8,8,8,8
+Lake Jasień Południowy,1,lake,WertherM_GB_STIR,STIR,APHA 2540 D,12,4,12,12
+Lake Jasień Południowy,2,estuary,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,14,1,14,14
+Lake Jasień Południowy,2,estuary,FichotCG_US_BU_PIE,<missing>,BU_PIE TSS,23,1,23,23
+Lake Jasień Południowy,2,estuary,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,8,1,32,8
+Lake Jasień Południowy,2,estuary,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,187,44,196,187
+Lake Jasień Południowy,2,estuary,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,22,8,30,22
+Lake Jasień Południowy,2,estuary,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,2,2,2,2
+Lake Jasień Południowy,3,coastal_ocean,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,2,1,3,2
+Lake Jasień Południowy,3,coastal_ocean,HigaH_JP_YNU,YNU,APHA 2540 D,62,1,62,62
+Lake Jasień Południowy,3,coastal_ocean,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,489,8,536,489
+Lake Jasień Południowy,3,coastal_ocean,LehmannMK_NZ_UOW_NZ_CST,UOW,APHA 2540 D,65,1,65,65
+Lake Jasień Południowy,3,coastal_ocean,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,19,1,20,19
+Lake Jasień Południowy,3,coastal_ocean,OndrusekM_US_NOAA-STAR_KR_CST,NOAA-STAR,NASA TM 2003-211621,48,1,53,48
+Lake Jasień Południowy,3,coastal_ocean,SchallesJ_US_Creighton,Creighton,Creighton TSS,15,2,15,15
+Lake Jasień Południowy,3,coastal_ocean,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,5,13,13
+Lake Jasień Południowy,3,coastal_ocean,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,131,2,131,131
+Lake Jasień Południowy,3,coastal_ocean,SiswantoE_JP_JAMSTEC,JAMSTEC,APHA 2540 D,51,1,51,51
+Lake Jasień Południowy,3,coastal_ocean,WernandMR_NL_NIOZ_CST,NIOZ,NIOZ TSS,12,1,22,12
+Lake Jasień Południowy,4,river,DekkerAG_NL_VU,VU,VU TSS,4,4,4,4
+Lake Jasień Południowy,4,river,GrebSR_US_WDNR,WDNR,APHA 2540 D,1,1,1,1
+Lake Jasień Południowy,4,river,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,40,1,40,40
+Lake Jasień Południowy,4,river,SchallesJ_US_Creighton,Creighton,Creighton TSS,9,1,9,9
+Lake Jasień Południowy,4,river,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,123,23,126,123
+Lake Jasień Południowy,4,river,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,40,8,41,40
+Lake Jasień Południowy,4,river,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,4,4,4,4
+Lake Jasień Południowy,5,other,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,16,1,16,16
+Lake Jasień Południowy,5,other,SpyrakosE_GB_STIR,STIR,APHA 2540 D,5,1,5,5
+Lake Jeleń,1,lake,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,145,36,145,71
+Lake Jeleń,1,lake,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,99,12,99,60
+Lake Jeleń,1,lake,BarbosaCCF_BR_LabISA-INPE,LabISA-INPE,LabISA-INPE TSS,48,3,48,20
+Lake Jeleń,1,lake,BindingC_CA_ECCC,ECCC,ECCC TSS,94,2,94,0
+Lake Jeleń,1,lake,DekkerAG_NL_VU,VU,VU TSS,16,12,16,16
+Lake Jeleń,1,lake,DiVittorioC_US_WFU,WFU,APHA 2540 D,86,1,86,0
+Lake Jeleń,1,lake,FicekD_PL_APSL,APSL,APSL TSS,171,12,178,75
+Lake Jeleń,1,lake,GegeP_DE_DLR-IMF,DLR-IMF,ISO 11923:1997,20,1,20,20
+Lake Jeleń,1,lake,GiardinoC_IT_CNR-IREA,CNR-IREA,ISO 11923:1997,128,7,147,60
+Lake Jeleń,1,lake,GitelsonAA_US_UNL,UNL,APHA 2540 D,204,14,204,164
+Lake Jeleń,1,lake,GrebSR_US_WDNR,WDNR,APHA 2540 D,215,34,215,215
+Lake Jeleń,1,lake,KravitzJ_ZA_UCT,UCT,APHA 2540 D,28,4,28,28
+Lake Jeleń,1,lake,LehmannMK_NZ_UOW_NZ_LK,UOW,APHA 2540 D,169,85,170,169
+Lake Jeleń,1,lake,LiL_US_IUPUI,IUPUI,IUPUI TSS,187,3,188,0
+Lake Jeleń,1,lake,MaR_CN_NIGLAS,NIGLAS,APHA 2540 D,221,3,236,0
+Lake Jeleń,1,lake,MatsushitaB_JP_Tsukuba,Tsukuba,APHA 2540 D,235,8,235,26
+Lake Jeleń,1,lake,MatthewsM_ZA_UCT,UCT,APHA 2540 D,31,3,62,31
+Lake Jeleń,1,lake,MooreT_US_UNH,UNH,APHA 2540 D,30,1,30,0
+Lake Jeleń,1,lake,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,48,2,49,48
+Lake Jeleń,1,lake,O'DonnellDM_US_UFI,UFI,APHA 2540 D,9,1,9,0
+Lake Jeleń,1,lake,OlmansonLG_US_UMN,UMN,UMN TSS,7,7,7,7
+Lake Jeleń,1,lake,OppeltN_DE_CAU_Kiel,CAU_Kiel,DIN 38409-2:1987-03,26,1,26,0
+Lake Jeleń,1,lake,Ruiz-VerduA_ES_UVEG-CEDEX,UVEG-CEDEX,APHA 2540 D,30,6,30,30
+Lake Jeleń,1,lake,SalemSI_JP_KUAS,KUAS,APHA 2540 D,68,1,68,0
+Lake Jeleń,1,lake,SchallesJ_US_Creighton,Creighton,Creighton TSS,36,3,36,36
+Lake Jeleń,1,lake,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,7,13,13
+Lake Jeleń,1,lake,SpyrakosE_GB_STIR,STIR,APHA 2540 D,43,7,43,23
+Lake Jeleń,1,lake,VanderWoudeA_US_NOAA-GLERL,NOAA-GLERL,APHA 2540 D,438,1,462,0
+Lake Jeleń,1,lake,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,8,8,8,8
+Lake Jeleń,1,lake,WertherM_GB_STIR,STIR,APHA 2540 D,12,4,12,12
+Lake Jeleń,2,estuary,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,14,1,14,14
+Lake Jeleń,2,estuary,FichotCG_US_BU_PIE,<missing>,BU_PIE TSS,23,1,23,23
+Lake Jeleń,2,estuary,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,8,1,32,8
+Lake Jeleń,2,estuary,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,187,44,196,187
+Lake Jeleń,2,estuary,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,22,8,30,22
+Lake Jeleń,2,estuary,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,2,2,2,2
+Lake Jeleń,3,coastal_ocean,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,2,1,3,2
+Lake Jeleń,3,coastal_ocean,HigaH_JP_YNU,YNU,APHA 2540 D,62,1,62,62
+Lake Jeleń,3,coastal_ocean,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,489,8,536,489
+Lake Jeleń,3,coastal_ocean,LehmannMK_NZ_UOW_NZ_CST,UOW,APHA 2540 D,65,1,65,65
+Lake Jeleń,3,coastal_ocean,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,19,1,20,19
+Lake Jeleń,3,coastal_ocean,OndrusekM_US_NOAA-STAR_KR_CST,NOAA-STAR,NASA TM 2003-211621,48,1,53,48
+Lake Jeleń,3,coastal_ocean,SchallesJ_US_Creighton,Creighton,Creighton TSS,15,2,15,15
+Lake Jeleń,3,coastal_ocean,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,5,13,13
+Lake Jeleń,3,coastal_ocean,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,131,2,131,131
+Lake Jeleń,3,coastal_ocean,SiswantoE_JP_JAMSTEC,JAMSTEC,APHA 2540 D,51,1,51,51
+Lake Jeleń,3,coastal_ocean,WernandMR_NL_NIOZ_CST,NIOZ,NIOZ TSS,12,1,22,12
+Lake Jeleń,4,river,DekkerAG_NL_VU,VU,VU TSS,4,4,4,4
+Lake Jeleń,4,river,GrebSR_US_WDNR,WDNR,APHA 2540 D,1,1,1,1
+Lake Jeleń,4,river,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,40,1,40,40
+Lake Jeleń,4,river,SchallesJ_US_Creighton,Creighton,Creighton TSS,9,1,9,9
+Lake Jeleń,4,river,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,123,23,126,123
+Lake Jeleń,4,river,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,40,8,41,40
+Lake Jeleń,4,river,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,4,4,4,4
+Lake Jeleń,5,other,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,16,1,16,16
+Lake Jeleń,5,other,SpyrakosE_GB_STIR,STIR,APHA 2540 D,5,1,5,5
+Lake Kasumigaura,1,lake,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,145,36,145,71
+Lake Kasumigaura,1,lake,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,99,12,99,60
+Lake Kasumigaura,1,lake,BarbosaCCF_BR_LabISA-INPE,LabISA-INPE,LabISA-INPE TSS,48,3,48,20
+Lake Kasumigaura,1,lake,BindingC_CA_ECCC,ECCC,ECCC TSS,94,2,94,0
+Lake Kasumigaura,1,lake,DekkerAG_NL_VU,VU,VU TSS,16,12,16,16
+Lake Kasumigaura,1,lake,DiVittorioC_US_WFU,WFU,APHA 2540 D,86,1,86,0
+Lake Kasumigaura,1,lake,FicekD_PL_APSL,APSL,APSL TSS,193,13,200,75
+Lake Kasumigaura,1,lake,GegeP_DE_DLR-IMF,DLR-IMF,ISO 11923:1997,20,1,20,20
+Lake Kasumigaura,1,lake,GiardinoC_IT_CNR-IREA,CNR-IREA,ISO 11923:1997,128,7,147,60
+Lake Kasumigaura,1,lake,GitelsonAA_US_UNL,UNL,APHA 2540 D,204,14,204,164
+Lake Kasumigaura,1,lake,GrebSR_US_WDNR,WDNR,APHA 2540 D,215,34,215,215
+Lake Kasumigaura,1,lake,KravitzJ_ZA_UCT,UCT,APHA 2540 D,28,4,28,28
+Lake Kasumigaura,1,lake,LehmannMK_NZ_UOW_NZ_LK,UOW,APHA 2540 D,169,85,170,169
+Lake Kasumigaura,1,lake,LiL_US_IUPUI,IUPUI,IUPUI TSS,187,3,188,0
+Lake Kasumigaura,1,lake,MaR_CN_NIGLAS,NIGLAS,APHA 2540 D,221,3,236,0
+Lake Kasumigaura,1,lake,MatsushitaB_JP_Tsukuba,Tsukuba,APHA 2540 D,115,7,115,26
+Lake Kasumigaura,1,lake,MatthewsM_ZA_UCT,UCT,APHA 2540 D,31,3,62,31
+Lake Kasumigaura,1,lake,MooreT_US_UNH,UNH,APHA 2540 D,30,1,30,0
+Lake Kasumigaura,1,lake,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,48,2,49,48
+Lake Kasumigaura,1,lake,O'DonnellDM_US_UFI,UFI,APHA 2540 D,9,1,9,0
+Lake Kasumigaura,1,lake,OlmansonLG_US_UMN,UMN,UMN TSS,7,7,7,7
+Lake Kasumigaura,1,lake,OppeltN_DE_CAU_Kiel,CAU_Kiel,DIN 38409-2:1987-03,26,1,26,0
+Lake Kasumigaura,1,lake,Ruiz-VerduA_ES_UVEG-CEDEX,UVEG-CEDEX,APHA 2540 D,30,6,30,30
+Lake Kasumigaura,1,lake,SchallesJ_US_Creighton,Creighton,Creighton TSS,36,3,36,36
+Lake Kasumigaura,1,lake,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,7,13,13
+Lake Kasumigaura,1,lake,SpyrakosE_GB_STIR,STIR,APHA 2540 D,43,7,43,23
+Lake Kasumigaura,1,lake,VanderWoudeA_US_NOAA-GLERL,NOAA-GLERL,APHA 2540 D,438,1,462,0
+Lake Kasumigaura,1,lake,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,8,8,8,8
+Lake Kasumigaura,1,lake,WertherM_GB_STIR,STIR,APHA 2540 D,12,4,12,12
+Lake Kasumigaura,2,estuary,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,14,1,14,14
+Lake Kasumigaura,2,estuary,FichotCG_US_BU_PIE,<missing>,BU_PIE TSS,23,1,23,23
+Lake Kasumigaura,2,estuary,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,8,1,32,8
+Lake Kasumigaura,2,estuary,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,187,44,196,187
+Lake Kasumigaura,2,estuary,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,22,8,30,22
+Lake Kasumigaura,2,estuary,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,2,2,2,2
+Lake Kasumigaura,3,coastal_ocean,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,2,1,3,2
+Lake Kasumigaura,3,coastal_ocean,HigaH_JP_YNU,YNU,APHA 2540 D,62,1,62,62
+Lake Kasumigaura,3,coastal_ocean,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,489,8,536,489
+Lake Kasumigaura,3,coastal_ocean,LehmannMK_NZ_UOW_NZ_CST,UOW,APHA 2540 D,65,1,65,65
+Lake Kasumigaura,3,coastal_ocean,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,19,1,20,19
+Lake Kasumigaura,3,coastal_ocean,OndrusekM_US_NOAA-STAR_KR_CST,NOAA-STAR,NASA TM 2003-211621,48,1,53,48
+Lake Kasumigaura,3,coastal_ocean,SchallesJ_US_Creighton,Creighton,Creighton TSS,15,2,15,15
+Lake Kasumigaura,3,coastal_ocean,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,5,13,13
+Lake Kasumigaura,3,coastal_ocean,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,131,2,131,131
+Lake Kasumigaura,3,coastal_ocean,SiswantoE_JP_JAMSTEC,JAMSTEC,APHA 2540 D,51,1,51,51
+Lake Kasumigaura,3,coastal_ocean,WernandMR_NL_NIOZ_CST,NIOZ,NIOZ TSS,12,1,22,12
+Lake Kasumigaura,4,river,DekkerAG_NL_VU,VU,VU TSS,4,4,4,4
+Lake Kasumigaura,4,river,GrebSR_US_WDNR,WDNR,APHA 2540 D,1,1,1,1
+Lake Kasumigaura,4,river,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,40,1,40,40
+Lake Kasumigaura,4,river,SchallesJ_US_Creighton,Creighton,Creighton TSS,9,1,9,9
+Lake Kasumigaura,4,river,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,123,23,126,123
+Lake Kasumigaura,4,river,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,40,8,41,40
+Lake Kasumigaura,4,river,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,4,4,4,4
+Lake Kasumigaura,5,other,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,16,1,16,16
+Lake Kasumigaura,5,other,SpyrakosE_GB_STIR,STIR,APHA 2540 D,5,1,5,5
+Lake Kummerow,1,lake,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,145,36,145,71
+Lake Kummerow,1,lake,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,99,12,99,60
+Lake Kummerow,1,lake,BarbosaCCF_BR_LabISA-INPE,LabISA-INPE,LabISA-INPE TSS,48,3,48,20
+Lake Kummerow,1,lake,BindingC_CA_ECCC,ECCC,ECCC TSS,94,2,94,0
+Lake Kummerow,1,lake,DekkerAG_NL_VU,VU,VU TSS,16,12,16,16
+Lake Kummerow,1,lake,DiVittorioC_US_WFU,WFU,APHA 2540 D,86,1,86,0
+Lake Kummerow,1,lake,FicekD_PL_APSL,APSL,APSL TSS,193,13,200,75
+Lake Kummerow,1,lake,GegeP_DE_DLR-IMF,DLR-IMF,ISO 11923:1997,20,1,20,20
+Lake Kummerow,1,lake,GiardinoC_IT_CNR-IREA,CNR-IREA,ISO 11923:1997,128,7,147,60
+Lake Kummerow,1,lake,GitelsonAA_US_UNL,UNL,APHA 2540 D,204,14,204,164
+Lake Kummerow,1,lake,GrebSR_US_WDNR,WDNR,APHA 2540 D,215,34,215,215
+Lake Kummerow,1,lake,KravitzJ_ZA_UCT,UCT,APHA 2540 D,28,4,28,28
+Lake Kummerow,1,lake,LehmannMK_NZ_UOW_NZ_LK,UOW,APHA 2540 D,169,85,170,169
+Lake Kummerow,1,lake,LiL_US_IUPUI,IUPUI,IUPUI TSS,187,3,188,0
+Lake Kummerow,1,lake,MaR_CN_NIGLAS,NIGLAS,APHA 2540 D,221,3,236,0
+Lake Kummerow,1,lake,MatsushitaB_JP_Tsukuba,Tsukuba,APHA 2540 D,235,8,235,26
+Lake Kummerow,1,lake,MatthewsM_ZA_UCT,UCT,APHA 2540 D,31,3,62,31
+Lake Kummerow,1,lake,MooreT_US_UNH,UNH,APHA 2540 D,30,1,30,0
+Lake Kummerow,1,lake,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,48,2,49,48
+Lake Kummerow,1,lake,O'DonnellDM_US_UFI,UFI,APHA 2540 D,9,1,9,0
+Lake Kummerow,1,lake,OlmansonLG_US_UMN,UMN,UMN TSS,7,7,7,7
+Lake Kummerow,1,lake,Ruiz-VerduA_ES_UVEG-CEDEX,UVEG-CEDEX,APHA 2540 D,30,6,30,30
+Lake Kummerow,1,lake,SalemSI_JP_KUAS,KUAS,APHA 2540 D,68,1,68,0
+Lake Kummerow,1,lake,SchallesJ_US_Creighton,Creighton,Creighton TSS,36,3,36,36
+Lake Kummerow,1,lake,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,7,13,13
+Lake Kummerow,1,lake,SpyrakosE_GB_STIR,STIR,APHA 2540 D,43,7,43,23
+Lake Kummerow,1,lake,VanderWoudeA_US_NOAA-GLERL,NOAA-GLERL,APHA 2540 D,438,1,462,0
+Lake Kummerow,1,lake,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,8,8,8,8
+Lake Kummerow,1,lake,WertherM_GB_STIR,STIR,APHA 2540 D,12,4,12,12
+Lake Kummerow,2,estuary,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,14,1,14,14
+Lake Kummerow,2,estuary,FichotCG_US_BU_PIE,<missing>,BU_PIE TSS,23,1,23,23
+Lake Kummerow,2,estuary,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,8,1,32,8
+Lake Kummerow,2,estuary,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,187,44,196,187
+Lake Kummerow,2,estuary,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,22,8,30,22
+Lake Kummerow,2,estuary,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,2,2,2,2
+Lake Kummerow,3,coastal_ocean,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,2,1,3,2
+Lake Kummerow,3,coastal_ocean,HigaH_JP_YNU,YNU,APHA 2540 D,62,1,62,62
+Lake Kummerow,3,coastal_ocean,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,489,8,536,489
+Lake Kummerow,3,coastal_ocean,LehmannMK_NZ_UOW_NZ_CST,UOW,APHA 2540 D,65,1,65,65
+Lake Kummerow,3,coastal_ocean,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,19,1,20,19
+Lake Kummerow,3,coastal_ocean,OndrusekM_US_NOAA-STAR_KR_CST,NOAA-STAR,NASA TM 2003-211621,48,1,53,48
+Lake Kummerow,3,coastal_ocean,SchallesJ_US_Creighton,Creighton,Creighton TSS,15,2,15,15
+Lake Kummerow,3,coastal_ocean,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,5,13,13
+Lake Kummerow,3,coastal_ocean,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,131,2,131,131
+Lake Kummerow,3,coastal_ocean,SiswantoE_JP_JAMSTEC,JAMSTEC,APHA 2540 D,51,1,51,51
+Lake Kummerow,3,coastal_ocean,WernandMR_NL_NIOZ_CST,NIOZ,NIOZ TSS,12,1,22,12
+Lake Kummerow,4,river,DekkerAG_NL_VU,VU,VU TSS,4,4,4,4
+Lake Kummerow,4,river,GrebSR_US_WDNR,WDNR,APHA 2540 D,1,1,1,1
+Lake Kummerow,4,river,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,40,1,40,40
+Lake Kummerow,4,river,SchallesJ_US_Creighton,Creighton,Creighton TSS,9,1,9,9
+Lake Kummerow,4,river,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,123,23,126,123
+Lake Kummerow,4,river,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,40,8,41,40
+Lake Kummerow,4,river,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,4,4,4,4
+Lake Kummerow,5,other,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,16,1,16,16
+Lake Kummerow,5,other,SpyrakosE_GB_STIR,STIR,APHA 2540 D,5,1,5,5
+Lake Obłęże,1,lake,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,145,36,145,71
+Lake Obłęże,1,lake,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,99,12,99,60
+Lake Obłęże,1,lake,BarbosaCCF_BR_LabISA-INPE,LabISA-INPE,LabISA-INPE TSS,48,3,48,20
+Lake Obłęże,1,lake,BindingC_CA_ECCC,ECCC,ECCC TSS,94,2,94,0
+Lake Obłęże,1,lake,DekkerAG_NL_VU,VU,VU TSS,16,12,16,16
+Lake Obłęże,1,lake,DiVittorioC_US_WFU,WFU,APHA 2540 D,86,1,86,0
+Lake Obłęże,1,lake,FicekD_PL_APSL,APSL,APSL TSS,173,12,179,75
+Lake Obłęże,1,lake,GegeP_DE_DLR-IMF,DLR-IMF,ISO 11923:1997,20,1,20,20
+Lake Obłęże,1,lake,GiardinoC_IT_CNR-IREA,CNR-IREA,ISO 11923:1997,128,7,147,60
+Lake Obłęże,1,lake,GitelsonAA_US_UNL,UNL,APHA 2540 D,204,14,204,164
+Lake Obłęże,1,lake,GrebSR_US_WDNR,WDNR,APHA 2540 D,215,34,215,215
+Lake Obłęże,1,lake,KravitzJ_ZA_UCT,UCT,APHA 2540 D,28,4,28,28
+Lake Obłęże,1,lake,LehmannMK_NZ_UOW_NZ_LK,UOW,APHA 2540 D,169,85,170,169
+Lake Obłęże,1,lake,LiL_US_IUPUI,IUPUI,IUPUI TSS,187,3,188,0
+Lake Obłęże,1,lake,MaR_CN_NIGLAS,NIGLAS,APHA 2540 D,221,3,236,0
+Lake Obłęże,1,lake,MatsushitaB_JP_Tsukuba,Tsukuba,APHA 2540 D,235,8,235,26
+Lake Obłęże,1,lake,MatthewsM_ZA_UCT,UCT,APHA 2540 D,31,3,62,31
+Lake Obłęże,1,lake,MooreT_US_UNH,UNH,APHA 2540 D,30,1,30,0
+Lake Obłęże,1,lake,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,48,2,49,48
+Lake Obłęże,1,lake,O'DonnellDM_US_UFI,UFI,APHA 2540 D,9,1,9,0
+Lake Obłęże,1,lake,OlmansonLG_US_UMN,UMN,UMN TSS,7,7,7,7
+Lake Obłęże,1,lake,OppeltN_DE_CAU_Kiel,CAU_Kiel,DIN 38409-2:1987-03,26,1,26,0
+Lake Obłęże,1,lake,Ruiz-VerduA_ES_UVEG-CEDEX,UVEG-CEDEX,APHA 2540 D,30,6,30,30
+Lake Obłęże,1,lake,SalemSI_JP_KUAS,KUAS,APHA 2540 D,68,1,68,0
+Lake Obłęże,1,lake,SchallesJ_US_Creighton,Creighton,Creighton TSS,36,3,36,36
+Lake Obłęże,1,lake,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,7,13,13
+Lake Obłęże,1,lake,SpyrakosE_GB_STIR,STIR,APHA 2540 D,43,7,43,23
+Lake Obłęże,1,lake,VanderWoudeA_US_NOAA-GLERL,NOAA-GLERL,APHA 2540 D,438,1,462,0
+Lake Obłęże,1,lake,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,8,8,8,8
+Lake Obłęże,1,lake,WertherM_GB_STIR,STIR,APHA 2540 D,12,4,12,12
+Lake Obłęże,2,estuary,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,14,1,14,14
+Lake Obłęże,2,estuary,FichotCG_US_BU_PIE,<missing>,BU_PIE TSS,23,1,23,23
+Lake Obłęże,2,estuary,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,8,1,32,8
+Lake Obłęże,2,estuary,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,187,44,196,187
+Lake Obłęże,2,estuary,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,22,8,30,22
+Lake Obłęże,2,estuary,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,2,2,2,2
+Lake Obłęże,3,coastal_ocean,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,2,1,3,2
+Lake Obłęże,3,coastal_ocean,HigaH_JP_YNU,YNU,APHA 2540 D,62,1,62,62
+Lake Obłęże,3,coastal_ocean,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,489,8,536,489
+Lake Obłęże,3,coastal_ocean,LehmannMK_NZ_UOW_NZ_CST,UOW,APHA 2540 D,65,1,65,65
+Lake Obłęże,3,coastal_ocean,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,19,1,20,19
+Lake Obłęże,3,coastal_ocean,OndrusekM_US_NOAA-STAR_KR_CST,NOAA-STAR,NASA TM 2003-211621,48,1,53,48
+Lake Obłęże,3,coastal_ocean,SchallesJ_US_Creighton,Creighton,Creighton TSS,15,2,15,15
+Lake Obłęże,3,coastal_ocean,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,5,13,13
+Lake Obłęże,3,coastal_ocean,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,131,2,131,131
+Lake Obłęże,3,coastal_ocean,SiswantoE_JP_JAMSTEC,JAMSTEC,APHA 2540 D,51,1,51,51
+Lake Obłęże,3,coastal_ocean,WernandMR_NL_NIOZ_CST,NIOZ,NIOZ TSS,12,1,22,12
+Lake Obłęże,4,river,DekkerAG_NL_VU,VU,VU TSS,4,4,4,4
+Lake Obłęże,4,river,GrebSR_US_WDNR,WDNR,APHA 2540 D,1,1,1,1
+Lake Obłęże,4,river,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,40,1,40,40
+Lake Obłęże,4,river,SchallesJ_US_Creighton,Creighton,Creighton TSS,9,1,9,9
+Lake Obłęże,4,river,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,123,23,126,123
+Lake Obłęże,4,river,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,40,8,41,40
+Lake Obłęże,4,river,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,4,4,4,4
+Lake Obłęże,5,other,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,16,1,16,16
+Lake Obłęże,5,other,SpyrakosE_GB_STIR,STIR,APHA 2540 D,5,1,5,5
+Lake Peipsi,1,lake,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,71,35,71,71
+Lake Peipsi,1,lake,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,99,12,99,60
+Lake Peipsi,1,lake,BarbosaCCF_BR_LabISA-INPE,LabISA-INPE,LabISA-INPE TSS,48,3,48,20
+Lake Peipsi,1,lake,BindingC_CA_ECCC,ECCC,ECCC TSS,94,2,94,0
+Lake Peipsi,1,lake,DekkerAG_NL_VU,VU,VU TSS,16,12,16,16
+Lake Peipsi,1,lake,DiVittorioC_US_WFU,WFU,APHA 2540 D,86,1,86,0
+Lake Peipsi,1,lake,FicekD_PL_APSL,APSL,APSL TSS,193,13,200,75
+Lake Peipsi,1,lake,GegeP_DE_DLR-IMF,DLR-IMF,ISO 11923:1997,20,1,20,20
+Lake Peipsi,1,lake,GiardinoC_IT_CNR-IREA,CNR-IREA,ISO 11923:1997,128,7,147,60
+Lake Peipsi,1,lake,GitelsonAA_US_UNL,UNL,APHA 2540 D,204,14,204,164
+Lake Peipsi,1,lake,GrebSR_US_WDNR,WDNR,APHA 2540 D,215,34,215,215
+Lake Peipsi,1,lake,KravitzJ_ZA_UCT,UCT,APHA 2540 D,28,4,28,28
+Lake Peipsi,1,lake,LehmannMK_NZ_UOW_NZ_LK,UOW,APHA 2540 D,169,85,170,169
+Lake Peipsi,1,lake,LiL_US_IUPUI,IUPUI,IUPUI TSS,187,3,188,0
+Lake Peipsi,1,lake,MaR_CN_NIGLAS,NIGLAS,APHA 2540 D,221,3,236,0
+Lake Peipsi,1,lake,MatsushitaB_JP_Tsukuba,Tsukuba,APHA 2540 D,235,8,235,26
+Lake Peipsi,1,lake,MatthewsM_ZA_UCT,UCT,APHA 2540 D,31,3,62,31
+Lake Peipsi,1,lake,MooreT_US_UNH,UNH,APHA 2540 D,30,1,30,0
+Lake Peipsi,1,lake,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,48,2,49,48
+Lake Peipsi,1,lake,O'DonnellDM_US_UFI,UFI,APHA 2540 D,9,1,9,0
+Lake Peipsi,1,lake,OlmansonLG_US_UMN,UMN,UMN TSS,7,7,7,7
+Lake Peipsi,1,lake,OppeltN_DE_CAU_Kiel,CAU_Kiel,DIN 38409-2:1987-03,26,1,26,0
+Lake Peipsi,1,lake,Ruiz-VerduA_ES_UVEG-CEDEX,UVEG-CEDEX,APHA 2540 D,30,6,30,30
+Lake Peipsi,1,lake,SalemSI_JP_KUAS,KUAS,APHA 2540 D,68,1,68,0
+Lake Peipsi,1,lake,SchallesJ_US_Creighton,Creighton,Creighton TSS,36,3,36,36
+Lake Peipsi,1,lake,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,7,13,13
+Lake Peipsi,1,lake,SpyrakosE_GB_STIR,STIR,APHA 2540 D,43,7,43,23
+Lake Peipsi,1,lake,VanderWoudeA_US_NOAA-GLERL,NOAA-GLERL,APHA 2540 D,438,1,462,0
+Lake Peipsi,1,lake,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,8,8,8,8
+Lake Peipsi,1,lake,WertherM_GB_STIR,STIR,APHA 2540 D,12,4,12,12
+Lake Peipsi,2,estuary,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,14,1,14,14
+Lake Peipsi,2,estuary,FichotCG_US_BU_PIE,<missing>,BU_PIE TSS,23,1,23,23
+Lake Peipsi,2,estuary,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,8,1,32,8
+Lake Peipsi,2,estuary,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,187,44,196,187
+Lake Peipsi,2,estuary,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,22,8,30,22
+Lake Peipsi,2,estuary,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,2,2,2,2
+Lake Peipsi,3,coastal_ocean,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,2,1,3,2
+Lake Peipsi,3,coastal_ocean,HigaH_JP_YNU,YNU,APHA 2540 D,62,1,62,62
+Lake Peipsi,3,coastal_ocean,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,489,8,536,489
+Lake Peipsi,3,coastal_ocean,LehmannMK_NZ_UOW_NZ_CST,UOW,APHA 2540 D,65,1,65,65
+Lake Peipsi,3,coastal_ocean,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,19,1,20,19
+Lake Peipsi,3,coastal_ocean,OndrusekM_US_NOAA-STAR_KR_CST,NOAA-STAR,NASA TM 2003-211621,48,1,53,48
+Lake Peipsi,3,coastal_ocean,SchallesJ_US_Creighton,Creighton,Creighton TSS,15,2,15,15
+Lake Peipsi,3,coastal_ocean,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,5,13,13
+Lake Peipsi,3,coastal_ocean,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,131,2,131,131
+Lake Peipsi,3,coastal_ocean,SiswantoE_JP_JAMSTEC,JAMSTEC,APHA 2540 D,51,1,51,51
+Lake Peipsi,3,coastal_ocean,WernandMR_NL_NIOZ_CST,NIOZ,NIOZ TSS,12,1,22,12
+Lake Peipsi,4,river,DekkerAG_NL_VU,VU,VU TSS,4,4,4,4
+Lake Peipsi,4,river,GrebSR_US_WDNR,WDNR,APHA 2540 D,1,1,1,1
+Lake Peipsi,4,river,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,40,1,40,40
+Lake Peipsi,4,river,SchallesJ_US_Creighton,Creighton,Creighton TSS,9,1,9,9
+Lake Peipsi,4,river,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,123,23,126,123
+Lake Peipsi,4,river,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,40,8,41,40
+Lake Peipsi,4,river,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,4,4,4,4
+Lake Peipsi,5,other,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,16,1,16,16
+Lake Peipsi,5,other,SpyrakosE_GB_STIR,STIR,APHA 2540 D,5,1,5,5
+Lake Winnipeg,1,lake,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,145,36,145,71
+Lake Winnipeg,1,lake,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,99,12,99,60
+Lake Winnipeg,1,lake,BarbosaCCF_BR_LabISA-INPE,LabISA-INPE,LabISA-INPE TSS,48,3,48,20
+Lake Winnipeg,1,lake,BindingC_CA_ECCC,ECCC,ECCC TSS,49,1,49,0
+Lake Winnipeg,1,lake,DekkerAG_NL_VU,VU,VU TSS,16,12,16,16
+Lake Winnipeg,1,lake,DiVittorioC_US_WFU,WFU,APHA 2540 D,86,1,86,0
+Lake Winnipeg,1,lake,FicekD_PL_APSL,APSL,APSL TSS,193,13,200,75
+Lake Winnipeg,1,lake,GegeP_DE_DLR-IMF,DLR-IMF,ISO 11923:1997,20,1,20,20
+Lake Winnipeg,1,lake,GiardinoC_IT_CNR-IREA,CNR-IREA,ISO 11923:1997,128,7,147,60
+Lake Winnipeg,1,lake,GitelsonAA_US_UNL,UNL,APHA 2540 D,204,14,204,164
+Lake Winnipeg,1,lake,GrebSR_US_WDNR,WDNR,APHA 2540 D,215,34,215,215
+Lake Winnipeg,1,lake,KravitzJ_ZA_UCT,UCT,APHA 2540 D,28,4,28,28
+Lake Winnipeg,1,lake,LehmannMK_NZ_UOW_NZ_LK,UOW,APHA 2540 D,169,85,170,169
+Lake Winnipeg,1,lake,LiL_US_IUPUI,IUPUI,IUPUI TSS,187,3,188,0
+Lake Winnipeg,1,lake,MaR_CN_NIGLAS,NIGLAS,APHA 2540 D,221,3,236,0
+Lake Winnipeg,1,lake,MatsushitaB_JP_Tsukuba,Tsukuba,APHA 2540 D,235,8,235,26
+Lake Winnipeg,1,lake,MatthewsM_ZA_UCT,UCT,APHA 2540 D,31,3,62,31
+Lake Winnipeg,1,lake,MooreT_US_UNH,UNH,APHA 2540 D,30,1,30,0
+Lake Winnipeg,1,lake,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,48,2,49,48
+Lake Winnipeg,1,lake,O'DonnellDM_US_UFI,UFI,APHA 2540 D,9,1,9,0
+Lake Winnipeg,1,lake,OlmansonLG_US_UMN,UMN,UMN TSS,7,7,7,7
+Lake Winnipeg,1,lake,OppeltN_DE_CAU_Kiel,CAU_Kiel,DIN 38409-2:1987-03,26,1,26,0
+Lake Winnipeg,1,lake,Ruiz-VerduA_ES_UVEG-CEDEX,UVEG-CEDEX,APHA 2540 D,30,6,30,30
+Lake Winnipeg,1,lake,SalemSI_JP_KUAS,KUAS,APHA 2540 D,68,1,68,0
+Lake Winnipeg,1,lake,SchallesJ_US_Creighton,Creighton,Creighton TSS,36,3,36,36
+Lake Winnipeg,1,lake,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,7,13,13
+Lake Winnipeg,1,lake,SpyrakosE_GB_STIR,STIR,APHA 2540 D,43,7,43,23
+Lake Winnipeg,1,lake,VanderWoudeA_US_NOAA-GLERL,NOAA-GLERL,APHA 2540 D,438,1,462,0
+Lake Winnipeg,1,lake,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,8,8,8,8
+Lake Winnipeg,1,lake,WertherM_GB_STIR,STIR,APHA 2540 D,12,4,12,12
+Lake Winnipeg,2,estuary,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,14,1,14,14
+Lake Winnipeg,2,estuary,FichotCG_US_BU_PIE,<missing>,BU_PIE TSS,23,1,23,23
+Lake Winnipeg,2,estuary,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,8,1,32,8
+Lake Winnipeg,2,estuary,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,187,44,196,187
+Lake Winnipeg,2,estuary,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,22,8,30,22
+Lake Winnipeg,2,estuary,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,2,2,2,2
+Lake Winnipeg,3,coastal_ocean,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,2,1,3,2
+Lake Winnipeg,3,coastal_ocean,HigaH_JP_YNU,YNU,APHA 2540 D,62,1,62,62
+Lake Winnipeg,3,coastal_ocean,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,489,8,536,489
+Lake Winnipeg,3,coastal_ocean,LehmannMK_NZ_UOW_NZ_CST,UOW,APHA 2540 D,65,1,65,65
+Lake Winnipeg,3,coastal_ocean,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,19,1,20,19
+Lake Winnipeg,3,coastal_ocean,OndrusekM_US_NOAA-STAR_KR_CST,NOAA-STAR,NASA TM 2003-211621,48,1,53,48
+Lake Winnipeg,3,coastal_ocean,SchallesJ_US_Creighton,Creighton,Creighton TSS,15,2,15,15
+Lake Winnipeg,3,coastal_ocean,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,5,13,13
+Lake Winnipeg,3,coastal_ocean,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,131,2,131,131
+Lake Winnipeg,3,coastal_ocean,SiswantoE_JP_JAMSTEC,JAMSTEC,APHA 2540 D,51,1,51,51
+Lake Winnipeg,3,coastal_ocean,WernandMR_NL_NIOZ_CST,NIOZ,NIOZ TSS,12,1,22,12
+Lake Winnipeg,4,river,DekkerAG_NL_VU,VU,VU TSS,4,4,4,4
+Lake Winnipeg,4,river,GrebSR_US_WDNR,WDNR,APHA 2540 D,1,1,1,1
+Lake Winnipeg,4,river,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,40,1,40,40
+Lake Winnipeg,4,river,SchallesJ_US_Creighton,Creighton,Creighton TSS,9,1,9,9
+Lake Winnipeg,4,river,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,123,23,126,123
+Lake Winnipeg,4,river,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,40,8,41,40
+Lake Winnipeg,4,river,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,4,4,4,4
+Lake Winnipeg,5,other,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,16,1,16,16
+Lake Winnipeg,5,other,SpyrakosE_GB_STIR,STIR,APHA 2540 D,5,1,5,5
+Lake Łebsko,1,lake,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,145,36,145,71
+Lake Łebsko,1,lake,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,99,12,99,60
+Lake Łebsko,1,lake,BarbosaCCF_BR_LabISA-INPE,LabISA-INPE,LabISA-INPE TSS,48,3,48,20
+Lake Łebsko,1,lake,BindingC_CA_ECCC,ECCC,ECCC TSS,94,2,94,0
+Lake Łebsko,1,lake,DekkerAG_NL_VU,VU,VU TSS,16,12,16,16
+Lake Łebsko,1,lake,DiVittorioC_US_WFU,WFU,APHA 2540 D,86,1,86,0
+Lake Łebsko,1,lake,FicekD_PL_APSL,APSL,APSL TSS,161,12,168,75
+Lake Łebsko,1,lake,GegeP_DE_DLR-IMF,DLR-IMF,ISO 11923:1997,20,1,20,20
+Lake Łebsko,1,lake,GiardinoC_IT_CNR-IREA,CNR-IREA,ISO 11923:1997,128,7,147,60
+Lake Łebsko,1,lake,GitelsonAA_US_UNL,UNL,APHA 2540 D,204,14,204,164
+Lake Łebsko,1,lake,GrebSR_US_WDNR,WDNR,APHA 2540 D,215,34,215,215
+Lake Łebsko,1,lake,KravitzJ_ZA_UCT,UCT,APHA 2540 D,28,4,28,28
+Lake Łebsko,1,lake,LehmannMK_NZ_UOW_NZ_LK,UOW,APHA 2540 D,169,85,170,169
+Lake Łebsko,1,lake,LiL_US_IUPUI,IUPUI,IUPUI TSS,187,3,188,0
+Lake Łebsko,1,lake,MaR_CN_NIGLAS,NIGLAS,APHA 2540 D,221,3,236,0
+Lake Łebsko,1,lake,MatsushitaB_JP_Tsukuba,Tsukuba,APHA 2540 D,235,8,235,26
+Lake Łebsko,1,lake,MatthewsM_ZA_UCT,UCT,APHA 2540 D,31,3,62,31
+Lake Łebsko,1,lake,MooreT_US_UNH,UNH,APHA 2540 D,30,1,30,0
+Lake Łebsko,1,lake,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,48,2,49,48
+Lake Łebsko,1,lake,O'DonnellDM_US_UFI,UFI,APHA 2540 D,9,1,9,0
+Lake Łebsko,1,lake,OlmansonLG_US_UMN,UMN,UMN TSS,7,7,7,7
+Lake Łebsko,1,lake,OppeltN_DE_CAU_Kiel,CAU_Kiel,DIN 38409-2:1987-03,26,1,26,0
+Lake Łebsko,1,lake,Ruiz-VerduA_ES_UVEG-CEDEX,UVEG-CEDEX,APHA 2540 D,30,6,30,30
+Lake Łebsko,1,lake,SalemSI_JP_KUAS,KUAS,APHA 2540 D,68,1,68,0
+Lake Łebsko,1,lake,SchallesJ_US_Creighton,Creighton,Creighton TSS,36,3,36,36
+Lake Łebsko,1,lake,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,7,13,13
+Lake Łebsko,1,lake,SpyrakosE_GB_STIR,STIR,APHA 2540 D,43,7,43,23
+Lake Łebsko,1,lake,VanderWoudeA_US_NOAA-GLERL,NOAA-GLERL,APHA 2540 D,438,1,462,0
+Lake Łebsko,1,lake,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,8,8,8,8
+Lake Łebsko,1,lake,WertherM_GB_STIR,STIR,APHA 2540 D,12,4,12,12
+Lake Łebsko,2,estuary,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,14,1,14,14
+Lake Łebsko,2,estuary,FichotCG_US_BU_PIE,<missing>,BU_PIE TSS,23,1,23,23
+Lake Łebsko,2,estuary,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,8,1,32,8
+Lake Łebsko,2,estuary,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,187,44,196,187
+Lake Łebsko,2,estuary,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,22,8,30,22
+Lake Łebsko,2,estuary,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,2,2,2,2
+Lake Łebsko,3,coastal_ocean,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,2,1,3,2
+Lake Łebsko,3,coastal_ocean,HigaH_JP_YNU,YNU,APHA 2540 D,62,1,62,62
+Lake Łebsko,3,coastal_ocean,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,489,8,536,489
+Lake Łebsko,3,coastal_ocean,LehmannMK_NZ_UOW_NZ_CST,UOW,APHA 2540 D,65,1,65,65
+Lake Łebsko,3,coastal_ocean,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,19,1,20,19
+Lake Łebsko,3,coastal_ocean,OndrusekM_US_NOAA-STAR_KR_CST,NOAA-STAR,NASA TM 2003-211621,48,1,53,48
+Lake Łebsko,3,coastal_ocean,SchallesJ_US_Creighton,Creighton,Creighton TSS,15,2,15,15
+Lake Łebsko,3,coastal_ocean,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,5,13,13
+Lake Łebsko,3,coastal_ocean,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,131,2,131,131
+Lake Łebsko,3,coastal_ocean,SiswantoE_JP_JAMSTEC,JAMSTEC,APHA 2540 D,51,1,51,51
+Lake Łebsko,3,coastal_ocean,WernandMR_NL_NIOZ_CST,NIOZ,NIOZ TSS,12,1,22,12
+Lake Łebsko,4,river,DekkerAG_NL_VU,VU,VU TSS,4,4,4,4
+Lake Łebsko,4,river,GrebSR_US_WDNR,WDNR,APHA 2540 D,1,1,1,1
+Lake Łebsko,4,river,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,40,1,40,40
+Lake Łebsko,4,river,SchallesJ_US_Creighton,Creighton,Creighton TSS,9,1,9,9
+Lake Łebsko,4,river,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,123,23,126,123
+Lake Łebsko,4,river,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,40,8,41,40
+Lake Łebsko,4,river,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,4,4,4,4
+Lake Łebsko,5,other,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,16,1,16,16
+Lake Łebsko,5,other,SpyrakosE_GB_STIR,STIR,APHA 2540 D,5,1,5,5
+Mantova,1,lake,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,145,36,145,71
+Mantova,1,lake,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,99,12,99,60
+Mantova,1,lake,BarbosaCCF_BR_LabISA-INPE,LabISA-INPE,LabISA-INPE TSS,48,3,48,20
+Mantova,1,lake,BindingC_CA_ECCC,ECCC,ECCC TSS,94,2,94,0
+Mantova,1,lake,DekkerAG_NL_VU,VU,VU TSS,16,12,16,16
+Mantova,1,lake,DiVittorioC_US_WFU,WFU,APHA 2540 D,86,1,86,0
+Mantova,1,lake,FicekD_PL_APSL,APSL,APSL TSS,193,13,200,75
+Mantova,1,lake,GegeP_DE_DLR-IMF,DLR-IMF,ISO 11923:1997,20,1,20,20
+Mantova,1,lake,GiardinoC_IT_CNR-IREA,CNR-IREA,ISO 11923:1997,97,6,114,60
+Mantova,1,lake,GitelsonAA_US_UNL,UNL,APHA 2540 D,204,14,204,164
+Mantova,1,lake,GrebSR_US_WDNR,WDNR,APHA 2540 D,215,34,215,215
+Mantova,1,lake,KravitzJ_ZA_UCT,UCT,APHA 2540 D,28,4,28,28
+Mantova,1,lake,LehmannMK_NZ_UOW_NZ_LK,UOW,APHA 2540 D,169,85,170,169
+Mantova,1,lake,LiL_US_IUPUI,IUPUI,IUPUI TSS,187,3,188,0
+Mantova,1,lake,MaR_CN_NIGLAS,NIGLAS,APHA 2540 D,221,3,236,0
+Mantova,1,lake,MatsushitaB_JP_Tsukuba,Tsukuba,APHA 2540 D,235,8,235,26
+Mantova,1,lake,MatthewsM_ZA_UCT,UCT,APHA 2540 D,31,3,62,31
+Mantova,1,lake,MooreT_US_UNH,UNH,APHA 2540 D,30,1,30,0
+Mantova,1,lake,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,48,2,49,48
+Mantova,1,lake,O'DonnellDM_US_UFI,UFI,APHA 2540 D,9,1,9,0
+Mantova,1,lake,OlmansonLG_US_UMN,UMN,UMN TSS,7,7,7,7
+Mantova,1,lake,OppeltN_DE_CAU_Kiel,CAU_Kiel,DIN 38409-2:1987-03,26,1,26,0
+Mantova,1,lake,Ruiz-VerduA_ES_UVEG-CEDEX,UVEG-CEDEX,APHA 2540 D,30,6,30,30
+Mantova,1,lake,SalemSI_JP_KUAS,KUAS,APHA 2540 D,68,1,68,0
+Mantova,1,lake,SchallesJ_US_Creighton,Creighton,Creighton TSS,36,3,36,36
+Mantova,1,lake,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,7,13,13
+Mantova,1,lake,SpyrakosE_GB_STIR,STIR,APHA 2540 D,43,7,43,23
+Mantova,1,lake,VanderWoudeA_US_NOAA-GLERL,NOAA-GLERL,APHA 2540 D,438,1,462,0
+Mantova,1,lake,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,8,8,8,8
+Mantova,1,lake,WertherM_GB_STIR,STIR,APHA 2540 D,12,4,12,12
+Mantova,2,estuary,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,14,1,14,14
+Mantova,2,estuary,FichotCG_US_BU_PIE,<missing>,BU_PIE TSS,23,1,23,23
+Mantova,2,estuary,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,8,1,32,8
+Mantova,2,estuary,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,187,44,196,187
+Mantova,2,estuary,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,22,8,30,22
+Mantova,2,estuary,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,2,2,2,2
+Mantova,3,coastal_ocean,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,2,1,3,2
+Mantova,3,coastal_ocean,HigaH_JP_YNU,YNU,APHA 2540 D,62,1,62,62
+Mantova,3,coastal_ocean,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,489,8,536,489
+Mantova,3,coastal_ocean,LehmannMK_NZ_UOW_NZ_CST,UOW,APHA 2540 D,65,1,65,65
+Mantova,3,coastal_ocean,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,19,1,20,19
+Mantova,3,coastal_ocean,OndrusekM_US_NOAA-STAR_KR_CST,NOAA-STAR,NASA TM 2003-211621,48,1,53,48
+Mantova,3,coastal_ocean,SchallesJ_US_Creighton,Creighton,Creighton TSS,15,2,15,15
+Mantova,3,coastal_ocean,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,5,13,13
+Mantova,3,coastal_ocean,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,131,2,131,131
+Mantova,3,coastal_ocean,SiswantoE_JP_JAMSTEC,JAMSTEC,APHA 2540 D,51,1,51,51
+Mantova,3,coastal_ocean,WernandMR_NL_NIOZ_CST,NIOZ,NIOZ TSS,12,1,22,12
+Mantova,4,river,DekkerAG_NL_VU,VU,VU TSS,4,4,4,4
+Mantova,4,river,GrebSR_US_WDNR,WDNR,APHA 2540 D,1,1,1,1
+Mantova,4,river,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,40,1,40,40
+Mantova,4,river,SchallesJ_US_Creighton,Creighton,Creighton TSS,9,1,9,9
+Mantova,4,river,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,123,23,126,123
+Mantova,4,river,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,40,8,41,40
+Mantova,4,river,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,4,4,4,4
+Mantova,5,other,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,16,1,16,16
+Mantova,5,other,SpyrakosE_GB_STIR,STIR,APHA 2540 D,5,1,5,5
+Morse Reservoir,1,lake,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,145,36,145,71
+Morse Reservoir,1,lake,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,99,12,99,60
+Morse Reservoir,1,lake,BarbosaCCF_BR_LabISA-INPE,LabISA-INPE,LabISA-INPE TSS,48,3,48,20
+Morse Reservoir,1,lake,BindingC_CA_ECCC,ECCC,ECCC TSS,94,2,94,0
+Morse Reservoir,1,lake,DekkerAG_NL_VU,VU,VU TSS,16,12,16,16
+Morse Reservoir,1,lake,DiVittorioC_US_WFU,WFU,APHA 2540 D,86,1,86,0
+Morse Reservoir,1,lake,FicekD_PL_APSL,APSL,APSL TSS,193,13,200,75
+Morse Reservoir,1,lake,GegeP_DE_DLR-IMF,DLR-IMF,ISO 11923:1997,20,1,20,20
+Morse Reservoir,1,lake,GiardinoC_IT_CNR-IREA,CNR-IREA,ISO 11923:1997,128,7,147,60
+Morse Reservoir,1,lake,GitelsonAA_US_UNL,UNL,APHA 2540 D,204,14,204,164
+Morse Reservoir,1,lake,GrebSR_US_WDNR,WDNR,APHA 2540 D,215,34,215,215
+Morse Reservoir,1,lake,KravitzJ_ZA_UCT,UCT,APHA 2540 D,28,4,28,28
+Morse Reservoir,1,lake,LehmannMK_NZ_UOW_NZ_LK,UOW,APHA 2540 D,169,85,170,169
+Morse Reservoir,1,lake,LiL_US_IUPUI,IUPUI,IUPUI TSS,134,2,135,0
+Morse Reservoir,1,lake,MaR_CN_NIGLAS,NIGLAS,APHA 2540 D,221,3,236,0
+Morse Reservoir,1,lake,MatsushitaB_JP_Tsukuba,Tsukuba,APHA 2540 D,235,8,235,26
+Morse Reservoir,1,lake,MatthewsM_ZA_UCT,UCT,APHA 2540 D,31,3,62,31
+Morse Reservoir,1,lake,MooreT_US_UNH,UNH,APHA 2540 D,30,1,30,0
+Morse Reservoir,1,lake,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,48,2,49,48
+Morse Reservoir,1,lake,O'DonnellDM_US_UFI,UFI,APHA 2540 D,9,1,9,0
+Morse Reservoir,1,lake,OlmansonLG_US_UMN,UMN,UMN TSS,7,7,7,7
+Morse Reservoir,1,lake,OppeltN_DE_CAU_Kiel,CAU_Kiel,DIN 38409-2:1987-03,26,1,26,0
+Morse Reservoir,1,lake,Ruiz-VerduA_ES_UVEG-CEDEX,UVEG-CEDEX,APHA 2540 D,30,6,30,30
+Morse Reservoir,1,lake,SalemSI_JP_KUAS,KUAS,APHA 2540 D,68,1,68,0
+Morse Reservoir,1,lake,SchallesJ_US_Creighton,Creighton,Creighton TSS,36,3,36,36
+Morse Reservoir,1,lake,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,7,13,13
+Morse Reservoir,1,lake,SpyrakosE_GB_STIR,STIR,APHA 2540 D,43,7,43,23
+Morse Reservoir,1,lake,VanderWoudeA_US_NOAA-GLERL,NOAA-GLERL,APHA 2540 D,438,1,462,0
+Morse Reservoir,1,lake,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,8,8,8,8
+Morse Reservoir,1,lake,WertherM_GB_STIR,STIR,APHA 2540 D,12,4,12,12
+Morse Reservoir,2,estuary,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,14,1,14,14
+Morse Reservoir,2,estuary,FichotCG_US_BU_PIE,<missing>,BU_PIE TSS,23,1,23,23
+Morse Reservoir,2,estuary,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,8,1,32,8
+Morse Reservoir,2,estuary,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,187,44,196,187
+Morse Reservoir,2,estuary,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,22,8,30,22
+Morse Reservoir,2,estuary,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,2,2,2,2
+Morse Reservoir,3,coastal_ocean,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,2,1,3,2
+Morse Reservoir,3,coastal_ocean,HigaH_JP_YNU,YNU,APHA 2540 D,62,1,62,62
+Morse Reservoir,3,coastal_ocean,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,489,8,536,489
+Morse Reservoir,3,coastal_ocean,LehmannMK_NZ_UOW_NZ_CST,UOW,APHA 2540 D,65,1,65,65
+Morse Reservoir,3,coastal_ocean,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,19,1,20,19
+Morse Reservoir,3,coastal_ocean,OndrusekM_US_NOAA-STAR_KR_CST,NOAA-STAR,NASA TM 2003-211621,48,1,53,48
+Morse Reservoir,3,coastal_ocean,SchallesJ_US_Creighton,Creighton,Creighton TSS,15,2,15,15
+Morse Reservoir,3,coastal_ocean,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,5,13,13
+Morse Reservoir,3,coastal_ocean,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,131,2,131,131
+Morse Reservoir,3,coastal_ocean,SiswantoE_JP_JAMSTEC,JAMSTEC,APHA 2540 D,51,1,51,51
+Morse Reservoir,3,coastal_ocean,WernandMR_NL_NIOZ_CST,NIOZ,NIOZ TSS,12,1,22,12
+Morse Reservoir,4,river,DekkerAG_NL_VU,VU,VU TSS,4,4,4,4
+Morse Reservoir,4,river,GrebSR_US_WDNR,WDNR,APHA 2540 D,1,1,1,1
+Morse Reservoir,4,river,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,40,1,40,40
+Morse Reservoir,4,river,SchallesJ_US_Creighton,Creighton,Creighton TSS,9,1,9,9
+Morse Reservoir,4,river,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,123,23,126,123
+Morse Reservoir,4,river,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,40,8,41,40
+Morse Reservoir,4,river,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,4,4,4,4
+Morse Reservoir,5,other,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,16,1,16,16
+Morse Reservoir,5,other,SpyrakosE_GB_STIR,STIR,APHA 2540 D,5,1,5,5
+Taihu,1,lake,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,145,36,145,71
+Taihu,1,lake,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,99,12,99,60
+Taihu,1,lake,BarbosaCCF_BR_LabISA-INPE,LabISA-INPE,LabISA-INPE TSS,48,3,48,20
+Taihu,1,lake,BindingC_CA_ECCC,ECCC,ECCC TSS,94,2,94,0
+Taihu,1,lake,DekkerAG_NL_VU,VU,VU TSS,16,12,16,16
+Taihu,1,lake,DiVittorioC_US_WFU,WFU,APHA 2540 D,86,1,86,0
+Taihu,1,lake,FicekD_PL_APSL,APSL,APSL TSS,193,13,200,75
+Taihu,1,lake,GegeP_DE_DLR-IMF,DLR-IMF,ISO 11923:1997,20,1,20,20
+Taihu,1,lake,GiardinoC_IT_CNR-IREA,CNR-IREA,ISO 11923:1997,128,7,147,60
+Taihu,1,lake,GitelsonAA_US_UNL,UNL,APHA 2540 D,204,14,204,164
+Taihu,1,lake,GrebSR_US_WDNR,WDNR,APHA 2540 D,215,34,215,215
+Taihu,1,lake,KravitzJ_ZA_UCT,UCT,APHA 2540 D,28,4,28,28
+Taihu,1,lake,LehmannMK_NZ_UOW_NZ_LK,UOW,APHA 2540 D,169,85,170,169
+Taihu,1,lake,LiL_US_IUPUI,IUPUI,IUPUI TSS,187,3,188,0
+Taihu,1,lake,MaR_CN_NIGLAS,NIGLAS,APHA 2540 D,33,2,41,0
+Taihu,1,lake,MatsushitaB_JP_Tsukuba,Tsukuba,APHA 2540 D,235,8,235,26
+Taihu,1,lake,MatthewsM_ZA_UCT,UCT,APHA 2540 D,31,3,62,31
+Taihu,1,lake,MooreT_US_UNH,UNH,APHA 2540 D,30,1,30,0
+Taihu,1,lake,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,48,2,49,48
+Taihu,1,lake,O'DonnellDM_US_UFI,UFI,APHA 2540 D,9,1,9,0
+Taihu,1,lake,OlmansonLG_US_UMN,UMN,UMN TSS,7,7,7,7
+Taihu,1,lake,OppeltN_DE_CAU_Kiel,CAU_Kiel,DIN 38409-2:1987-03,26,1,26,0
+Taihu,1,lake,Ruiz-VerduA_ES_UVEG-CEDEX,UVEG-CEDEX,APHA 2540 D,30,6,30,30
+Taihu,1,lake,SalemSI_JP_KUAS,KUAS,APHA 2540 D,68,1,68,0
+Taihu,1,lake,SchallesJ_US_Creighton,Creighton,Creighton TSS,36,3,36,36
+Taihu,1,lake,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,7,13,13
+Taihu,1,lake,SpyrakosE_GB_STIR,STIR,APHA 2540 D,43,7,43,23
+Taihu,1,lake,VanderWoudeA_US_NOAA-GLERL,NOAA-GLERL,APHA 2540 D,438,1,462,0
+Taihu,1,lake,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,8,8,8,8
+Taihu,1,lake,WertherM_GB_STIR,STIR,APHA 2540 D,12,4,12,12
+Taihu,2,estuary,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,14,1,14,14
+Taihu,2,estuary,FichotCG_US_BU_PIE,<missing>,BU_PIE TSS,23,1,23,23
+Taihu,2,estuary,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,8,1,32,8
+Taihu,2,estuary,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,187,44,196,187
+Taihu,2,estuary,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,22,8,30,22
+Taihu,2,estuary,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,2,2,2,2
+Taihu,3,coastal_ocean,AlikasK_EE_UT-TO,UT-TO,ESS Method 340.2,2,1,3,2
+Taihu,3,coastal_ocean,HigaH_JP_YNU,YNU,APHA 2540 D,62,1,62,62
+Taihu,3,coastal_ocean,JametC_FR_ULCO-LOG,<missing>,APHA 2540 D,489,8,536,489
+Taihu,3,coastal_ocean,LehmannMK_NZ_UOW_NZ_CST,UOW,APHA 2540 D,65,1,65,65
+Taihu,3,coastal_ocean,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,19,1,20,19
+Taihu,3,coastal_ocean,OndrusekM_US_NOAA-STAR_KR_CST,NOAA-STAR,NASA TM 2003-211621,48,1,53,48
+Taihu,3,coastal_ocean,SchallesJ_US_Creighton,Creighton,Creighton TSS,15,2,15,15
+Taihu,3,coastal_ocean,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,13,5,13,13
+Taihu,3,coastal_ocean,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,131,2,131,131
+Taihu,3,coastal_ocean,SiswantoE_JP_JAMSTEC,JAMSTEC,APHA 2540 D,51,1,51,51
+Taihu,3,coastal_ocean,WernandMR_NL_NIOZ_CST,NIOZ,NIOZ TSS,12,1,22,12
+Taihu,4,river,DekkerAG_NL_VU,VU,VU TSS,4,4,4,4
+Taihu,4,river,GrebSR_US_WDNR,WDNR,APHA 2540 D,1,1,1,1
+Taihu,4,river,NguyenTTH_VN_VNU-HUS,VNU-HUS,APHA 2540 D,40,1,40,40
+Taihu,4,river,SchallesJ_US_Creighton,Creighton,Creighton TSS,9,1,9,9
+Taihu,4,river,SchallesJ_US_Creighton,NOAA ECSC,Creighton TSS,123,23,126,123
+Taihu,4,river,SchallesJ_US_Creighton,NSF GCE LTER,Creighton TSS,40,8,41,40
+Taihu,4,river,WernandMR_NL_NIOZ_LK,NIOZ,NIOZ TSS,4,4,4,4
+Taihu,5,other,AnsteeJ_AU_CSIRO,CSIRO,ISO 11923:1997,16,1,16,16
+Taihu,5,other,SpyrakosE_GB_STIR,STIR,APHA 2540 D,5,1,5,5

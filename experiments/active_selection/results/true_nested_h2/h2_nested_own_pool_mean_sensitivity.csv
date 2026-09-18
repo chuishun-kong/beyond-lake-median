@@ -1,0 +1,13 @@
+learner,k,estimand,within_target_aggregation,delta_definition,positive_means,mean_delta_mae,median_delta_mae,ci_lo,ci_hi,classification,n_target_units,n_bootstrap,multiplicity_adjusted,post_hoc
+PLSR,1,own_pool_post_hoc_mean_sensitivity,mean_over_100_repetitions,MAE_random - MAE_weighted,weighted_better_than_random,-0.009073,0.015573,-0.053229,0.028513,unresolved,24,10000,False,True
+PLSR,3,own_pool_post_hoc_mean_sensitivity,mean_over_100_repetitions,MAE_random - MAE_weighted,weighted_better_than_random,-0.013956,0.014623,-0.049408,0.012989,unresolved,24,10000,False,True
+PLSR,5,own_pool_post_hoc_mean_sensitivity,mean_over_100_repetitions,MAE_random - MAE_weighted,weighted_better_than_random,0.020919,0.026469,0.004522,0.036639,weighted-better,24,10000,False,True
+PLSR,10,own_pool_post_hoc_mean_sensitivity,mean_over_100_repetitions,MAE_random - MAE_weighted,weighted_better_than_random,0.013366,0.011348,-0.002314,0.028758,unresolved,24,10000,False,True
+XGBoost,1,own_pool_post_hoc_mean_sensitivity,mean_over_100_repetitions,MAE_random - MAE_weighted,weighted_better_than_random,-0.014787,0.005667,-0.051025,0.017367,unresolved,24,10000,False,True
+XGBoost,3,own_pool_post_hoc_mean_sensitivity,mean_over_100_repetitions,MAE_random - MAE_weighted,weighted_better_than_random,-0.006632,0.011814,-0.037533,0.018017,unresolved,24,10000,False,True
+XGBoost,5,own_pool_post_hoc_mean_sensitivity,mean_over_100_repetitions,MAE_random - MAE_weighted,weighted_better_than_random,0.018829,0.018945,0.0026,0.034349,weighted-better,24,10000,False,True
+XGBoost,10,own_pool_post_hoc_mean_sensitivity,mean_over_100_repetitions,MAE_random - MAE_weighted,weighted_better_than_random,0.0103,0.011448,-0.0047,0.02567,unresolved,24,10000,False,True
+MLP,1,own_pool_post_hoc_mean_sensitivity,mean_over_100_repetitions,MAE_random - MAE_weighted,weighted_better_than_random,0.007344,0.032114,-0.028774,0.04071,unresolved,24,10000,False,True
+MLP,3,own_pool_post_hoc_mean_sensitivity,mean_over_100_repetitions,MAE_random - MAE_weighted,weighted_better_than_random,-0.003032,0.014089,-0.030838,0.01953,unresolved,24,10000,False,True
+MLP,5,own_pool_post_hoc_mean_sensitivity,mean_over_100_repetitions,MAE_random - MAE_weighted,weighted_better_than_random,0.01919,0.024991,0.002337,0.035538,weighted-better,24,10000,False,True
+MLP,10,own_pool_post_hoc_mean_sensitivity,mean_over_100_repetitions,MAE_random - MAE_weighted,weighted_better_than_random,0.013783,0.010044,0.000236,0.027938,weighted-better,24,10000,False,True

@@ -1,0 +1,10 @@
+learner,k,query_scope,n_target_units,mean_source_only_log_mae,median_source_only_log_mae,source,max_calibrated_alignment_difference
+PLSR,0,full_target_pool_P_t,24,0.315435,0.258034,capacity_boundary_summary_nested.csv,not_applicable
+PLSR,5,same_positive_budget_query_Q_S,24,0.316831,0.261721,calibration_direction_ablation_nested_per_rep.csv,0.000e+00
+PLSR,10,same_positive_budget_query_Q_S,24,0.314416,0.260873,calibration_direction_ablation_nested_per_rep.csv,0.000e+00
+XGBoost,0,full_target_pool_P_t,24,0.223177,0.177391,capacity_boundary_summary_nested.csv,not_applicable
+XGBoost,5,same_positive_budget_query_Q_S,24,0.224141,0.177074,calibration_direction_ablation_nested_per_rep.csv,0.000e+00
+XGBoost,10,same_positive_budget_query_Q_S,24,0.222125,0.179071,calibration_direction_ablation_nested_per_rep.csv,0.000e+00
+MLP,0,full_target_pool_P_t,24,0.236947,0.21129,capacity_boundary_summary_nested.csv,not_applicable
+MLP,5,same_positive_budget_query_Q_S,24,0.237575,0.211563,calibration_direction_ablation_nested_per_rep.csv,0.000e+00
+MLP,10,same_positive_budget_query_Q_S,24,0.235004,0.208065,calibration_direction_ablation_nested_per_rep.csv,0.000e+00

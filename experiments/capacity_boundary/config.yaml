@@ -1,0 +1,63 @@
+entry_id: capacity_boundary
+description: >
+  Full k-grid {0,1,3,5,10} x
+  {label-only, low-capacity calibration, high-capacity fine-tuning} x
+  {PLSR, XGBoost, MLP}. Initial H1/H3 check. Evaluation in log10(TSS) space
+  -- original-space MAE/bias reported alongside
+  for interpretability, never as the pass/fail statistic.
+data:
+  gloria_dir: data/raw/gloria/GLORIA_2022
+  band_range_nm: [400, 750]
+  group_key: [Site_name, Country, Latitude(3dp), Longitude(3dp), date_floor_day]
+eligible_lakes:
+  min_group_count: 20
+  lakes_reservoirs_only: true
+  source: data/processed/eligible_tasks.csv (26 lakes; 24 pass the stricter
+    campaign-diversity check -- Ba Be Lake and Lake Constance flagged,
+    kept in the run but their results should be read with that caveat)
+budget:
+  levels: [0, 1, 3, 5, 10]
+  n_random_repeats: 100
+capacity_binding:
+  "0": "source-only, no calibration"
+  "1": "intercept-only"
+  "3": "intercept + 1 residual direction (z = [affine_log: base model's own log-prediction])"
+  "5": "intercept + 2 residual directions (z = [affine_log, shared-representation PLS score 1])"
+  "10": "intercept + 3 residual directions, ridge (z = [affine_log, PLS score 1, PLS score 2])"
+  representation_note: >
+    The "residual direction" z-features are base-learner-agnostic: affine_log
+    (the base model's own log10(TSS) prediction, validated in the 2026-07-12
+    prior diagnostic analysis as the strongest single direction for PLSR) plus up to
+    2 scores from a SEPARATE small representation-PLS (n_components=2) fit on
+    the standardized source spectra -- used purely as calibration features,
+    not as the main prediction, so the same calibration code works for PLSR,
+    XGBoost and MLP main predictions alike.
+  ridge_alpha: 1.0  # same default across k; NOT yet source-held-out-tuned per
+                     # k -- flagged as a follow-up, not presented as final.
+base_learners:
+  - PLSR (n_components=16, source-held-out-selected 2026-07-11)
+  - XGBoost (n_estimators=500, max_depth=6, lr=0.05, source-held-out-selected
+    2026-07-12 via leave-one-lake-out sweep on strict-24 pool, see
+    run_hyperparam_sweep.py + results/hyperparam_sweep.csv)
+  - MLP (128,64 hidden, alpha=1e-3, source-held-out-selected 2026-07-12,
+    same sweep)
+high_capacity_contrast:
+  method: full_fine_tuning_mlp
+  description: >
+    A fresh small MLP (8 hidden units, strong L2) trained from scratch using
+    ONLY the k support points, at k in {1,3,5,10}. Expected to overfit badly
+    at small k -- this comparison illustrates why capacity must
+    be bound to budget, and is not a serious contender.
+hypotheses_checked:
+  H1: "log-space lake-macro RER >= 10%, 95% CI lower bound > 0, >=60% lakes positive (k=5, vs strongest label-only)"
+  H3: "log-space lake-demeaned Spearman median > 0, CI lower bound > 0, >50% lakes positive"
+caveats:
+  - "2026-07-12: XGBoost/MLP hyperparameters are now source-held-out-selected
+     (same status as PLSR). Final numbers use the strict-24 lake pool +
+     n_random_repeats=100 + tuned hyperparameters -- see
+     results/capacity_boundary_repeats_final.csv /
+     capacity_boundary_summary_final.csv."
+  - "26 eligible lakes include 2 (Ba Be Lake, Lake Constance) that fail the
+     stricter campaign-diversity check --
+     excluded from the final run via STRICT_24=1; kept in the original
+     capacity_boundary_repeats.csv/_summary.csv for reference only."

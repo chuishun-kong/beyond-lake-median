@@ -1,0 +1,5 @@
+k,n_lake_learner_rep_units_total,n_usable_units,frac_usable,n_lake_learner_units_50plus_repeats,query_size_median,query_size_min,query_size_max,restricted_pool_note,fourway_eligibility,frozen_summary_entry_rule,lake_learner_units_entered_frozen_summary,n_lake_learner_units_lt50_repeats
+1,7200,7200,1.0,72,35.0,17,522,full pool,query_size >= 5; query_size/pool >= 0.20,all lake-learner units with available usable repeats,72,0
+3,7200,7200,1.0,72,29.0,10,517,full pool,query_size >= 5; query_size/pool >= 0.20,all lake-learner units with available usable repeats,72,0
+5,7200,7200,1.0,72,24.0,5,511,full pool,query_size >= 5; query_size/pool >= 0.20,all lake-learner units with available usable repeats,72,0
+10,7200,5434,0.7547,54,14.0,0,494,restricted-pool sensitivity (attrition > 0),query_size >= 5; query_size/pool >= 0.20,all lake-learner units with available usable repeats,72,18

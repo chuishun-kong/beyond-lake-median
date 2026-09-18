@@ -1,0 +1,25 @@
+outer_lake,plsr_n_components,xgb_params,mlp_params,hp_selection_seconds
+Lake Erie,8,"{'n_estimators': 100, 'max_depth': 4, 'learning_rate': 0.05, 'subsample': 0.8, 'colsample_bytree': 0.8}","{'hidden_layer_sizes': [64], 'alpha': 0.001}",647.6672518253326
+Lake Kasumigaura,20,"{'n_estimators': 100, 'max_depth': 6, 'learning_rate': 0.05, 'subsample': 0.8, 'colsample_bytree': 0.8}","{'hidden_layer_sizes': [128, 64], 'alpha': 0.001}",665.7447731494904
+Taihu,16,"{'n_estimators': 300, 'max_depth': 6, 'learning_rate': 0.05, 'subsample': 0.8, 'colsample_bytree': 0.8}","{'hidden_layer_sizes': [64, 32], 'alpha': 0.001}",674.3279616832733
+High Rock Lake,16,"{'n_estimators': 100, 'max_depth': 6, 'learning_rate': 0.05, 'subsample': 0.8, 'colsample_bytree': 0.8}","{'hidden_layer_sizes': [128, 64], 'alpha': 0.001}",668.172199010849
+Eagle Creek Reservoir,16,"{'n_estimators': 300, 'max_depth': 4, 'learning_rate': 0.05, 'subsample': 0.8, 'colsample_bytree': 0.8}","{'hidden_layer_sizes': [64, 32], 'alpha': 0.001}",665.4762868881226
+Lake Peipsi,16,"{'n_estimators': 300, 'max_depth': 4, 'learning_rate': 0.05, 'subsample': 0.8, 'colsample_bytree': 0.8}","{'hidden_layer_sizes': [128, 64], 'alpha': 0.001}",670.949244260788
+Dianchi,20,"{'n_estimators': 100, 'max_depth': 6, 'learning_rate': 0.05, 'subsample': 0.8, 'colsample_bytree': 0.8}","{'hidden_layer_sizes': [64], 'alpha': 0.001}",662.5900518894196
+Geist Reservoir,16,"{'n_estimators': 300, 'max_depth': 6, 'learning_rate': 0.05, 'subsample': 0.8, 'colsample_bytree': 0.8}","{'hidden_layer_sizes': [64, 64], 'alpha': 0.001}",654.1456427574158
+Morse Reservoir,16,"{'n_estimators': 100, 'max_depth': 4, 'learning_rate': 0.05, 'subsample': 0.8, 'colsample_bytree': 0.8}","{'hidden_layer_sizes': [64, 32], 'alpha': 0.001}",656.5576119422913
+Lake Winnipeg,16,"{'n_estimators': 300, 'max_depth': 4, 'learning_rate': 0.05, 'subsample': 0.8, 'colsample_bytree': 0.8}","{'hidden_layer_sizes': [32], 'alpha': 0.001}",654.8461747169495
+Branched Oak Lake,16,"{'n_estimators': 300, 'max_depth': 6, 'learning_rate': 0.05, 'subsample': 0.8, 'colsample_bytree': 0.8}","{'hidden_layer_sizes': [128, 64], 'alpha': 0.001}",660.2309231758118
+Lake Hume,16,"{'n_estimators': 100, 'max_depth': 6, 'learning_rate': 0.05, 'subsample': 0.8, 'colsample_bytree': 0.8}","{'hidden_layer_sizes': [32], 'alpha': 0.001}",649.1339774131775
+Garda,16,"{'n_estimators': 500, 'max_depth': 4, 'learning_rate': 0.05, 'subsample': 0.8, 'colsample_bytree': 0.8}","{'hidden_layer_sizes': [32], 'alpha': 0.001}",656.3987522125244
+Erhai,16,"{'n_estimators': 100, 'max_depth': 6, 'learning_rate': 0.05, 'subsample': 0.8, 'colsample_bytree': 0.8}","{'hidden_layer_sizes': [64], 'alpha': 0.001}",657.1407423019409
+Lake Łebsko,20,"{'n_estimators': 300, 'max_depth': 4, 'learning_rate': 0.05, 'subsample': 0.8, 'colsample_bytree': 0.8}","{'hidden_layer_sizes': [64, 64], 'alpha': 0.001}",663.855975151062
+Mantova,16,"{'n_estimators': 100, 'max_depth': 6, 'learning_rate': 0.05, 'subsample': 0.8, 'colsample_bytree': 0.8}","{'hidden_layer_sizes': [128, 64], 'alpha': 0.001}",661.3666982650757
+Ibitinga Reservoir,16,"{'n_estimators': 300, 'max_depth': 3, 'learning_rate': 0.05, 'subsample': 0.8, 'colsample_bytree': 0.8}","{'hidden_layer_sizes': [128, 64], 'alpha': 0.001}",665.5277173519135
+Lake Kummerow,16,"{'n_estimators': 300, 'max_depth': 6, 'learning_rate': 0.05, 'subsample': 0.8, 'colsample_bytree': 0.8}","{'hidden_layer_sizes': [64], 'alpha': 0.001}",658.553168296814
+Lake Jasień Południowy,16,"{'n_estimators': 100, 'max_depth': 6, 'learning_rate': 0.05, 'subsample': 0.8, 'colsample_bytree': 0.8}","{'hidden_layer_sizes': [64, 64], 'alpha': 0.001}",672.0165932178497
+Lake Jeleń,16,"{'n_estimators': 100, 'max_depth': 6, 'learning_rate': 0.05, 'subsample': 0.8, 'colsample_bytree': 0.8}","{'hidden_layer_sizes': [64], 'alpha': 0.001}",663.9421806335449
+Lake Chotkowskie,16,"{'n_estimators': 500, 'max_depth': 4, 'learning_rate': 0.05, 'subsample': 0.8, 'colsample_bytree': 0.8}","{'hidden_layer_sizes': [64, 32], 'alpha': 0.001}",666.8716592788696
+Chaohu,16,"{'n_estimators': 300, 'max_depth': 4, 'learning_rate': 0.05, 'subsample': 0.8, 'colsample_bytree': 0.8}","{'hidden_layer_sizes': [64, 64], 'alpha': 0.001}",662.8197765350342
+Lake Geneva,16,"{'n_estimators': 300, 'max_depth': 4, 'learning_rate': 0.05, 'subsample': 0.8, 'colsample_bytree': 0.8}","{'hidden_layer_sizes': [32], 'alpha': 0.001}",650.1029601097107
+Lake Obłęże,16,"{'n_estimators': 500, 'max_depth': 4, 'learning_rate': 0.05, 'subsample': 0.8, 'colsample_bytree': 0.8}","{'hidden_layer_sizes': [32], 'alpha': 0.001}",658.56276512146

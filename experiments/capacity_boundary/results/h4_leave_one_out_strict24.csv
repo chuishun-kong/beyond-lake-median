@@ -1,0 +1,25 @@
+excluded_lake,r_without_lake,p_without_lake,delta_from_full_r,sign_flips
+Dianchi,0.177,0.42,0.479,True
+Lake Erie,-0.394,0.063,-0.092,False
+Chaohu,-0.385,0.07,-0.083,False
+Taihu,-0.355,0.097,-0.052,False
+Lake Kummerow,-0.329,0.126,-0.027,False
+Lake Kasumigaura,-0.328,0.127,-0.026,False
+Geist Reservoir,-0.328,0.127,-0.025,False
+Lake Chotkowskie,-0.279,0.197,0.023,False
+Morse Reservoir,-0.323,0.133,-0.021,False
+Lake Hume,-0.285,0.188,0.017,False
+High Rock Lake,-0.316,0.142,-0.014,False
+Lake Obłęże,-0.289,0.181,0.013,False
+Lake Geneva,-0.292,0.176,0.01,False
+Lake Jasień Południowy,-0.311,0.148,-0.009,False
+Lake Jeleń,-0.293,0.175,0.009,False
+Erhai,-0.294,0.173,0.008,False
+Garda,-0.309,0.151,-0.007,False
+Mantova,-0.309,0.152,-0.007,False
+Branched Oak Lake,-0.309,0.151,-0.007,False
+Lake Peipsi,-0.307,0.155,-0.005,False
+Lake Łebsko,-0.304,0.158,-0.002,False
+Eagle Creek Reservoir,-0.301,0.163,0.001,False
+Lake Winnipeg,-0.302,0.162,0.0,False
+Ibitinga Reservoir,-0.302,0.161,-0.0,False

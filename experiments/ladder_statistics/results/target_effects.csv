@@ -1,0 +1,16 @@
+learner,k,contrast,estimand,effect,n_targets,valid_target_count,n_repeats_per_target,n_nonfinite_episodes,positive_means
+PLSR,5,D14,mean_target_median_repeat_paired_delta_logMAE,0.026851,24,24,100,0,full_variant_lower_logMAE
+PLSR,5,D24,mean_target_median_repeat_paired_delta_logMAE,0.016369,24,24,100,0,full_variant_lower_logMAE
+PLSR,5,D34,mean_target_median_repeat_paired_delta_logMAE,0.003567,24,24,100,0,full_variant_lower_logMAE
+PLSR,5,L0L2_diag,mean_target_median_repeat_paired_delta_logMAE,0.108486,24,24,100,0,full_variant_lower_logMAE
+PLSR,5,L2L3_diag,mean_target_median_repeat_paired_delta_logMAE,0.011587,24,24,100,0,full_variant_lower_logMAE
+XGBoost,5,D14,mean_target_median_repeat_paired_delta_logMAE,0.045092,24,24,100,0,full_variant_lower_logMAE
+XGBoost,5,D24,mean_target_median_repeat_paired_delta_logMAE,-0.001706,24,24,100,0,full_variant_lower_logMAE
+XGBoost,5,D34,mean_target_median_repeat_paired_delta_logMAE,-0.005766,24,24,100,0,full_variant_lower_logMAE
+XGBoost,5,L0L2_diag,mean_target_median_repeat_paired_delta_logMAE,0.056073,24,24,100,0,full_variant_lower_logMAE
+XGBoost,5,L2L3_diag,mean_target_median_repeat_paired_delta_logMAE,0.003717,24,24,100,0,full_variant_lower_logMAE
+MLP,5,D14,mean_target_median_repeat_paired_delta_logMAE,0.048931,24,24,100,0,full_variant_lower_logMAE
+MLP,5,D24,mean_target_median_repeat_paired_delta_logMAE,0.007272,24,24,100,0,full_variant_lower_logMAE
+MLP,5,D34,mean_target_median_repeat_paired_delta_logMAE,0.000232,24,24,100,0,full_variant_lower_logMAE
+MLP,5,L0L2_diag,mean_target_median_repeat_paired_delta_logMAE,0.062365,24,24,100,0,full_variant_lower_logMAE
+MLP,5,L2L3_diag,mean_target_median_repeat_paired_delta_logMAE,0.006018,24,24,100,0,full_variant_lower_logMAE

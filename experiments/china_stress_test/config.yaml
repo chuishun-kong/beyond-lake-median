@@ -1,0 +1,29 @@
+entry_id: china_stress_test
+description: >
+  China 13 IWC-only lakes (Zhai et al. 2024) as
+  replication/stress-test, NOT independent validation -- this dataset is
+  within FSResTL-Chla's IWC target domain. Applies
+  GLORIA-TSS-trained source models directly (zero geographic overlap, so no
+  leave-one-out needed) to China TSM labels at k=5, deliberately crossing
+  both a geographic/optical domain gap and a label-definition gap
+  (TSS vs TSM, not assumed interchangeable).
+lakes: data/processed/overlap_audit_china.csv IWC-only subset (13 lakes,
+  zero GLORIA overlap): Khanka, Chagan, Hulun, Gaoyou, Bosten, Baiyangdian,
+  Tuosu, Butbaruch, Qinghai, Ballet Swan, Changdang, Ge, Hong-tse
+data:
+  china_dir: data/raw/china_lakes
+  band_range_nm: [400, 750]
+  group_key: [Lake_name, Latitude(3dp), Longitude(3dp), date_floor_day]
+source_models: PLSR (n=16), XGBoost, MLP -- same fitted-on-ALL-GLORIA models
+  as experiments/capacity_boundary, no refitting
+budget:
+  k: 5
+  n_repeats: 50
+calibration: "intercept + 2 residual directions (affine_log + repr-PLS score),
+  same form as capacity_boundary k=5"
+caveat: >
+  This is an adverse stress test by design: the 17-lake data serves as an
+  adverse test only. A negative result here does not contradict H1/H3
+  (established within-GLORIA); if anything it reinforces the "honest
+  limits" framing of the manuscript. Do not re-tune
+  calibration/hyperparameters to try to improve this number; report as-is.

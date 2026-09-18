@@ -1,0 +1,19 @@
+analysis: h1_bootstrap_provenance_closure
+historical_reconstruction:
+  n_boot: 10000
+  schemes:
+    - single_stream_seed1
+    - single_stream_seed0
+    - fresh_seed1_per_cell
+    - fresh_seed0_per_cell
+stability_diagnostic:
+  seeds: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+  n_boot: 10000
+k5_high_b_diagnostic:
+  seed: 0
+  n_boot: 100000
+constraints:
+  frozen_inputs_read_only: true
+  manuscript_edits: false
+  model_training_or_refitting: false
+  primary_result_replacement: false

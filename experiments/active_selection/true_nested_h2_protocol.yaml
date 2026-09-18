@@ -1,0 +1,91 @@
+# Phase 4: True-Nested H2 Protocol (FROZEN 2026-07-13, pre-execution)
+#
+# This file freezes the Phase 4 protocol BEFORE any code runs, to prevent
+# result-driven protocol changes. Any deviation must be recorded as an
+# explicit protocol amendment with rationale.
+#
+# Checkpoint this Phase 4 builds on:
+#   commit 7e6f2e13 (Phase 0-3 H1/H3 true-nested audit freeze)
+#
+# Inputs (frozen, read-only):
+#   - experiments/capacity_boundary/results/capacity_boundary_repeats_nested.csv
+#     (24 lakes x 3 learners x 5 k x 100 reps; used ONLY for self-check)
+#   - experiments/capacity_boundary/results/nested_hyperparameters.csv
+#     (per-outer-lake HP selected by inner LOLO; the source of truth for
+#     outer-specific base models)
+
+# --- B.1 Selector grid ---
+# k=0 has NO support selection, so it cannot enter the selector comparison.
+# It is retained only as a source-only reference row, NOT in the 12-cell grid.
+K_LEVELS: [1, 3, 5, 10]
+SOURCE_ONLY_AS_REFERENCE_ONLY: true   # k=0 source-only reported but not in 12-cell inference
+
+# --- B.2 Base model protocol (true-nested, Cawley & Talbot 2010 correction) ---
+USE_OUTER_SPECIFIC_HP: true           # load per-lake HP from nested_hyperparameters.csv
+REBUILD_FROM_FROZEN_HP: true          # deterministic rebuild, random_state=0
+NO_HP_RESEARCH: true                  # no re-tuning, no ridge alpha change, no new selector
+NO_WEIGHT_FORMULA_CHANGE: true        # ALPHA_WEIGHT=1.0, BETA_WEIGHT=1.0 unchanged
+RNG_SEED: 20260712
+PER_LAKE_SEED_OFFSET: crc32(lake) % 10000
+N_RANDOM_REPEATS: 100                 # random selector: 100 repeats; deterministic selectors: single support
+REPR_PLS_COMPONENTS: 2
+
+# --- B.3 Statistical hierarchy (PRIMARY estimand must NOT change post-hoc) ---
+# The manuscript already freezes own-remaining-pool direct (Delta)MAE as H2 primary.
+# Adding common-query layers does NOT reassign primary.
+PRIMARY_ESTIMAND: "own_remaining_pool_direct_deltaMAE_weighted_vs_random"
+SENSITIVITY_1: "pairwise_common_query"           # weighted/unweighted/KS each vs random
+SENSITIVITY_2_RESTRICTED: "four_way_common_query"  # all 4 selectors on shared query
+RER_ROLE: "support_conditioned_secondary_diagnostic_only"
+
+# --- B.4-B.7 Common-query availability thresholds (FROZEN before run) ---
+# Single-unit (per lake-learner-k-repeat) four-way common-query usable iff BOTH hold:
+FOURWAY_MIN_QUERY_SIZE_ABS: 5
+FOURWAY_MIN_QUERY_SIZE_FRAC: 0.20
+# Lake-level summary entry threshold: a lake-learner-k unit enters the four-way
+# lake-level summary iff it has >= this many usable repeats out of 100:
+FOURWAY_MIN_USABLE_REPEATS_PER_LAKE: 50
+# Spearman/anomaly R2 reported only when query_size >= 10; for 5-9 only log-MAE/direct loss:
+SPEARMAN_ANOMALY_R2_MIN_QUERY_SIZE: 10
+
+# --- C. Smoke test (must pass before full run) ---
+SMOKE_LEARNER: "XGBoost"
+SMOKE_K: 5
+SMOKE_N_LAKES: 2
+SMOKE_LAKES_MUST_HAVE_DIFFERENT_HP: true
+SMOKE_SELF_CHECK_TOL: 1.0e-9
+SMOKE_CHECKS:
+  - "random own-pool support/query IDs == nested H1 checkpoint"
+  - "random own-pool mae_log/RER/Spearman reproduce frozen nested values (tol 1e-9)"
+  - "source prediction reproduces outer-lake checkpoint"
+  - "query isolation (selectors read only unlabeled features, never target labels)"
+  - "pairwise common-query: both methods evaluated on IDENTICAL query IDs"
+  - "four-way common-query: all 4 methods on IDENTICAL query IDs"
+  - "support/query group-disjoint"
+  - "below-threshold query sizes explicitly flagged (not silently dropped or backfilled)"
+
+# --- D. Output isolation ---
+OUTPUT_DIR: "experiments/active_selection/results/true_nested_h2/"
+DO_NOT_OVERWRITE_OLD_H2: true
+REQUIRED_OUTPUTS:
+  - h2_nested_per_repeat.csv
+  - h2_nested_per_lake.csv
+  - h2_nested_own_pool_summary.csv
+  - h2_nested_pairwise_common_query.csv
+  - h2_nested_fourway_common_query.csv
+  - h2_nested_query_attrition.csv
+  - h2_nested_hyperparameter_provenance.csv
+POST_RUN_AUDIT_DOC: ""
+POST_RUN_REPORT_ONLY_NO_BODY_REWRITE: true   # reporting is a separate step
+
+# --- Report requirements (post-run) ---
+REPORT_MUST_INCLUDE:
+  - "old global-tuned H2 vs true-nested H2 side by side"
+  - "own-pool weighted-vs-random 12-cell direct delta-MAE + nominal CI"
+  - "pairwise: KS-vs-random, unweighted-D-vs-random, weighted-D-vs-random"
+  - "four-way unified ranking"
+  - "per-k usable lake count, valid-repeat fraction, query-size distribution"
+  - "RER vs direct-loss estimand mismatch check"
+  - "k=1 adverse pattern retention check"
+  - "Contribution 2 claim classification: unchanged / numerically changed / conclusion changed / invalidated"
+  - "effect sizes + CIs + directions + attrition (not just 'N CIs exclude zero')"

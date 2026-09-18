@@ -1,0 +1,27 @@
+outer_lake,normalized_outer_name,candidate_site,normalized_candidate_name,candidate_in_outer_source,discovery_reasons,name_similarity,same_country,centroid_distance_km,shared_rounded_coordinates,target_dataset_ids,candidate_dataset_ids,identity_class,evidence_status,resolution
+Branched Oak Lake,branched oak,Branched Oak Lake,branched oak,False,exact_site_name,1.000000,True,0.000000,30,GitelsonAA_US_UNL,GitelsonAA_US_UNL,confirmed_target_identity,VERIFIED,excluded_by_exact_Site_name
+Chaohu,chaohu,Chaohu,chaohu,False,exact_site_name,1.000000,True,0.000000,21,MaR_CN_NIGLAS,MaR_CN_NIGLAS,confirmed_target_identity,VERIFIED,excluded_by_exact_Site_name
+Dianchi,dianchi,Dianchi,dianchi,False,exact_site_name,1.000000,True,0.000000,63,MaR_CN_NIGLAS|MatsushitaB_JP_Tsukuba,MaR_CN_NIGLAS|MatsushitaB_JP_Tsukuba,confirmed_target_identity,VERIFIED,excluded_by_exact_Site_name
+Eagle Creek Reservoir,eagle creek,Eagle Creek Reservoir,eagle creek,False,exact_site_name,1.000000,True,0.000000,64,LiL_US_IUPUI,LiL_US_IUPUI,confirmed_target_identity,VERIFIED,excluded_by_exact_Site_name
+Erhai,erhai,Erhai,erhai,False,exact_site_name,1.000000,True,0.000000,21,MatsushitaB_JP_Tsukuba,MatsushitaB_JP_Tsukuba,confirmed_target_identity,VERIFIED,excluded_by_exact_Site_name
+Garda,garda,Garda,garda,False,exact_site_name,1.000000,True,0.000000,37,GiardinoC_IT_CNR-IREA,GiardinoC_IT_CNR-IREA,confirmed_target_identity,VERIFIED,excluded_by_exact_Site_name
+Geist Reservoir,geist,Geist Reservoir,geist,False,exact_site_name,1.000000,True,0.000000,50,LiL_US_IUPUI,LiL_US_IUPUI,confirmed_target_identity,VERIFIED,excluded_by_exact_Site_name
+High Rock Lake,high rock,High Rock Lake,high rock,False,exact_site_name,1.000000,True,0.000000,71,DiVittorioC_US_WFU,DiVittorioC_US_WFU,confirmed_target_identity,VERIFIED,excluded_by_exact_Site_name
+Ibitinga Reservoir,ibitinga,Ibitinga Reservoir,ibitinga,False,exact_site_name,1.000000,True,0.000000,11,BarbosaCCF_BR_LabISA-INPE,BarbosaCCF_BR_LabISA-INPE,confirmed_target_identity,VERIFIED,excluded_by_exact_Site_name
+Lake Chotkowskie,chotkowskie,Lake Chotkowskie,chotkowskie,False,exact_site_name,1.000000,True,0.000000,1,FicekD_PL_APSL,FicekD_PL_APSL,confirmed_target_identity,VERIFIED,excluded_by_exact_Site_name
+Lake Erie,erie,Lake Erie,erie,False,exact_site_name,1.000000,True,0.000000,333,BindingC_CA_ECCC|MooreT_US_UNH|O'DonnellDM_US_UFI|VanderWoudeA_US_NOAA-GLERL,BindingC_CA_ECCC|MooreT_US_UNH|O'DonnellDM_US_UFI|VanderWoudeA_US_NOAA-GLERL,confirmed_target_identity,VERIFIED,excluded_by_exact_Site_name
+Lake Geneva,geneva,Lake Geneva,geneva,False,exact_site_name,1.000000,True,0.000000,20,SpyrakosE_GB_STIR,SpyrakosE_GB_STIR,confirmed_target_identity,VERIFIED,excluded_by_exact_Site_name
+Lake Geneva,geneva,Geneva Lake,geneva,True,normalized_name_collision,1.000000,False,7067.107890,0,SpyrakosE_GB_STIR,GrebSR_US_WDNR,non_match,VERIFIED,same_normalized_name_but_different_country_and_distant_coordinates
+Lake Hume,hume,Lake Hume,hume,False,exact_site_name,1.000000,True,0.000000,20,AnsteeJ_AU_CSIRO,AnsteeJ_AU_CSIRO,confirmed_target_identity,VERIFIED,excluded_by_exact_Site_name
+Lake Jasień Południowy,jasien poudniowy,Lake Jasień Południowy,jasien poudniowy,False,exact_site_name,1.000000,True,0.000000,2,FicekD_PL_APSL,FicekD_PL_APSL,confirmed_target_identity,VERIFIED,excluded_by_exact_Site_name
+Lake Jasień Południowy,jasien poudniowy,Lake Jasień Północny,jasien ponocny,True,same_rounded_coordinate,0.800000,True,2.010958,1,FicekD_PL_APSL,FicekD_PL_APSL,candidate_alias,UNVERIFIED,manual_identity_review_required
+Lake Jeleń,jelen,Lake Jeleń,jelen,False,exact_site_name,1.000000,True,0.000000,1,FicekD_PL_APSL,FicekD_PL_APSL,confirmed_target_identity,VERIFIED,excluded_by_exact_Site_name
+Lake Kasumigaura,kasumigaura,Lake Kasumigaura,kasumigaura,False,exact_site_name,1.000000,True,0.000000,100,MatsushitaB_JP_Tsukuba|SalemSI_JP_KUAS,MatsushitaB_JP_Tsukuba|SalemSI_JP_KUAS,confirmed_target_identity,VERIFIED,excluded_by_exact_Site_name
+Lake Kummerow,kummerow,Lake Kummerow,kummerow,False,exact_site_name,1.000000,True,0.000000,24,OppeltN_DE_CAU_Kiel,OppeltN_DE_CAU_Kiel,confirmed_target_identity,VERIFIED,excluded_by_exact_Site_name
+Lake Obłęże,obeze,Lake Obłęże,obeze,False,exact_site_name,1.000000,True,0.000000,1,FicekD_PL_APSL,FicekD_PL_APSL,confirmed_target_identity,VERIFIED,excluded_by_exact_Site_name
+Lake Peipsi,peipsi,Lake Peipsi,peipsi,False,exact_site_name,1.000000,True,0.000000,64,AlikasK_EE_UT-TO,AlikasK_EE_UT-TO,confirmed_target_identity,VERIFIED,excluded_by_exact_Site_name
+Lake Winnipeg,winnipeg,Lake Winnipeg,winnipeg,False,exact_site_name,1.000000,True,0.000000,41,BindingC_CA_ECCC,BindingC_CA_ECCC,confirmed_target_identity,VERIFIED,excluded_by_exact_Site_name
+Lake Łebsko,ebsko,Lake Łebsko,ebsko,False,exact_site_name,1.000000,True,0.000000,3,FicekD_PL_APSL,FicekD_PL_APSL,confirmed_target_identity,VERIFIED,excluded_by_exact_Site_name
+Mantova,mantova,Mantova,mantova,False,exact_site_name,1.000000,True,0.000000,29,GiardinoC_IT_CNR-IREA,GiardinoC_IT_CNR-IREA,confirmed_target_identity,VERIFIED,excluded_by_exact_Site_name
+Morse Reservoir,morse,Morse Reservoir,morse,False,exact_site_name,1.000000,True,0.000000,46,LiL_US_IUPUI,LiL_US_IUPUI,confirmed_target_identity,VERIFIED,excluded_by_exact_Site_name
+Taihu,taihu,Taihu,taihu,False,exact_site_name,1.000000,True,0.000000,188,MaR_CN_NIGLAS,MaR_CN_NIGLAS,confirmed_target_identity,VERIFIED,excluded_by_exact_Site_name

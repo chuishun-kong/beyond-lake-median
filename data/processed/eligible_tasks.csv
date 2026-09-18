@@ -1,0 +1,27 @@
+﻿lake,country,n_group,n_unique_dates,n_unique_campaigns_dataset_id,tss_min_mgL,tss_max_mgL,tss_dynamic_range_x,p1_5_lake_reservoir_type,p1_6_min3_dates_or_2campaigns,k5_query_pool_ge8,all_eligibility_criteria_pass
+Lake Erie,Canada,526,95,4,0.45,145.8,324.0,True,True,True,True
+Lake Kasumigaura,Japan,188,29,2,4.967,57.1,11.5,True,True,True,True
+Taihu,China,188,17,1,1.567,246.0,157.0,True,True,True,True
+High Rock Lake,United States of America (the),86,10,1,1.0,98.0,98.0,True,True,True,True
+Eagle Creek Reservoir,United States of America (the),78,4,1,5.833,36.167,6.2,True,True,True,True
+Lake Peipsi,Estonia,74,12,1,0.75,26.0,34.7,True,True,True,True
+Dianchi,China,64,9,2,22.5,184.0,8.2,True,True,True,True
+Geist Reservoir,United States of America (the),56,3,1,5.167,81.167,15.7,True,True,True,True
+Morse Reservoir,United States of America (the),53,3,1,6.667,30.333,4.6,True,True,True,True
+Lake Winnipeg,Canada,45,15,1,0.733,59.756,81.5,True,True,True,True
+Branched Oak Lake,United States of America (the),40,3,1,11.3,50.4,4.5,True,True,True,True
+Lake Hume,Australia,39,18,1,1.333,24.917,18.7,True,True,True,True
+Garda,Italy,37,15,1,0.1,5.25,52.5,True,True,True,True
+Erhai,China,37,3,1,3.542,20.375,5.8,True,True,True,True
+Lake Łebsko,Poland,32,20,1,18.6,77.3,4.2,True,True,True,True
+Mantova,Italy,31,9,1,3.0,50.0,16.7,True,True,True,True
+Ba Be Lake,Viet Nam,29,2,1,12.8,17.3,1.4,True,False,True,False
+Ibitinga Reservoir,Brazil,28,7,1,0.8,97.5,121.9,True,True,True,True
+Lake Kummerow,Germany,26,8,1,0.4,6.1,15.2,True,True,True,True
+Lake Jasień Południowy,Poland,22,19,1,1.1,6.8,6.2,True,True,True,True
+Lake Jeleń,Poland,22,22,1,0.8,2.9,3.6,True,True,True,True
+Lake Chotkowskie,Poland,22,22,1,1.2,13.875,11.6,True,True,True,True
+Chaohu,China,21,4,1,14.0,239.0,17.1,True,True,True,True
+Lake Geneva,Switzerland,20,6,1,0.283,4.0,14.1,True,True,True,True
+Lake Constance,Germany,20,2,1,1.181,6.296,5.3,True,False,True,False
+Lake Obłęże,Poland,20,20,1,0.891,9.31,10.4,True,True,True,True

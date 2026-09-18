@@ -1,0 +1,24 @@
+{
+  "run_utc": "2026-09-05T17:10:49.892277+00:00",
+  "protocol": "ladder_statistics_v0.2 (DRAFT\u2192approved 2026-09-06 by author directive)",
+  "inputs": {
+    "ablation": {
+      "path": "experiments\\capacity_boundary\\results\\calibration_direction_ablation_nested_per_rep.csv",
+      "sha256_16": "32cb99ff1280ebc5"
+    },
+    "m1": {
+      "path": "experiments\\capacity_boundary\\results\\m1_label_only_per_rep_algebraic.csv",
+      "sha256_16": "c7799da171281adb"
+    }
+  },
+  "code_version": "8adf36a",
+  "rules": {
+    "episodes": "KEEP_ALL (v0.2; no exclusion)",
+    "eps": 1e-08,
+    "rer_unit": "fraction",
+    "aggregation": "per-target median over 100 paired repeats, then across-target mean",
+    "nominal": "9 cells, 10000 resamples, percentile, rng(0) per cell",
+    "bonferroni": "6 cells (D24/D34 x 3), 100000 resamples, quantiles [0.0041667, 0.9958333], rng(0) per cell"
+  },
+  "anchor_check": "S6 Panel B 0.0269/0.0451/0.0489 reproduced before aggregation"
+}

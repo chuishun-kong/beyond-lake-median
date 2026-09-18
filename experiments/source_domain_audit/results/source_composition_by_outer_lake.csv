@@ -1,0 +1,25 @@
+outer_lake,normalized_outer_name,outer_country,target_group_count,canonical_group_count,canonical_site_count,eligible_lake_count,eligible_archive_group_count,auxiliary_archive_group_count,auxiliary_archive_site_count,source_group_count,source_site_count,source_dataset_count,source_provider_count,source_tss_method_count,eligible_source_group_count,eligible_source_site_count,auxiliary_source_group_count,auxiliary_source_site_count,target_groups_in_source,inner_validation_unit_count,confirmed_alias_leakage_count,unresolved_alias_candidate_count,verified_non_match_count,archive_cross_dataset_group_key_collision_count,source_type_1_lake_group_count,source_type_1_lake_site_count,source_type_2_estuary_group_count,source_type_2_estuary_site_count,source_type_3_coastal_ocean_group_count,source_type_3_coastal_ocean_site_count,source_type_4_river_group_count,source_type_4_river_site_count,source_type_5_other_group_count,source_type_5_other_site_count
+Branched Oak Lake,branched oak,United States of America (the),40,4292,398,24,1755,2537,374,4252,397,36,33,14,1715,23,2537,374,0,23,0,0,0,0,2847,282,256,55,907,23,221,38,21,2
+Chaohu,chaohu,China,21,4292,398,24,1755,2537,374,4271,397,36,33,14,1734,23,2537,374,0,23,0,0,0,0,2866,282,256,55,907,23,221,38,21,2
+Dianchi,dianchi,China,64,4292,398,24,1755,2537,374,4228,397,36,33,14,1691,23,2537,374,0,23,0,0,0,0,2823,282,256,55,907,23,221,38,21,2
+Eagle Creek Reservoir,eagle creek,United States of America (the),78,4292,398,24,1755,2537,374,4214,397,36,33,14,1677,23,2537,374,0,23,0,0,0,0,2809,282,256,55,907,23,221,38,21,2
+Erhai,erhai,China,37,4292,398,24,1755,2537,374,4255,397,36,33,14,1718,23,2537,374,0,23,0,0,0,0,2850,282,256,55,907,23,221,38,21,2
+Garda,garda,Italy,37,4292,398,24,1755,2537,374,4255,397,36,33,14,1718,23,2537,374,0,23,0,0,0,0,2850,282,256,55,907,23,221,38,21,2
+Geist Reservoir,geist,United States of America (the),56,4292,398,24,1755,2537,374,4236,397,36,33,14,1699,23,2537,374,0,23,0,0,0,0,2831,282,256,55,907,23,221,38,21,2
+High Rock Lake,high rock,United States of America (the),86,4292,398,24,1755,2537,374,4206,397,35,32,14,1669,23,2537,374,0,23,0,0,0,0,2801,282,256,55,907,23,221,38,21,2
+Ibitinga Reservoir,ibitinga,Brazil,28,4292,398,24,1755,2537,374,4264,397,36,33,14,1727,23,2537,374,0,23,0,0,0,0,2859,282,256,55,907,23,221,38,21,2
+Lake Chotkowskie,chotkowskie,Poland,22,4292,398,24,1755,2537,374,4270,397,36,33,14,1733,23,2537,374,0,23,0,0,0,0,2865,282,256,55,907,23,221,38,21,2
+Lake Erie,erie,Canada|United States of America (the),526,4292,398,24,1755,2537,374,3766,397,33,30,14,1229,23,2537,374,0,23,0,0,0,0,2361,282,256,55,907,23,221,38,21,2
+Lake Geneva,geneva,Switzerland,20,4292,398,24,1755,2537,374,4272,397,36,33,14,1735,23,2537,374,0,23,0,0,1,0,2867,282,256,55,907,23,221,38,21,2
+Lake Hume,hume,Australia,39,4292,398,24,1755,2537,374,4253,397,36,33,14,1716,23,2537,374,0,23,0,0,0,0,2848,282,256,55,907,23,221,38,21,2
+Lake Jasień Południowy,jasien poudniowy,Poland,22,4292,398,24,1755,2537,374,4270,397,36,33,14,1733,23,2537,374,0,23,0,1,0,0,2865,282,256,55,907,23,221,38,21,2
+Lake Jeleń,jelen,Poland,22,4292,398,24,1755,2537,374,4270,397,36,33,14,1733,23,2537,374,0,23,0,0,0,0,2865,282,256,55,907,23,221,38,21,2
+Lake Kasumigaura,kasumigaura,Japan,188,4292,398,24,1755,2537,374,4104,397,35,32,14,1567,23,2537,374,0,23,0,0,0,0,2699,282,256,55,907,23,221,38,21,2
+Lake Kummerow,kummerow,Germany,26,4292,398,24,1755,2537,374,4266,397,35,32,13,1729,23,2537,374,0,23,0,0,0,0,2861,282,256,55,907,23,221,38,21,2
+Lake Obłęże,obeze,Poland,20,4292,398,24,1755,2537,374,4272,397,36,33,14,1735,23,2537,374,0,23,0,0,0,0,2867,282,256,55,907,23,221,38,21,2
+Lake Peipsi,peipsi,Estonia,74,4292,398,24,1755,2537,374,4218,397,36,33,14,1681,23,2537,374,0,23,0,0,0,0,2813,282,256,55,907,23,221,38,21,2
+Lake Winnipeg,winnipeg,Canada,45,4292,398,24,1755,2537,374,4247,397,36,33,14,1710,23,2537,374,0,23,0,0,0,0,2842,282,256,55,907,23,221,38,21,2
+Lake Łebsko,ebsko,Poland,32,4292,398,24,1755,2537,374,4260,397,36,33,14,1723,23,2537,374,0,23,0,0,0,0,2855,282,256,55,907,23,221,38,21,2
+Mantova,mantova,Italy,31,4292,398,24,1755,2537,374,4261,397,36,33,14,1724,23,2537,374,0,23,0,0,0,0,2856,282,256,55,907,23,221,38,21,2
+Morse Reservoir,morse,United States of America (the),53,4292,398,24,1755,2537,374,4239,397,36,33,14,1702,23,2537,374,0,23,0,0,0,0,2834,282,256,55,907,23,221,38,21,2
+Taihu,taihu,China,188,4292,398,24,1755,2537,374,4104,397,36,33,14,1567,23,2537,374,0,23,0,0,0,0,2699,282,256,55,907,23,221,38,21,2
