@@ -46,6 +46,56 @@ STRICT_24_EXCLUDE = {"Ba Be Lake", "Lake Constance"}
 SELF_CHECK_TOL = 1e-9
 
 
+def metric_self_check(actual, archived, metric):
+    """Distinguish missingness from a finite numerical comparison."""
+    if np.isinf(actual) or np.isinf(archived):
+        return np.inf, False, "infinite"
+    if np.isnan(actual) or np.isnan(archived):
+        status = "both_nan" if np.isnan(actual) and np.isnan(archived) else "one_nan"
+        return np.nan, False, status
+    difference = abs(actual - archived)
+    tolerance = SELF_CHECK_TOL
+    if metric == "anomaly_r2":
+        # Original-space squared errors can be ~1e7. The historical two
+        # exceptions differ by one ULP; allow at most two representable steps.
+        tolerance += 2 * abs(np.spacing(max(abs(actual), abs(archived))))
+    return difference, difference <= tolerance, "finite"
+
+
+def require_finite(values, context):
+    values = np.asarray(values, dtype=float)
+    if not values.size or not np.isfinite(values).all():
+        raise ValueError(f"{context}: {np.isnan(values).sum()} NaN, "
+                         f"{np.isinf(values).sum()} infinite, {values.size} values")
+    return values
+
+
+def validate_complete_pairs(per_rep):
+    keys = ["lake", "learner", "k", "rep"]
+    if per_rep[keys].isna().any().any() or per_rep.duplicated(keys).any():
+        raise ValueError("H3 episode keys are missing or duplicated")
+    expected = pd.MultiIndex.from_product(
+        [sorted(per_rep.lake.unique()), ["PLSR", "XGBoost", "MLP"],
+         [1, 3, 5, 10], range(N_REPEATS)], names=keys)
+    observed = pd.MultiIndex.from_frame(per_rep[keys])
+    if (per_rep.lake.nunique() != 24 or len(expected.difference(observed))
+            or len(observed.difference(expected))):
+        raise ValueError("H3 requires 24 targets x 3 learners x 4 budgets x 100 draws")
+    for col in per_rep.columns.difference(keys):
+        require_finite(per_rep[col], f"H3 {col}")
+
+
+def save_checked_per_rep(per_rep, detail_df):
+    """Keep failed replays separate from the accepted result filenames."""
+    if detail_df["n_failed_metrics"].sum():
+        detail_df.to_csv(RESULTS_DIR / "h3_nested_self_check_detail_provisional.csv", index=False)
+        per_rep.to_csv(RESULTS_DIR / "h3_paired_source_audit_nested_per_rep_provisional.csv", index=False)
+        raise ValueError("H3 self-check failed; provisional files saved, accepted files unchanged")
+    validate_complete_pairs(per_rep)
+    detail_df.to_csv(RESULTS_DIR / "h3_nested_self_check_detail.csv", index=False)
+    per_rep.to_csv(RESULTS_DIR / "h3_paired_source_audit_nested_per_rep.csv", index=False)
+
+
 def log_mae(a, b):
     return float(np.mean(np.abs(np.asarray(a) - np.asarray(b))))
 
@@ -86,8 +136,7 @@ def median_bootstrap_ci(values, n_boot=10000, seed=0):
     across-lake MEAN; median-CI is retained only as a robustness sensitivity
     (post-hoc). See mean_bootstrap_ci for the primary inference.
     """
-    values = np.asarray(values, dtype=float)
-    values = values[~np.isnan(values)]
+    values = require_finite(values, "median bootstrap")
     rng = np.random.default_rng(seed)
     n = len(values)
     boot = np.array([np.median(values[rng.integers(0, n, size=n)]) for _ in range(n_boot)])
@@ -105,8 +154,7 @@ def mean_bootstrap_ci(values, n_boot=10000, seed=0):
     primary estimand -- switching to median-CI after seeing results would be
     the "choose the favorable statistic" trap this project has hit before.
     """
-    values = np.asarray(values, dtype=float)
-    values = values[~np.isnan(values)]
+    values = require_finite(values, "mean bootstrap")
     rng = np.random.default_rng(seed)
     n = len(values)
     boot = np.array([np.mean(values[rng.integers(0, n, size=n)]) for _ in range(n_boot)])
@@ -201,17 +249,22 @@ def run():
                     cal_skill = metrics.lake_demeaned_skill(y_qry, cal_pred_qry_orig)
 
                     frozen_row = frozen_cal.loc[(target_lake, learner_name, k, rep)]
-                    diffs = {
-                        "mae_log": abs(cal_mae_log - frozen_row["mae_log"]),
-                        "rer_log": abs(cal_rer_log - frozen_row["rer_log"]),
-                        "spearman": abs(cal_skill["spearman"] - frozen_row["demeaned_spearman"])
-                        if not np.isnan(cal_skill["spearman"]) else 0.0,
-                        "anomaly_r2": abs(cal_skill["anomaly_r2"] - frozen_row["anomaly_r2"])
-                        if not np.isnan(cal_skill["anomaly_r2"]) else 0.0,
+                    pairs = {
+                        "mae_log": (cal_mae_log, frozen_row["mae_log"]),
+                        "rer_log": (cal_rer_log, frozen_row["rer_log"]),
+                        "spearman": (cal_skill["spearman"], frozen_row["demeaned_spearman"]),
+                        "anomaly_r2": (cal_skill["anomaly_r2"], frozen_row["anomaly_r2"]),
                     }
-                    worst_metric = max(diffs, key=diffs.get)
-                    self_check_diffs.append(diffs[worst_metric])
-                    self_check_detail.append((target_lake, learner_name, k, rep, worst_metric, diffs[worst_metric]))
+                    checks = {name: metric_self_check(a, b, name)
+                              for name, (a, b) in pairs.items()}
+                    worst_metric = max(checks, key=lambda name:
+                                       checks[name][0] if np.isfinite(checks[name][0]) else np.inf)
+                    worst_diff = checks[worst_metric][0]
+                    self_check_diffs.append(worst_diff)
+                    self_check_detail.append((target_lake, learner_name, k, rep, worst_metric,
+                                              worst_diff, sum(not c[1] for c in checks.values()),
+                                              ";".join(f"{name}:{c[2]}" for name, c in checks.items()
+                                                       if c[2] != "finite")))
 
                     src_pred_qry_orig = baselines.safe_pow10(base_pred_qry_log)
                     src_skill = metrics.lake_demeaned_skill(y_qry, src_pred_qry_orig)
@@ -234,11 +287,9 @@ def run():
         print(f"  {target_lake}: done")
 
     per_rep = pd.DataFrame(rows)
-    per_rep.to_csv(RESULTS_DIR / "h3_paired_source_audit_nested_per_rep.csv", index=False)
-
     detail_df = pd.DataFrame(self_check_detail,
-                              columns=["lake", "learner", "k", "rep", "worst_metric", "diff_val"])
-    detail_df.to_csv(RESULTS_DIR / "h3_nested_self_check_detail.csv", index=False)
+                              columns=["lake", "learner", "k", "rep", "worst_metric", "diff_val",
+                                       "n_failed_metrics", "nonfinite_metrics"])
     max_diff = detail_df["diff_val"].max()
     over_tol_mask = detail_df["diff_val"] > SELF_CHECK_TOL
     n_over_tol = int(over_tol_mask.sum())
@@ -249,8 +300,9 @@ def run():
               f"{detail_df.loc[over_tol_mask, 'worst_metric'].value_counts().to_dict()}")
         print("  worst 5 rows:")
         print(detail_df.sort_values('diff_val', ascending=False).head(5).to_string(index=False))
-    print("  NOT hard-aborting -- saving results regardless so the failure mode can be "
-          "inspected; treat downstream numbers as provisional until this is resolved.\n")
+    print("  Original-space anomaly R2 additionally allows two floating-point steps; "
+          "non-finite pairs never pass.")
+    save_checked_per_rep(per_rep, detail_df)
 
     k1 = per_rep[per_rep.k == 1]
     print("=== k=1 identity check (log-space should be ~0 exactly; orig-space need not be) ===")
@@ -290,9 +342,14 @@ def compute_summary_from_per_lake(per_lake):
     for learner in ["PLSR", "XGBoost", "MLP"]:
         for k in [1, 3, 5, 10]:
             sub = per_lake[(per_lake.learner == learner) & (per_lake.k == k)]
+            if len(sub) != 24 or sub.lake.nunique() != 24 or sub.lake.isna().any():
+                raise ValueError(f"{learner}, k={k}: expected 24 distinct targets")
+            for col in ("source_spearman", "calibrated_spearman", "delta_spearman",
+                        "delta_anomaly_r2_logspace", "delta_anomaly_r2_origspace"):
+                require_finite(sub[col], f"{learner}, k={k}, {col}")
             n_pos = int((sub.delta_spearman > 1e-9).sum())
             n_neg = int((sub.delta_spearman < -1e-9).sum())
-            n_zero = 24 - n_pos - n_neg
+            n_zero = int((sub.delta_spearman.abs() <= 1e-9).sum())
             rho_arr = sub.delta_spearman.to_numpy()
             r2log_arr = sub.delta_anomaly_r2_logspace.to_numpy()
             r2orig_arr = sub.delta_anomaly_r2_origspace.to_numpy()

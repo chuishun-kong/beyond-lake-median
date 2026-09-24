@@ -1,0 +1,143 @@
+{
+  "source_url": "https://raw.githubusercontent.com/chuishun-kong/beyond-lake-median/main/experiments/capacity_boundary/results/capacity_boundary_summary_nested.csv",
+  "source_view_date": "2026-09-15",
+  "inputs_transcribed_from_rendered_raw_csv": true,
+  "inferential_unit": "24 exact-site target units",
+  "unchanged_primary": "per-target median RER, then equal-weight mean",
+  "new_analysis_status": "post hoc sensitivity, not a replacement primary",
+  "numpy_version": "2.3.5",
+  "results": {
+    "PLSR": {
+      "mean_RER_percent": 8.281294950708316,
+      "median_RER_percent": 11.946921526673728,
+      "primary_10000_seed0": {
+        "nominal_95": [
+          -2.4748216562761205,
+          16.930952249672497
+        ],
+        "bonferroni_98_333333": [
+          -5.313817330606839,
+          18.386126925009506
+        ]
+      },
+      "post_hoc_100000_seed0": {
+        "nominal_95": [
+          -2.4257350441889067,
+          16.82586854919574
+        ],
+        "bonferroni_98_333333": [
+          -5.261735549824911,
+          18.250116100515108
+        ]
+      },
+      "MC_check_seed1": {
+        "nominal_95": [
+          -2.4657219912925323,
+          16.814806325209783
+        ],
+        "bonferroni_98_333333": [
+          -5.10132155588706,
+          18.252645534874258
+        ]
+      },
+      "MC_check_seed2": {
+        "nominal_95": [
+          -2.4637285167013765,
+          16.921342809235604
+        ],
+        "bonferroni_98_333333": [
+          -5.208587937007712,
+          18.370542412813723
+        ]
+      }
+    },
+    "XGBoost": {
+      "mean_RER_percent": 14.707712289313053,
+      "median_RER_percent": 23.619579120682054,
+      "primary_10000_seed0": {
+        "nominal_95": [
+          0.7753603435142724,
+          25.84618743576668
+        ],
+        "bonferroni_98_333333": [
+          -2.84755320277286,
+          27.84402732272455
+        ]
+      },
+      "post_hoc_100000_seed0": {
+        "nominal_95": [
+          0.9939597338072406,
+          25.970926790715005
+        ],
+        "bonferroni_98_333333": [
+          -2.408652574266273,
+          27.8847047701261
+        ]
+      },
+      "MC_check_seed1": {
+        "nominal_95": [
+          0.8709635432817833,
+          25.98751455773925
+        ],
+        "bonferroni_98_333333": [
+          -2.6525120193404033,
+          27.822691236515713
+        ]
+      },
+      "MC_check_seed2": {
+        "nominal_95": [
+          0.979007047105579,
+          26.006060063624595
+        ],
+        "bonferroni_98_333333": [
+          -2.53098155919971,
+          27.899839181963856
+        ]
+      }
+    },
+    "MLP": {
+      "mean_RER_percent": 17.59216815048032,
+      "median_RER_percent": 25.728250803804585,
+      "primary_10000_seed0": {
+        "nominal_95": [
+          6.087221017651758,
+          27.049655699355238
+        ],
+        "bonferroni_98_333333": [
+          3.106832552065222,
+          28.69381896819771
+        ]
+      },
+      "post_hoc_100000_seed0": {
+        "nominal_95": [
+          6.395822803257736,
+          27.040341981600143
+        ],
+        "bonferroni_98_333333": [
+          3.535867138190161,
+          28.747356500124805
+        ]
+      },
+      "MC_check_seed1": {
+        "nominal_95": [
+          6.245131056746169,
+          27.10853940095378
+        ],
+        "bonferroni_98_333333": [
+          3.5091599986806696,
+          28.734173869597086
+        ]
+      },
+      "MC_check_seed2": {
+        "nominal_95": [
+          6.398814673675863,
+          27.039979914117595
+        ],
+        "bonferroni_98_333333": [
+          3.463738350276224,
+          28.76253886485538
+        ]
+      }
+    }
+  }
+}

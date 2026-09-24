@@ -54,6 +54,8 @@ The following commands use included results and do not require raw data:
 python experiments/h1_absolute_loss/render_supplementary_table.py
 python experiments/h2_common_query_evidence/render_supplementary_tables.py
 python experiments/ladder_statistics/run_ladder_statistics.py
+python experiments/h1_sensitivity/recompute_h1_sensitivity.py
+python experiments/capacity_boundary/validate_h3_archived.py
 python -m pytest tests/ -v
 ```
 
@@ -68,15 +70,21 @@ python experiments/active_selection/run_h2_true_nested.py
 On Linux or macOS, use `export PYTHONPATH=src` before the same Python commands.
 
 The included episode-level results support H1/H2 reaggregation and the
-matched-control ladder. H3 is included as a full-precision summary; recomputing
-its paired ordering effects requires raw spectra and model fitting. Repeating
+matched-control ladder. H3 includes the archived paired metrics, target summaries,
+and self-check record. The validation command checks finite values, complete
+100-draw/24-target coverage, and reproduces the summaries without fitting models.
+Reconstructing query predictions still requires raw spectra and model fitting. Repeating
 the Jasień identity sensitivity or the China stress test also requires raw data.
 
 Table S1 is included as a derived CSV, but its separately seeded historical
 bootstrap inputs are not bundled; its table-generation script is therefore
-not standalone. The final script and JSON outputs for the post hoc H1
-three-learner multiplicity sensitivity (Table S6E) are in the separate
-manuscript reproducibility handoff and are not included in this repository.
+not standalone. The post hoc H1 three-learner multiplicity sensitivity
+(Table S6E) is provided in [experiments/h1_sensitivity](experiments/h1_sensitivity/README.md),
+including its full-precision 72 target values, original script and JSON outputs,
+and NumPy 2.3.5 dependency pin. Its seed-0 outputs reproduce the manuscript;
+seed-1/2 checks retain the same directional classification. This three-learner
+sensitivity is separate from the ladder
+[analysis protocol](experiments/ladder_statistics/analysis_protocol.yaml).
 
 ## License
 

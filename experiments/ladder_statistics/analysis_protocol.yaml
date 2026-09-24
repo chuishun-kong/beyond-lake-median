@@ -1,0 +1,57 @@
+# Reader-facing transcription of the dated analysis protocol; exported 2026-09-24.
+# This export is not a preregistration or an independently timestamped deposit.
+protocol_id: ladder_statistics_v0.2
+original_created: 2026-09-05
+original_revision_and_execution: 2026-09-06
+analysis_status: secondary, post hoc relative to the primary H1-H3 study
+timing:
+  already_examined:
+    - Primary H1-H3 results and the earlier manuscript tables
+    - D14 episode-level means and its median-then-mean summary matching Table S6B
+    - Input structure and the algebraically reconstructed label-only losses
+  not_examined_before_specification:
+    - D24 and D34 at episode, target, or across-target level
+    - Source-to-offset and offset-to-affine diagnostic differences
+  family: D24 and D34 across three learners, specified before aggregating these new contrasts
+  original_study_preregistered: false
+inputs:
+  episode_losses: ../capacity_boundary/results/calibration_direction_ablation_nested_per_rep.csv
+  label_only_losses: ../capacity_boundary/results/m1_label_only_per_rep_algebraic.csv
+  label_only_reconstruction: B = (C + r * 1e-8) / (1 - r), with fractional RER r
+  independence: D14/S6B agreement shares the algebraic reconstruction; it is not independent query-level recomputation
+analysis:
+  budget: 5
+  learners: [PLSR, XGBoost, MLP]
+  targets: 24
+  draws_per_target: 100
+  episode_keys: [lake, learner, k, rep]
+  contrasts:
+    D14: label-only minus full log-MAE
+    D24: offset minus full log-MAE
+    D34: affine minus full log-MAE
+  diagnostics: [source minus offset, offset minus affine]
+  aggregation: paired episode difference, then within-target median, then equal-weight target mean
+  episode_rule: retain all episodes, no result-conditioned trimming
+  nonfinite_rule: count and report nonfinite differences before aggregation; do not impute
+  positive_effect: lower log-MAE for the second-named predictor
+uncertainty:
+  resampling_unit: exact-site target unit
+  conditioning: fitted models and the support-draw protocol, not retraining or provenance-cluster uncertainty
+  nominal:
+    comparisons: D14, D24, D34 across three learners
+    resamples: 10000
+    quantiles: [0.025, 0.975]
+    rng: fresh numpy default_rng(0) per cell
+  bonferroni:
+    family: D24, D34 across three learners (six intervals)
+    resamples: 100000
+    quantiles_rounded_in_original_protocol: [0.0041667, 0.9958333]
+    quantiles_as_implemented: [0.05/12, 1-0.05/12]
+    rng: fresh numpy default_rng(0) per cell
+    interpretation: approximate family-wise inference conditional on target-bootstrap assumptions
+  diagnostics: nominal intervals only, outside the six-interval family
+scope:
+  - The original protocol's proposed outcome-conditioned exclusion was removed in v0.2
+  - The k=10 extension was not executed in this analysis
+  - No new ranking endpoint or model fitting is part of this aggregation
+  - No equivalence or causal spectral-decomposition claim is implied
